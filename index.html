@@ -13,6 +13,7 @@ h1 {
 video
 {
     transform: scale(1,1);
+    
 }
 </style>
 </head>
@@ -20,11 +21,15 @@ video
 <h1> Sewing Basics </h1>
 <button id="right" ">Right Handed</button>
 <button id="left" ">Left Handed</button>
+<button id="slow" ">Slow Down</button>
+<button id="hurry" ">Hurry Up</button>
+
+
 
 
 <h2>Threading Needle</h2>
 <video autoplay loop id="threading" >
- <source src="threadingneedle.mp4" type="video/mp4">
+ <source src="threadingneedle.mp4" type="video/mp4" >
 </video>
 <p>
 Cut off any excess fuzz from end of thread so that thread doesn't get caught on anything. Push through eye of needle. 
@@ -45,16 +50,27 @@ Make a loop with thread ends closer to you and pull thread ends from back of loo
 
 
 <script type="text/javascript">
-    
+    threading.playbackRate = 0.25
 	right.onclick = function(){
          threading.style.transform = "scale(1,1)";
          knotting.style.transform = "scale(1,1)";
+       threading.playbackRate = 0.25;  
             
     }
 
     left.onclick = function(){
         threading.style.transform = "scale(-1,1)";
             knotting.style.transform = "scale(-1,1)";
+        
+    }
+     slow.onclick = function(){
+         threading.playbackRate = 0.25;
+         knotting.playbackRate = 0.25;   
+        
+    }
+     hurry.onclick = function(){
+         threading.playbackRate =1.75;
+          knotting.playbackRate =1.75;
         
     }
 </script>
