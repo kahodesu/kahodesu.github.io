@@ -1,0 +1,61 @@
+
+<head>
+
+<style>
+body {
+   
+}
+
+h1 {
+   
+    
+}
+video
+{
+    transform: scale(1,1);
+}
+</style>
+</head>
+<body>
+<h1> Sewing Basics </h1>
+<button id="right" ">Right Handed</button>
+<button id="left" ">Left Handed</button>
+
+
+<h2>Threading Needle</h2>
+<video autoplay loop id="threading" >
+ <source src="threadingneedle.mp4" type="video/mp4">
+</video>
+<p>
+Cut off any excess fuzz from end of thread so that thread doesn't get caught on anything. Push through eye of needle. 
+</p>
+
+<h2>Knotting Thread</h2>
+<video autoplay loop id="knotting" >
+ <source src="knotting.mp4" type="video/mp4">
+</video>
+<p>
+Make a loop with thread ends closer to you and pull thread ends from back of loop, towards you. 
+</p>
+
+
+
+</body>
+
+
+
+<script type="text/javascript">
+    
+	right.onclick = function(){
+         threading.style.transform = "scale(1,1)";
+         knotting.style.transform = "scale(1,1)";
+            
+    }
+
+    left.onclick = function(){
+        threading.style.transform = "scale(-1,1)";
+            knotting.style.transform = "scale(-1,1)";
+        
+    }
+</script>
+
