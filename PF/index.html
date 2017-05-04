@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+<head>
+<title>Playable Fashion: Sewing Basics</title>
+<link rel="stylesheet" type="text/css"
+href="https://fonts.googleapis.com/css?family=Roboto">
+<style>
+
+body {
+font-family: 'Roboto';
+margin-left: 50px;
+}
+p {
+font-size: 14px;
+margin:0 ;
+}
+
+h2 {  
+margin-top: 30px;
+background-color: #DCDCDC; 
+}
+
+h1 {  
+color: white;
+margin-top: 30px;
+background-color: #000000; 
+padding: 30px 15px;
+}
+
+video, img
+{
+transform: scale(1,1);
+transition: 1s;
+playbackRate = 1.0;  
+margin:0 ;
+}
+ figcaption {
+    display: block;
+}
+
+</style>
+</head>
+
+<body>
+<h1>* Playable Fashion: Sewing Basics *️</h1>
+
+<p>If you are right handed, stitch from right to left.<br>
+If you are left handed, stitch from left to right. </p>
+<br>
+<button id="left" ">Left Handed</button>
+<button id="right" ">Right Handed</button>
+<br>
+<br>
+<button id="slow" ">Slow Down</button>
+<button id="reset" ">Reset Speed</button>
+<button id="hurry" ">Hurry Up</button>
+
+<h2>1. Cut Thread</h2>
+<figure>
+<img src="cuttingthread.jpg" id="cutting">
+<figcaption>Cut about 2 feet of thread, which will be 1 foot long when needle is double threaded.</figcaption>
+</figure>
+
+<h2>2. Thread Needle</h2>
+<figure>
+<video autoplay loop id="threading" >
+<source src="threadingneedle.mp4" type="video/mp4" >
+</video>
+<figcaption>
+Cut off any excess fuzz from end of thread so that thread doesn't get caught on anything. Push through eye of needle. 
+</figcaption>
+</figure>
+
+<h2>3. Double Threading</h2>
+<figure>
+<img src="doublethread.jpg" id="doublethread">
+<figcaption>
+Pull thread through needle until both ends of the thread are even.
+</figcaption>
+</figure>
+
+
+<h2>4. Knot End of Thread</h2>
+<figure>
+<video autoplay loop id="knotting" >
+<source src="knotting.mp4" type="video/mp4">
+</video>
+<figcaption>
+Make a loop with thread ends closer to you and pull thread ends from back of loop, towards you. Repeat. When you make your first stitch, this knot should stop the thread from going all the way through the fabric.
+</figcaption>
+</figure>
+<h2>NOW YOU ARE READY TO START SEWING!</h2>
+<br>
+<h1>* SOME STITCHES *</h1>
+<button id="stitchleft" ">Left Handed</button>
+<button id="stitchright" ">Right Handed</button><br>
+<h2>Running Stitch (also called Basic Stitch, Straight Stitch)</h2>
+<figure>
+<img id="running" src="runningstitch.gif" >
+<figcaption>
+This is the basic sewing stitch. To make even stitches, follow the dotted line on the embroidery hoop. Conductive thread can become tangled easily, so make sure each stitch is even and not too loose or tight. This video is recommended for tips for sewing conductive thread. 
+</figcaption>
+</figure>
+figure>
+PUT IMAGE OF EDGE
+<figcaption>
+The conductive thread at the FLORA, neopixel, button tab or glove patch must be secure, or there will be a break in the circuit. It helps to sew 3 times at these points on the embroidery hoop. 
+</figcaption>
+</figure>
+
+<h2>Basting</h2>
+<figure>
+<img id="basting" src="bastingstitch.png" >
+<figcaption>
+This stitch is very loose and large, and doesn't even need a knot at either end. It is used to keep fabric together temporarily. 
+</figcaption>
+</figure>
+
+<h2>Slip Stitch</h2>
+<figure>
+<img id="slipstitch" src="slipstitch.gif" >
+<figcaption>
+This is a stitch used to stitch the fabric button cover down to the embroidery hoop. After using the fold of the cover as a pathway for the needle, the needle is then brought outside of the cover to stitch into the embroidery hoop fabric. Fold, and hoop, fold and hoop, fold and hoop, etc. is repeated to stitch the cover down. 
+</figcaption>
+</figure>
+ 
+</body>
+</html>
+
+
+<script type="text/javascript">
+
+right.onclick = function(){
+threading.style.transform = "scale(1,1)";
+knotting.style.transform = "scale(1,1)";
+doublethread.style.transform = "scale(1,1)";
+cutting.style.transform = "scale(1,1)";
+running.style.transform = "scale(1,1)";
+basting.style.transform = "scale(1,1)";
+slipstitch.style.transform = "scale(1,1)";
+
+
+}
+stitchright.onclick = function(){
+running.style.transform = "scale(1,1)";
+basting.style.transform = "scale(1,1)";
+slipstitch.style.transform = "scale(1,1)";
+threading.style.transform = "scale(1,1)";
+knotting.style.transform = "scale(1,1)";
+doublethread.style.transform = "scale(1,1)";
+cutting.style.transform = "scale(1,1)";
+}
+
+left.onclick = function(){
+threading.style.transform = "scale(-1,1)";
+knotting.style.transform = "scale(-1,1)";  
+cutting.style.transform = "scale(-1,1)"; 
+doublethread.style.transform = "scale(-1,1)"; 
+running.style.transform = "scale(-1,1)";  
+basting.style.transform = "scale(-1,1)";  
+slipstitch.style.transform = "scale(-1,1)"; 
+}
+stitchleft.onclick = function(){
+running.style.transform = "scale(-1,1)";  
+basting.style.transform = "scale(-1,1)";  
+slipstitch.style.transform = "scale(-1,1)"; 
+threading.style.transform = "scale(-1,1)";
+knotting.style.transform = "scale(-1,1)";  
+cutting.style.transform = "scale(-1,1)"; 
+doublethread.style.transform = "scale(-1,1)";  
+}
+slow.onclick = function(){
+threading.playbackRate = 0.25;
+knotting.playbackRate = 0.25;
+
+}
+
+hurry.onclick = function(){
+threading.playbackRate =2.0;
+knotting.playbackRate =2.0;
+
+}
+
+reset.onclick = function(){
+threading.playbackRate =1.0;
+knotting.playbackRate =1.0;
+
+}
+</script>
+
