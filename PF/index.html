@@ -90,6 +90,16 @@ Pull thread through needle until both ends of the thread are even.
 Make a loop with thread ends closer to you and pull thread ends from back of loop, towards you. Repeat. When you make your first stitch, this knot should stop the thread from going all the way through the fabric.
 </figcaption>
 </figure>
+
+<h2>5 Knotting End of Stitches</h2>
+<figure>
+<img id="knottingend" src="knottingend.gif" >
+</video>
+<figcaption>
+When you are done stitching, you can finish up by knotting the thread. You can use your finger like when you wrap a present, to hold the knot down against the fabric. Repeat if you need to make a bigger knot, and then cut excess when done.
+</figcaption>
+</figure>
+
 <h2>NOW YOU ARE READY TO START SEWING!</h2>
 <br>
 <h1>* SOME STITCHES *</h1>
@@ -99,11 +109,11 @@ Make a loop with thread ends closer to you and pull thread ends from back of loo
 <figure>
 <img id="running" src="runningstitch.gif" >
 <figcaption>
-This is the basic sewing stitch. To make even stitches, follow the dotted line on the embroidery hoop. Conductive thread can become tangled easily, so make sure each stitch is even and not too loose or tight. This video is recommended for tips for sewing conductive thread. 
+This is the basic sewing stitch. To make even stitches, follow the dotted line on the embroidery hoop. Conductive thread can become tangled easily, so make sure each stitch is even and not too loose or tight. <a href="https://learn.adafruit.com/conductive-thread/overview">This Adafruit video</a> is recommended for additional tips for sewing conductive thread. 
 </figcaption>
 </figure>
-figure>
-PUT IMAGE OF EDGE
+<figure>
+<img id="triple" src="triplestitch.png" >
 <figcaption>
 The conductive thread at the FLORA, neopixel, button tab or glove patch must be secure, or there will be a break in the circuit. It helps to sew 3 times at these points on the embroidery hoop. 
 </figcaption>
@@ -140,7 +150,6 @@ running.style.transform = "scale(1,1)";
 basting.style.transform = "scale(1,1)";
 slipstitch.style.transform = "scale(1,1)";
 
-
 }
 stitchright.onclick = function(){
 running.style.transform = "scale(1,1)";
@@ -161,6 +170,7 @@ running.style.transform = "scale(-1,1)";
 basting.style.transform = "scale(-1,1)";  
 slipstitch.style.transform = "scale(-1,1)"; 
 }
+
 stitchleft.onclick = function(){
 running.style.transform = "scale(-1,1)";  
 basting.style.transform = "scale(-1,1)";  
@@ -170,6 +180,7 @@ knotting.style.transform = "scale(-1,1)";
 cutting.style.transform = "scale(-1,1)"; 
 doublethread.style.transform = "scale(-1,1)";  
 }
+
 slow.onclick = function(){
 threading.playbackRate = 0.25;
 knotting.playbackRate = 0.25;
