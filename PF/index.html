@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <head>
 <title>Playable Fashion: Sewing Basics</title>
 <link rel="stylesheet" type="text/css"
@@ -16,15 +16,15 @@ font-size: 14px;
 margin:0 ;
 }
 
-h2 {  
+h2 {
 margin-top: 30px;
-background-color: #DCDCDC; 
+background-color: #DCDCDC;
 }
 
-h1 {  
+h1 {
 color: white;
 margin-top: 30px;
-background-color: #000000; 
+background-color: #000000;
 padding: 30px 15px;
 }
 
@@ -32,12 +32,14 @@ video, img
 {
 transform: scale(1,1);
 transition: 1s;
-playbackRate = 1.0;  
+playbackRate = 1.0;
 margin:0 ;
 }
  figcaption {
     display: block;
 }
+
+
 
 </style>
 </head>
@@ -68,7 +70,7 @@ If you are left handed, stitch from left to right. </p>
 <source src="threadingneedle.mp4" type="video/mp4" >
 </video>
 <figcaption>
-Cut off any excess fuzz from end of thread so that thread doesn't get caught on anything. Push through eye of needle. 
+Cut off any excess fuzz from end of thread so that thread doesn't get caught on anything. Push through eye of needle.
 </figcaption>
 </figure>
 
@@ -96,7 +98,7 @@ Make a loop with thread ends closer to you and pull thread ends from back of loo
 <img id="knottingend" src="knottingend.gif" >
 </video>
 <figcaption>
-When you are done stitching, you can finish up by knotting the thread. You can use your finger like when you wrap a present, to hold the knot down against the fabric. Repeat if you need to make a bigger knot, and then cut excess when done.
+When you are done stitching, you can finish up by knotting the thread on the underside of the embroidery hoop. You can use your finger like when you wrap a present, to hold the knot down against the fabric. Repeat if you need to make a bigger knot, and then cut excess when done.
 </figcaption>
 </figure>
 
@@ -109,13 +111,13 @@ When you are done stitching, you can finish up by knotting the thread. You can u
 <figure>
 <img id="running" src="runningstitch.gif" >
 <figcaption>
-This is the basic sewing stitch. To make even stitches, follow the dotted line on the embroidery hoop. Conductive thread can become tangled easily, so make sure each stitch is even and not too loose or tight. <a href="https://learn.adafruit.com/conductive-thread/overview">This Adafruit video</a> is recommended for additional tips for sewing conductive thread. 
-</figcaption>
+This is the basic sewing stitch. To make even stitches, follow the dotted line on the embroidery hoop. Conductive thread can become tangled easily, so make sure each stitch is even and not too loose or tight. <a href="https://learn.adafruit.com/conductive-thread/overview">This Adafruit video</a> is recommended for additional tips for sewing conductive thread. <br>
+<strong style="color: red;">VERY IMPORTANT: WHEN SEWING WITH CONDUCTIVE THREAD, MAKE SURE THE STITCHES AND THREAD DON'T CROSS WITH EACH OTHER!!!! IF YOU DO, THEN IT WILL SHORT CIRCUIT, AND THE FLORA WILL AUTOMATICALLY SHUT DOWN. TAPE DOWN THREADS ON UNDERSIDE OF HOOP WITH CLEAR TAPE TO KEEP FROM TOUCHING. </strong>!</figcaption>
 </figure>
 <figure>
 <img id="triple" src="triplestitch.png" >
 <figcaption>
-The conductive thread at the FLORA, neopixel, button tab or glove patch must be secure, or there will be a break in the circuit. It helps to sew 3 times at these points on the embroidery hoop. 
+The conductive thread at the FLORA, neopixel, button tab or glove patch must be secure, or there will be a break in the circuit. It helps to sew 3 times at these points on the embroidery hoop.
 </figcaption>
 </figure>
 
@@ -123,7 +125,7 @@ The conductive thread at the FLORA, neopixel, button tab or glove patch must be 
 <figure>
 <img id="basting" src="bastingstitch.png" >
 <figcaption>
-This stitch is very loose and large, and doesn't even need a knot at either end. It is used to keep fabric together temporarily. 
+This stitch is very loose and large, and doesn't even need a knot at either end. It is used to keep fabric together temporarily.
 </figcaption>
 </figure>
 
@@ -131,10 +133,10 @@ This stitch is very loose and large, and doesn't even need a knot at either end.
 <figure>
 <img id="slipstitch" src="slipstitch.gif" >
 <figcaption>
-This is a stitch used to stitch the fabric button cover down to the embroidery hoop. After using the fold of the cover as a pathway for the needle, the needle is then brought outside of the cover to stitch into the embroidery hoop fabric. Fold, and hoop, fold and hoop, fold and hoop, etc. is repeated to stitch the cover down. 
+This is a stitch used to stitch the fabric button cover down to the embroidery hoop. After using the fold of the cover as a pathway for the needle, the needle is then brought outside of the cover to stitch into the embroidery hoop fabric. Fold, and hoop, fold and hoop, fold and hoop, etc. is repeated to stitch the cover down.
 </figcaption>
 </figure>
- 
+
 </body>
 </html>
 
@@ -149,6 +151,7 @@ cutting.style.transform = "scale(1,1)";
 running.style.transform = "scale(1,1)";
 basting.style.transform = "scale(1,1)";
 slipstitch.style.transform = "scale(1,1)";
+knottingend.style.transform = "scale(1,1)";
 
 }
 stitchright.onclick = function(){
@@ -159,26 +162,29 @@ threading.style.transform = "scale(1,1)";
 knotting.style.transform = "scale(1,1)";
 doublethread.style.transform = "scale(1,1)";
 cutting.style.transform = "scale(1,1)";
+knottingend.style.transform = "scale(1,1)";
 }
 
 left.onclick = function(){
 threading.style.transform = "scale(-1,1)";
-knotting.style.transform = "scale(-1,1)";  
-cutting.style.transform = "scale(-1,1)"; 
-doublethread.style.transform = "scale(-1,1)"; 
-running.style.transform = "scale(-1,1)";  
-basting.style.transform = "scale(-1,1)";  
-slipstitch.style.transform = "scale(-1,1)"; 
+knotting.style.transform = "scale(-1,1)";
+cutting.style.transform = "scale(-1,1)";
+doublethread.style.transform = "scale(-1,1)";
+running.style.transform = "scale(-1,1)";
+basting.style.transform = "scale(-1,1)";
+slipstitch.style.transform = "scale(-1,1)";
+knottingend.style.transform = "scale(-1,1)";
 }
 
 stitchleft.onclick = function(){
-running.style.transform = "scale(-1,1)";  
-basting.style.transform = "scale(-1,1)";  
-slipstitch.style.transform = "scale(-1,1)"; 
+running.style.transform = "scale(-1,1)";
+basting.style.transform = "scale(-1,1)";
+slipstitch.style.transform = "scale(-1,1)";
 threading.style.transform = "scale(-1,1)";
-knotting.style.transform = "scale(-1,1)";  
-cutting.style.transform = "scale(-1,1)"; 
-doublethread.style.transform = "scale(-1,1)";  
+knotting.style.transform = "scale(-1,1)";
+cutting.style.transform = "scale(-1,1)";
+doublethread.style.transform = "scale(-1,1)";
+knottingend.style.transform = "scale(-1,1)";
 }
 
 slow.onclick = function(){
