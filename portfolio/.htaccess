@@ -1,0 +1,120 @@
+# Redirect Query String
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=costumes-as-game-controllers
+	RewriteRule (.*) /portfolio/hotaru? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=shake-it-up
+	RewriteRule (.*) /portfolio/shake-it-up? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=costumes-as-game-controllers
+RewriteRule (.*) /portfolio/hotaru? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=shake-it-up
+RewriteRule (.*) /portfolio/shake-it-up? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=dont-wake-the-bear
+RewriteRule (.*) /portfolio/dont-wake-the-bear? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=mad-fun-show-with-keita-takahashi-babycatles
+RewriteRule (.*) /portfolio/mad-fun-show? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=hit-me
+RewriteRule (.*) /portfolio/hit-me? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=ninja-shadow-warrior
+RewriteRule (.*) /portfolio/ninja-shadow-warrior? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=beyond-the-joystick
+RewriteRule (.*) /education? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=mary-mack-5000
+RewriteRule (.*) /portfolio/mary-mack-5000? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=casual-encounters
+RewriteRule (.*) /portfolio/casual-encouters? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=monthly-playtesting
+RewriteRule (.*) /education? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=potato-orchestra
+RewriteRule (.*) /education? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=ticket-machine
+RewriteRule (.*) /portfolio? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=discreet-interfaces
+RewriteRule (.*) /portfolio/discreet-interfaces? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=the-sleeve-station
+RewriteRule (.*) /portfolio/sleeve-station? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=oh-shit-2
+RewriteRule (.*) /portfolio/oh-shit? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=haptic-music-glove
+RewriteRule (.*) /portfolio/haptic-music-gloves? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=circle-of-friends
+RewriteRule (.*) /portfolio/circle-of-friends? [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{QUERY_STRING} portfolio=the-devastator
+RewriteRule (.*) /portfolio/the-devastator? [R=301,L]
+</IfModule>

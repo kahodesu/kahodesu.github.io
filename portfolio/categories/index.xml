@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kaho Abe 阿部香穂</title>
+    <link>http://kahoabe.net/categories/</link>
+    <description>Recent content in Categories on Kaho Abe 阿部香穂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2013 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://kahoabe.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arcade Game</title>
+      <link>http://kahoabe.net/categories/arcade-game/</link>
+      <pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/categories/arcade-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Browser Based Game</title>
+      <link>http://kahoabe.net/categories/browser-based-game/</link>
+      <pubDate>Tue, 05 Oct 2004 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/categories/browser-based-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Party Game</title>
+      <link>http://kahoabe.net/categories/party-game/</link>
+      <pubDate>Wed, 05 Oct 2011 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/categories/party-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puzzle Game</title>
+      <link>http://kahoabe.net/categories/puzzle-game/</link>
+      <pubDate>Fri, 05 Oct 2012 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/categories/puzzle-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Game</title>
+      <link>http://kahoabe.net/categories/social-game/</link>
+      <pubDate>Fri, 05 Oct 2012 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/categories/social-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound</title>
+      <link>http://kahoabe.net/categories/sound/</link>
+      <pubDate>Wed, 05 Oct 2005 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/categories/sound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work in Progress</title>
+      <link>http://kahoabe.net/categories/work-in-progress/</link>
+      <pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/categories/work-in-progress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
