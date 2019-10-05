@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kaho Abe 阿部香穂</title>
-    <link>http://kahoabe.net/</link>
-    <description>Recent content on Kaho Abe 阿部香穂</description>
+    <title>Portfolio on Kaho Abe 阿部香穂</title>
+    <link>http://kahoabe.net/portfolio/</link>
+    <description>Recent content in Portfolio on Kaho Abe 阿部香穂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 20:23:59 +0530</lastBuildDate>
     
-	<atom:link href="http://kahoabe.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kahoabe.net/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -170,6 +170,16 @@ Gallery     Family of naked mice. NSFW.
       <guid>http://kahoabe.net/portfolio/discreet-interfaces/</guid>
       <description>Photo by Kate Kunath, taken at the 2005 MIT Seamless Fashion Show.
    Summary It is often taken for granted that our clothing serves a crucial connection to the world around us. Our clothing is rich in subtle messages; about who we are, who we want to be, and our roles in society. Discreet Interfaces enables the wearer to carry and utilize the technology without compromising any of these messages.</description>
+    </item>
+    
+    <item>
+      <title>BallAR</title>
+      <link>http://kahoabe.net/portfolio/ballar/</link>
+      <pubDate>Thu, 05 Sep 2019 18:25:22 +0530</pubDate>
+      
+      <guid>http://kahoabe.net/portfolio/ballar/</guid>
+      <description>Title screen.
+   Summary Ramsey and I were invited to participate in the Google AR Core Game Jam that took place in September of 2019 in Los Angeles. We made a multiplayer AR tennis type game where the room becomes a ball court. First the player must scan the room, and then enter each players names. Then the game begins! Each player&amp;rsquo;s name is called, and must take turns hitting the virtual ball.</description>
     </item>
     
     <item>
@@ -336,34 +346,6 @@ A circle of friends is formed, the moderator decides on a theme, and then all th
       <guid>http://kahoabe.net/portfolio/fashion-design/</guid>
       <description>Boned and corseted sleeveless wedding dress that I designed and constructed in 2005.
    Summary Prior to 2010, I was a fashion designer for 14 years. I&amp;rsquo;ve worked in women&amp;rsquo;s, men&amp;rsquo;s and children&amp;rsquo;s wear, for global labels to smaller couture labels. I&amp;rsquo;ve also made many dresses for special occasions &amp;ndash; wedding and evening dresses. I specialized in custom corseted strapless dresses with boning. And while I haven&amp;rsquo;t done any fashion design recently, I&amp;rsquo;ve found ways of incorporating aspects of it into my games in the form of wearable game controllers.</description>
-    </item>
-    
-    <item>
-      <title>New Website</title>
-      <link>http://kahoabe.net/blog/2018-02-121-new-wesbite/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://kahoabe.net/blog/2018-02-121-new-wesbite/</guid>
-      <description>The significance of each item on the border.
-                              I&amp;rsquo;ve finally finished my new website! I&amp;rsquo;d be lying if I said that building this website has been easy for me. I&amp;rsquo;ve spent about a year trying out new tools, restarting, re-designing over and over again.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://kahoabe.net/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kahoabe.net/about/</guid>
-      <description>“If going vroom makes the car go forward, maybe saying vroom, backwards would make it back up. Moorv.” -- Beverly Cleary, Ralph S. Mouse Short Bio Kaho Abe is a game designer and media artist based in NYC interested in improving social and personal experiences through the use of technology, fashion and games. She designs games and builds custom controllers with the hope to bring people together in new ways, face to face, in public spaces.</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>http://kahoabe.net/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://kahoabe.net/education/</guid>
-      <description>&#34;Play is often talked about as if it were a relief from serious learning. But for children play is serious learning.&#34; -- Mister Rogers Teaching Artist Teaching is synonymous to sharing my practice as an artist. Consequently all my teaching content is based on the tools and the methods that I use to make art. My goal is to explore self-expression, encourage curiosity and to help find the clarity and enjoyment in the act of creating and building what is imagined.</description>
     </item>
     
   </channel>
