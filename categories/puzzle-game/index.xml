@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzle Game on Kaho Abe 阿部香穂</title>
+    <link>https://kahoabe.net/categories/puzzle-game/</link>
+    <description>Recent content in Puzzle Game on Kaho Abe 阿部香穂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Oct 2012 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://kahoabe.net/categories/puzzle-game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Cupcake Machine</title>
+      <link>https://kahoabe.net/portfolio/cupcake-truck/</link>
+      <pubDate>Fri, 05 Oct 2012 18:25:22 +0530</pubDate>
+      
+      <guid>https://kahoabe.net/portfolio/cupcake-truck/</guid>
+      <description>Photo by Ida Benedetto.
+   Summary The Cupcake Machine is a playful experience combining audience participation, performance, puzzles and cupcakes encased neatly in an unmarked truck.
+The Cupcake Machine is an glorious old cupcake making machine, which is first presented to the unsuspecting audience members on a tour hosted by an enthusiastic Cupcake Machine representative. But the tour eventually goes terribly awry when the machine breaks down.</description>
+    </item>
+    
+  </channel>
+</rss>

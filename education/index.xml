@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Kaho Abe 阿部香穂</title>
+    <link>https://kahoabe.net/education/</link>
+    <description>Recent content in Education on Kaho Abe 阿部香穂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kahoabe.net/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education</title>
+      <link>https://kahoabe.net/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kahoabe.net/education/</guid>
+      <description>&#34;Play is often talked about as if it were a relief from serious learning. But for children play is serious learning.&#34; -- Mister Rogers Teaching Artist Teaching is synonymous to sharing my practice as an artist. Consequently all my teaching content is based on the tools and the methods that I use to make art. My goal is to explore self-expression, encourage curiosity and to help find the clarity and enjoyment in the act of creating and building what is imagined.</description>
+    </item>
+    
+  </channel>
+</rss>

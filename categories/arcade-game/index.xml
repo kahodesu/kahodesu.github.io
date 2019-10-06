@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arcade Game on Kaho Abe 阿部香穂</title>
+    <link>https://kahoabe.net/categories/arcade-game/</link>
+    <description>Recent content in Arcade Game on Kaho Abe 阿部香穂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2019 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://kahoabe.net/categories/arcade-game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BallAR</title>
+      <link>https://kahoabe.net/portfolio/ballar/</link>
+      <pubDate>Thu, 05 Sep 2019 18:25:22 +0530</pubDate>
+      
+      <guid>https://kahoabe.net/portfolio/ballar/</guid>
+      <description>Title screen.
+   Summary Ramsey and I were invited to participate in the Google AR Core Game Jam that took place in September of 2019 in Los Angeles. We made a multiplayer AR tennis type game where the room becomes a ball court. First the player must scan the room, and then enter each players names. Then the game begins! Each player&amp;rsquo;s name is called, and must take turns hitting the virtual ball.</description>
+    </item>
+    
+    <item>
+      <title>Bunny Blur</title>
+      <link>https://kahoabe.net/portfolio/bunny-blur/</link>
+      <pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate>
+      
+      <guid>https://kahoabe.net/portfolio/bunny-blur/</guid>
+      <description>Initial sketch.
+   Summary In the world of cut throat bunny street racing, where do you stand?
+Bunny Blur is a work-in-progress stand alone car racing arcade game. I am experimenting with storytelling through the custom dashboard and the arcade cabinet itself. The game is influenced heavily by personal experience playing 80&amp;rsquo;s racing arcade games, goofy retro cartoons, and the Fast and Furious franchise. The intent here is to make a fun and engaging racing game that plays with the line between physical and digital experiences.</description>
+    </item>
+    
+  </channel>
+</rss>

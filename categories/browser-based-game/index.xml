@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Browser Based Game on Kaho Abe 阿部香穂</title>
+    <link>https://kahoabe.net/categories/browser-based-game/</link>
+    <description>Recent content in Browser Based Game on Kaho Abe 阿部香穂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2004 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="https://kahoabe.net/categories/browser-based-game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Circle of Friends</title>
+      <link>https://kahoabe.net/portfolio/circle-of-friends/</link>
+      <pubDate>Tue, 05 Oct 2004 18:25:22 +0530</pubDate>
+      
+      <guid>https://kahoabe.net/portfolio/circle-of-friends/</guid>
+      <description>User flow-chart.
+   Summary Circle of Friends is a pre-facebook, online social photo sharing game made with PHP and MySQL.
+A circle of friends is formed, the moderator decides on a theme, and then all the members of the circle must post a photo in order to make the round of photos available. If any of the members do not post a photo, the circle will “die” and the photos never become visible.</description>
+    </item>
+    
+  </channel>
+</rss>
