@@ -90,7 +90,7 @@
 		
 
 
-
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box" style="max-width:500">
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img">
@@ -116,7 +116,7 @@
 <div class="gallery caption-position-bottom caption-effect-slide hover-effect-grow hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
 	  
 
-<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+
 <div class="box" >
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img" style="background-image: url('https://kahoabe.net//img/portfolio/mecha-mouse/IMG_6541.JPG');">
@@ -737,7 +737,6 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
                 loop: true,
                 margin: 10,
 				responsiveClass: true,
-				 lazyLoad:true,
 				autoHeight:true,
                 responsive: {
                   0: {
@@ -760,6 +759,11 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
           </script>
 
 <script>
+$(window).load(function() {
+     
+     $('.owl-carousel').owlCarousel()
+})
+
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip(); 
 });

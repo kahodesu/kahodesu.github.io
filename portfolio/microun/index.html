@@ -90,7 +90,7 @@
 		
 
 
-
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box" >
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img">
@@ -119,7 +119,7 @@
 </ul>
 
 <p>
-<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+
 <div class="box" style="max-width:auto">
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img">
@@ -380,7 +380,6 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
                 loop: true,
                 margin: 10,
 				responsiveClass: true,
-				 lazyLoad:true,
 				autoHeight:true,
                 responsive: {
                   0: {
@@ -403,6 +402,11 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
           </script>
 
 <script>
+$(window).load(function() {
+     
+     $('.owl-carousel').owlCarousel()
+})
+
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip(); 
 });

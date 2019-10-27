@@ -543,7 +543,6 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
                 loop: true,
                 margin: 10,
 				responsiveClass: true,
-				 lazyLoad:true,
 				autoHeight:true,
                 responsive: {
                   0: {
@@ -566,6 +565,11 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
           </script>
 
 <script>
+$(window).load(function() {
+     
+     $('.owl-carousel').owlCarousel()
+})
+
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip(); 
 });
