@@ -90,7 +90,7 @@
 		
 
 
-<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+
 <div class="box" style="max-width:auto">
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img">
@@ -122,7 +122,7 @@
 <div class="gallery caption-position-bottom caption-effect-slide hover-effect-grow hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
 	  
 
-
+<link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box" >
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img" style="background-image: url('https://kahoabe.net//img/portfolio/robotsinthesky/robotsinthesky.jpg');">
@@ -437,9 +437,12 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
  </script>
  
 <script>
-            $(document).ready(function() { 
+          $(window).load(function() {
+          
 
               $('.owl-carousel').owlCarousel({
+				items: 12,
+				loadLoad: true,
 				nav: false,
                 loop: true,
                 margin: 10,
@@ -466,11 +469,10 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
           </script>
 
 <script>
-$(window).load(function() {
-     
-     $('.owl-carousel').owlCarousel()
-})
 
+ 
+ </script>
+<script>
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip(); 
 });

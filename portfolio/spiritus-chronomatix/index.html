@@ -287,9 +287,12 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
  </script>
  
 <script>
-            $(document).ready(function() { 
+          $(window).load(function() {
+          
 
               $('.owl-carousel').owlCarousel({
+				items: 12,
+				loadLoad: true,
 				nav: false,
                 loop: true,
                 margin: 10,
@@ -316,11 +319,10 @@ This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href
           </script>
 
 <script>
-$(window).load(function() {
-     
-     $('.owl-carousel').owlCarousel()
-})
 
+ 
+ </script>
+<script>
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip(); 
 });
