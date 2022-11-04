@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
-	<meta name="generator" content="Hugo 0.31" />
+	<meta name="generator" content="Hugo 0.78.1" />
 	
 	<meta name="description" content=Kaho&#32;Abe&#39;s&#32;website.&#32;阿部香穂のホームページ。>
 	<meta name="author" content=Kaho&#32;Abe>
@@ -88,8 +88,6 @@
 		
 		<div class="post-content">
 		
-
-
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box" >
   <figure class="img-responsive" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
@@ -103,42 +101,24 @@
   </figure>
 </div>
 
-
 <h3 id="summary">Summary</h3>
-
 <p>Hotaru is a 2-person cooperative task-based game, where the players play the role of the last remaining lightning bugs in a fantastical world, in their last stand against an invisible enemy. One player creates lightning, accumulating it in a tank, through gestures. Once the tank is full, then transfers the lightning to the other player by holding hands. The other player, collecting the lightning in their gauntlet, can then shoot the lightning. The game is ultimately about playing a role, and the movement of the body &ndash; poses and gestures &ndash; and about cooperation.</p>
-
 <h3 id="costumes-as-game-controllers">Costumes as Game Controllers</h3>
-
 <p>Often times in video games, we play the game through the avatar on our screen, and the relationship between us and the avatar can be a powerful one. But when the player dresses up as the avatar, it can allow the player to play the role of the avatar. And when we embed the costumes with sensors that track the player&rsquo;s movements, then the player can also act and move like the avatar. Additionally, from the spectator&rsquo;s point of view, the game becomes a performance, and we can say the players the the performers.</p>
-
-<p><iframe src="https://player.vimeo.com/video/141234735" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/141234735">HOTARU at Eyebeam Making Patterns Show (2015)</a> from <a href="https://vimeo.com/kahoabe">Kaho A</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
-
+<!-- raw HTML omitted -->
 <h3 id="iterations">Iterations</h3>
-
 <p>This game has gone through many iterations, which has been both a challenging and at times an incredibly frustrating experience. I foolishly added too many moving parts to the original idea, but at the end, the game was simplified. It is now in a place where I feel satisfied about it in its intended form. But I think it&rsquo;s important to point out the various forms it has taken and the technologies that were tested and used throughout the experience.</p>
-
 <p>The first iteration included a large projection dome and a laser tracking system for aiming and shooting from the gauntlet. I learned a tremendous amount from building and showing the dome in terms of spectacle and focus, which is documented here. But at the end, I realized that instead of the dome defining the perimeter of the game space, its large and glowy existence took away from focus on the costumes. The computer vision and laser system, also created more technical layers that were unnecessary. I then returned to my original concept to create a shooting game about holding hands, and reimagined the game about physical poses and interactions between the players.</p>
-
 <p>As the concept was simplified, so was the hardware. I experimented using Android phones in conjunction with the IOIO board, making Android apps for each costume. While using the phones and taking advantage of their functionalities, including wireless communication and embedded sensors like accelerometers, the x-OSC board simplified the tech for the costumes greatly. x-OSC board had built in sensors and wireless communications, but since it sends and receives data consistently, I only had to write one game app that was on my laptop, instead of 3 with the former configuration.</p>
-
 <p>The original version used white LED&rsquo;s soldered into series, but the latest iteration uses Neopixels, individually addressable RGB LED&rsquo;s. When I got rid of the dome, there was no longer a screen or monitor to show data to the players. But with Neopixels, I believe that I can create visuals that are just as communicative. It allowed me to experiment with various visual patterns and colors to express that state of the game.</p>
-
-<h3 id="collaborations-support">Collaborations &amp; Support</h3>
-
+<h3 id="collaborations--support">Collaborations &amp; Support</h3>
 <p>Jack Langerman assisted with the projection mapping on the dome as well as the computer vision laser system in the original iteration. I also worked with Katherine Isbister in her HCI research using Hotaru.</p>
-
 <p>This project has been supported by: Eyebeam Computational Fashion Fellowship 2012 and the NYU Game Innovation Lab.</p>
-
-<h3 id="honors-awards">Honors/Awards</h3>
-
+<h3 id="honorsawards">Honors/Awards</h3>
 <ul>
 <li>2015 Indiecade Official Selection [<a href="http://www.indiecade.com/2015/games">site</a>]</li>
 </ul>
-
-<h3 id="exhibitions-demos">Exhibitions/Demos</h3>
-
+<h3 id="exhibitionsdemos">Exhibitions/Demos</h3>
 <ul>
 <li>2016 Incubate Festival in Tillberg, Netherlands curated by Zuraida Buther [<a href="http://www.zo-ii.com/event/incubate-arcade-2016/">site</a>]</li>
 <li>2016 Indiecade East Showcase: Strange Arcade at the Museum of the Moving Image, NYC [<a href="http://www.movingimage.us/exhibitions/2016/04/29/detail/indiecade-east-2016-game-showcase-strange-arcade-2/">site</a>]</li>
@@ -148,18 +128,14 @@
 <li>2015 Making Patterns show at Eyebeam, NYC, curated by Erica Kermani [<a href="http://www.eyebeam.org/events/making-patterns/">site</a>]</li>
 <li>2014 Playpublik in Krakow, Poland, curated by Invisible Playground [<a href="http://www.playpublik.pl/admin/events/hotaru-the-lightning-bug-game?locale=en">site</a>]</li>
 </ul>
-
 <h3 id="publications">Publications</h3>
-
 <ul>
 <li>September 9, 2015, Hyperallergic, &ldquo;Wearable Tech that Fits Like a Glove&rdquo;
 [<a href="https://www.newscientist.com/article/dn27987-making-patterns-getting-intimate-with-technology/">site</a>]</li>
 <li>August 2, 2015, New Scientist, &ldquo;Making Patterns: getting intimate with technology&rdquo;
 [<a href="https://www.newscientist.com/article/dn27987-making-patterns-getting-intimate-with-technology/">site</a>]</li>
 </ul>
-
 <h3 id="gallery">Gallery</h3>
-
 <p>
 
 
@@ -635,7 +611,7 @@
 <BR>
 This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href = "https://gohugo.io/">Hugo</a> and was made with a lotta love and frustration <i class="fa fa-heart" aria-hidden="true"></i>
 ...Although, probably with way more love than frustration. <br>
- See <a href = "http://localhost:1313/blog/2018-02-121-new-wesbite/">this blog entry</a> for more info.
+ See <a href = "http://kahoabe.net/blog/2018-02-121-new-wesbite/">this blog entry</a> for more info.
   
 </div>
 

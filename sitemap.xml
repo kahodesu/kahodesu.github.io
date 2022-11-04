@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -168,97 +168,75 @@
   </url>
   
   <url>
-    <loc>https://kahoabe.net/blog/2018-02-121-new-wesbite/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://kahoabe.net/categories/arcade-game/</loc>
     <lastmod>2019-09-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/blog/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/categories/browser-based-game/</loc>
-    <lastmod>2004-10-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kahoabe.net/categories/</loc>
     <lastmod>2019-09-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/education/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/education/</loc>
   </url>
   
   <url>
     <loc>https://kahoabe.net/</loc>
-    <lastmod>2018-01-01T20:23:59+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/categories/party-game/</loc>
-    <lastmod>2011-10-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-09-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://kahoabe.net/portfolio/</loc>
-    <lastmod>2018-01-01T20:23:59+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/categories/puzzle-game/</loc>
-    <lastmod>2012-10-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/categories/social-game/</loc>
-    <lastmod>2012-10-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/categories/sound/</loc>
-    <lastmod>2005-10-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kahoabe.net/tags/</loc>
-    <priority>0</priority>
+    <lastmod>2019-09-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://kahoabe.net/categories/work-in-progress/</loc>
     <lastmod>2019-09-05T18:25:22+05:30</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/blog/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/blog/2018-02-121-new-wesbite/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/categories/puzzle-game/</loc>
+    <lastmod>2012-10-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/categories/social-game/</loc>
+    <lastmod>2012-10-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/categories/party-game/</loc>
+    <lastmod>2011-10-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/categories/sound/</loc>
+    <lastmod>2005-10-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/categories/browser-based-game/</loc>
+    <lastmod>2004-10-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/education/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kahoabe.net/tags/</loc>
   </url>
   
 </urlset>

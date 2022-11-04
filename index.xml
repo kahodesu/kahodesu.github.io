@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaho Abe 阿部香穂</title>
@@ -6,11 +6,7 @@
     <description>Recent content on Kaho Abe 阿部香穂</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 20:23:59 +0530</lastBuildDate>
-    
-	<atom:link href="https://kahoabe.net/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 05 Sep 2019 18:25:22 +0530</lastBuildDate><atom:link href="https://kahoabe.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frankenstein AI</title>
       <link>https://kahoabe.net/portfolio/frankenstein-ai/</link>
@@ -37,8 +33,7 @@
       <pubDate>Mon, 05 Nov 2012 20:23:59 +0530</pubDate>
       
       <guid>https://kahoabe.net/portfolio/ninja-shadow-warrior/</guid>
-      <description>Ninja Shadow Warrior from Kaho A on Vimeo.
-Summary Ninja Shadow Warrior is a stand alone photo booth arcade game using the Kinect camera, computer and a hacked closet light button built into a custom game cabinet. The palace is under attack and the player must use his/her ninja magic to hide by “becoming” objects. The player must fill out the silhouette of a randomly chosen object from the ninja palace as accurately as possible.</description>
+      <description>Summary Ninja Shadow Warrior is a stand alone photo booth arcade game using the Kinect camera, computer and a hacked closet light button built into a custom game cabinet. The palace is under attack and the player must use his/her ninja magic to hide by “becoming” objects. The player must fill out the silhouette of a randomly chosen object from the ninja palace as accurately as possible. The game encourages face-to-face cooperative interaction through strategy, rather than rules, as multiple ninjas can fill out object silhouettes more accurately and thus achieve a higher score.</description>
     </item>
     
     <item>
@@ -47,9 +42,7 @@ Summary Ninja Shadow Warrior is a stand alone photo booth arcade game using the 
       <pubDate>Wed, 05 Oct 2011 18:25:22 +0530</pubDate>
       
       <guid>https://kahoabe.net/portfolio/hit-me/</guid>
-      <description>Hit Me! (2011) from Kaho A on Vimeo.
-Summary Hit Me! is a two-player hyper-interactive, physical game that tests speed, agility and the ability to take good snapshots. Utilizing wireless technology and incorporating the concept of the metagame, Hit Me! encourages face-to-face real-world interactions, not only by the players but also by the spectators.
-The object of the game is to hit the opponent’s button on top of the head.</description>
+      <description>The object of the game is to hit the opponent’s button on top of the head. Once a hit is made, the hitter’s camera takes a snapshot of the victim. The hitter receives a point for the hit, and up to 2 additional points can be awarded by the Judge based on the quality of the snapshot. The snapshots, points and times are projected on a wall for spectators to observe.</description>
     </item>
     
     <item>
@@ -58,9 +51,8 @@ The object of the game is to hit the opponent’s button on top of the head.</de
       <pubDate>Fri, 05 Nov 2010 19:56:17 +0530</pubDate>
       
       <guid>https://kahoabe.net/portfolio/mary-mack-5000/</guid>
-      <description>Mary Mack 5000: Everyone can play it! from Kaho A on Vimeo.
-Summary Mary Mack 5000 is a fast-paced, competitive, technologically enhanced twist on the classic schoolyard hand clapping game. Strap on your special MM5000 gloves and show off your speed, accuracy, and style! This is a collaborative project made with Lina Fenequito, with music from Ray Mancini and Sergey Popovich.
-These days, most games are played on computers and consoles, often alone or with people online.</description>
+      <description>Summary Mary Mack 5000 is a fast-paced, competitive, technologically enhanced twist on the classic schoolyard hand clapping game. Strap on your special MM5000 gloves and show off your speed, accuracy, and style! This is a collaborative project made with Lina Fenequito, with music from Ray Mancini and Sergey Popovich.
+These days, most games are played on computers and consoles, often alone or with people online. Mary Mack 5000 is an event game designed to encourage face-to-face interaction between the players.</description>
     </item>
     
     <item>
@@ -80,7 +72,8 @@ These days, most games are played on computers and consoles, often alone or with
       
       <guid>https://kahoabe.net/portfolio/spiritus-chronomatix/</guid>
       <description>Summary Narrative-based augmented reality puzzle game using the Google Tango as a tool to travel through time, and to see into the ghost world. There is an angry spirit in the room, turning on lights, making sounds, and setting off the Reliever contraption.
-  Support Sam Sadtler worked on the wireless communications between the objects. This project was supported by NYU Game Innovation Lab and NYU Tisch Experiments in Storytelling.</description>
+Support Sam Sadtler worked on the wireless communications between the objects. This project was supported by NYU Game Innovation Lab and NYU Tisch Experiments in Storytelling.
+Gallery Coming soon.</description>
     </item>
     
     <item>
@@ -315,7 +308,7 @@ More Information  Rules and Objectives [pdf]  Gallery     I am sorry the theme i
       
       <guid>https://kahoabe.net/portfolio/digitial-euthanasia/</guid>
       <description>Summary Digital Euthanasia is a 30 second science fiction radio play about the first cat to be digitally euthanized. Made with voice recordings, composed music and Pro Tools.
- Voice of Cat Owner: Daniel London Voice of Cat: Sammy</description>
+ Voice of Cat Owner: Daniel London Voice of Cat: Sammy  </description>
     </item>
     
     <item>
@@ -364,7 +357,7 @@ A circle of friends is formed, the moderator decides on a theme, and then all th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kahoabe.net/about/</guid>
-      <description>“If going vroom makes the car go forward, maybe saying vroom, backwards would make it back up. Moorv.” -- Beverly Cleary, Ralph S. Mouse Short Bio Kaho Abe is a game designer and media artist based in NYC interested in improving social and personal experiences through the use of technology, fashion and games. She designs games and builds custom controllers with the hope to bring people together in new ways, face to face, in public spaces.</description>
+      <description>Bio Kaho Abe is an award winning Media Artist and Game Designer from NYC, currently residing in Tokyo, Japan. She uses technology to create novel playful experiences for the physical world, with the hope of creating opportunities for people to connect with each other, face to face. Kaho builds custom game controllers and interfaces by embedding switches, sensors and other electrical components into objects and wearables. Her games have been shown at various museums, art galleries and festivals, including the Victoria and Albert Museum in London, the Museum of the Moving Image in New York City, the Game Developer&amp;rsquo;s Conference in San Francisco, Come Out and Play Festival in NYC, and Make.</description>
     </item>
     
     <item>
@@ -373,7 +366,8 @@ A circle of friends is formed, the moderator decides on a theme, and then all th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kahoabe.net/education/</guid>
-      <description>&#34;Play is often talked about as if it were a relief from serious learning. But for children play is serious learning.&#34; -- Mister Rogers Teaching Artist Teaching is synonymous to sharing my practice as an artist. Consequently all my teaching content is based on the tools and the methods that I use to make art. My goal is to explore self-expression, encourage curiosity and to help find the clarity and enjoyment in the act of creating and building what is imagined.</description>
+      <description>Teaching Artist As a Teaching Artist, I share various aspects of my multi-disciplinary artistic practice &amp;ndash; game design, interaction design, programming, circuit building, and fabrication &amp;ndash; in both formal and informal learning spaces. Playfulness is an important element in class and in the work, as play encourages engagement, experimentation and exploration without fear.
+From 2012 to 2018, I taught two multi-disciplinary graduate classes based on alternative game controllers at the NYU Tandon School of Engineering&amp;rsquo;s Game Innovation Lab: &amp;ldquo;Beyond the Joystick&amp;rdquo; and &amp;ldquo;Costumes as Game Controllers.</description>
     </item>
     
   </channel>

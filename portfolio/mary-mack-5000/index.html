@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
-	<meta name="generator" content="Hugo 0.31" />
+	<meta name="generator" content="Hugo 0.78.1" />
 	
 	<meta name="description" content=Kaho&#32;Abe&#39;s&#32;website.&#32;阿部香穂のホームページ。>
 	<meta name="author" content=Kaho&#32;Abe>
@@ -87,33 +87,20 @@
 		</div>
 		
 		<div class="post-content">
-		
-
-<p><iframe src="https://player.vimeo.com/video/21707873" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<BR><a href="https://vimeo.com/21707873">Mary Mack 5000: Everyone can play it!</a> from <a href="https://vimeo.com/kahoabe">Kaho A</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+		<!-- raw HTML omitted -->
 <h3 id="summary">Summary</h3>
-
 <p>Mary Mack 5000 is a fast-paced, competitive, technologically enhanced twist on the classic schoolyard hand clapping game. Strap on your special MM5000 gloves and show off your speed, accuracy, and style! This is a collaborative project made with Lina Fenequito, with music from Ray Mancini and Sergey Popovich.</p>
-
 <p>These days, most games are played on computers and consoles, often alone or with people online. Mary Mack 5000 is an event game designed to encourage face-to-face interaction between the players. With the use of gloves with conductive contact sensors, a vest with additional contact sensors, the Arduino, Flash, laptop and projector, we hope that people will be able to enjoy themselves both by playing as well as by watching the game.</p>
-
 <p>We have reintroduced what is a little girl’s game that challenges rhythm, speed and timing, as a hyper, metal-rocker game. No, it is not just your little sister’s game anymore!</p>
-
 <h3 id="the-game">The Game</h3>
-
 <p>One team plays at a time, and each team consists of 2 players facing each other clapping. There are 3 songs, 1 song per level, which become increasingly more challenging when cleared. The score is based on the accuracy and the timing of the claps using conductive contact sensors on gloves with additional sensors for the shoulders and thighs on a vest. Once a level is finished, a score will be presented with the opportunity to move on to the next level if the score is good enough.</p>
-
 <ul>
 <li>Level 1 Song: Lemonade</li>
 <li>Level 2 Song: Miss Mary Mack</li>
 <li>Level 3 Song: See See My Playmate</li>
 </ul>
-
 <h3 id="technology">Technology</h3>
-
 <p>Mary Mack 5000 consists of 4 gloves with conductive pads, each with an unique voltage ID. For example, Player 1’s right hand glove is about 1V, left hand 2V, Player 2’s right hand 3V and left hand 4V.* Each glove at a time takes a turn switching extremely fast between sending its unique voltage ID and reading voltage, then sending the voltage ID again. When contact is made, the Arduino microcontroller knows immediately which glove came in contact with which glove or pad. The Arduino cleans up the information and sends it to the Flash software on the computer. Flash then parses the message and compares it to a master XML sheet with a list of timestamps and correct clapping combos. Meanwhile Flash is also playing the music and presenting the correct claps as visual aid. Finally, calculating in some error, Flash then tallies a score. Game information is conveniently projected on a wall, for both players and spectators to watch. The Arduino microcontroller code for MM5000 has been released to the public and can be found <a href="http://github.com/kabegit/mm5000">here</a>.</p>
-
 
 <link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
 <div class="box" >
@@ -128,34 +115,24 @@
   </figure>
 </div>
 
-
 <h3 id="support">Support</h3>
-
 <p>Music by Ray Mancini and Sergey Popovich. Allison Schlegel assisted in fabrication of wooden console box and ornamentation of vests. Supported by Eyebeam Art &amp; Technology Center.</p>
-
-<h3 id="exhibitions-demos">Exhibitions/Demos</h3>
-
+<h3 id="exhibitionsdemos">Exhibitions/Demos</h3>
 <ul>
 <li>2011: Babycastles Presents: DADAMACHINIMA at Devotion Gallery, Brooklyn, NY [<a href="http://www.areyoudevoted.com/exhibitions/month/january-2011">site</a>]</li>
 <li>2010: Eyebeam Holiday Mixer, New York, NY [<a href="http://eyebeam.org/events/holiday-mixer">site</a>]</li>
 <li>2010: Hide and Seek Weekender Festival, London, England [<a href="http://www.hideandseek.net/2010/05/17/hideseek-weekender/">site</a>]</li>
 <li>2010: Come Out and Play Festival, Brooklyn, NY [<a href="http://www.comeoutandplay.org/2010_marymack.php">site</a>]</li>
 </ul>
-
 <h3 id="publications">Publications</h3>
-
 <ul>
 <li>2011: Kill Screen Magazine, Issue #3: Intimacy [article] [<a href="http://shop.killscreendaily.com/products/issue-3-intimacy">magazine</a>]</li>
 </ul>
-
 <h3 id="more-information">More Information</h3>
-
 <ul>
 <li>Project site [<a href="http://marymack5000.com/">site</a>]</li>
 </ul>
-
 <h3 id="gallery">Gallery</h3>
-
 <p>
 
 
@@ -624,7 +601,7 @@
 <BR>
 This website uses <a href = "https://getbootstrap.com">Bootstrap</a> and <a href = "https://gohugo.io/">Hugo</a> and was made with a lotta love and frustration <i class="fa fa-heart" aria-hidden="true"></i>
 ...Although, probably with way more love than frustration. <br>
- See <a href = "http://localhost:1313/blog/2018-02-121-new-wesbite/">this blog entry</a> for more info.
+ See <a href = "http://kahoabe.net/blog/2018-02-121-new-wesbite/">this blog entry</a> for more info.
   
 </div>
 
