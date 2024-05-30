@@ -5,30 +5,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mobile Screenshots Toggler</title>
   <style>
-    body, html {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      overflow: hidden;
-    }
-
     .screenshot-container {
       position: relative;
       width: 100%;
-      height: 100%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+      max-width: 400px;
+      margin: 0 auto;
     }
 
     .screenshot {
       display: none;
-      max-width: 100%;
-      max-height: 100%;
     }
 
     .screenshot.active {
       display: block;
+    }
+
+    .screenshot img {
+      max-width: 100%;
+      height: auto;
     }
 
     .toggle-btn {
