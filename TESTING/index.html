@@ -23,17 +23,12 @@
 
     .screenshot {
       display: none;
-      max-width: 400px;
-      max-height: 80vh;
+      max-width: 100%;
+      max-height: 100%;
     }
 
     .screenshot.active {
       display: block;
-    }
-
-    .screenshot img {
-      max-width: 100%;
-      max-height: 100%;
     }
 
     .toggle-btn {
@@ -44,7 +39,7 @@
   </style>
 </head>
 <body>
-   <div class="screenshot-container">
+  <div class="screenshot-container">
     <div class="screenshot active">
       <img src="Artboard1.png" alt="Screenshot 1">
     </div>
@@ -76,21 +71,6 @@
       // Show the next screenshot
       screenshots[currentIndex].classList.add('active');
     });
-
-    // Request full-screen mode
-    function requestFullscreen() {
-      const elem = document.documentElement;
-      if (elem.requestFullscreen) {
-        elem.requestFullscreen();
-      } else if (elem.webkitRequestFullscreen) { /* Safari */
-        elem.webkitRequestFullscreen();
-      } else if (elem.msRequestFullscreen) { /* IE11 */
-        elem.msRequestFullscreen();
-      }
-    }
-
-    // Call the requestFullscreen function on page load
-    window.addEventListener('load', requestFullscreen);
   </script>
 </body>
 </html>
