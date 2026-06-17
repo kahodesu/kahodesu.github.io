@@ -1,0 +1,47 @@
++++
+draft = false
+image = "/safersex/safersexshuffle2.png"
+date = "2014-11-05T20:23:59+05:30"
+title = "Safer Sex Shuffle"
+weight = 11
+description = "A casual browser-based game to promote awareness about safer sex practices targeting youth."
+projecttype = "Group project with collaborator Ramsey Nasser."
+
+# Gallery resources with captions
+resources = [
+  { src = "game-screen.png", title = "Game Screen" },
+  { src = "instructions-1.png", title = "Instructions 1" },
+  { src = "instructions-2.png", title = "Instructions 2" },
+  { src = "instructions-3.png", title = "Instructions 3" },
+  { src = "instructions-screen-1.png", title = "Instructions Screen 1" },
+  { src = "instructions-screen-2.png", title = "Instructions Screen 2" },
+  { src = "pregnancy.png", title = "Pregnancy" },
+  { src = "safersexshuffle.png", title = "Safersexshuffle" },
+  { src = "safersexshuffle2.png", title = "Safersexshuffle2" },
+  { src = "start-screen.png", title = "Start Screen" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/safersex/safersexshuffle2.png" caption="Jimmy holding a stop sign, and also some zany characters from the game." >}}
+
+
+### Summary
+
+Safer Sex Shuffle is a casual browser-based puzzle game where the player must make tile combos in order to progress in the game, racking up points. The tiles consist of body part tiles (butts, mouths, hands, penises and vaginas) and barrier tiles (dental dams and condoms). In order to make a combo, the player must select body part tiles with the correct barrier in between if needed. Once a combo is made the tiles disappear, new ones appear and shift down. The objective is to get the highest number of points before the clock runs out. 
+
+If an incorrect combo is made, the tiles used will freeze, creating an obstacle for the rest of the game. Upon completion of the game, links to information about the correct use of barriers will appear. 
+
+The game is intended to make safer sex education less hetro-normative, as it does not make any assumptions about what sexual orientation or gender the player maybe. The game may even bring up sex practices that the player has never considered, thus allowing the player to be aware, even in spontaneous situations. The game also includes different kinds of body parts with varying characteristics. 
+
+Safer Sex Shuffle was the winner at the G4C13 Sex Etc Game Design Competition. The game prototype was later then built with Answer, a progressive, tech-savvy organization that provides and promotes sexual awareness to young people on their website Sex Etc. 
+
+### More Information
+
+-	 2013 Games for Change presentation [[site](http://www.gamesforchange.org/learn/g4c13-sex-etc-game-design-competition-results/)]
+
+### Gallery
+
+{{< gallery >}}
+

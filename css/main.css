@@ -1,0 +1,1132 @@
+/**********************/ 
+/* BASIC STUFF       **/ 
+/**********************/
+
+/* Consistent spacing system - 2025 standard */
+:root {
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  
+  --content-width: 1000px;       /* Main content max width */
+  --content-narrow: 720px;       /* 60% of content width - for menu */
+  --content-slim: 520px;       /* 60% of content width - for menu */
+  --content-icons: 1080px;       /* 90% of content width */
+}
+
+/* Base font size scales - 2025 WCAG 2.2 standards */
+html {
+    overflow-y: scroll;
+    font-size: 14px; /* Mobile base */
+}
+
+@media (min-width: 768px) {
+  html { font-size: 16px; } /* Tablet */
+}
+
+@media (min-width: 1200px) {
+  html { font-size: 17px; } /* Desktop */
+}
+
+@media (min-width: 1920px) {
+  html { font-size: 18px; } /* Large screens */
+}
+
+body {
+  overflow-x: hidden; 
+  background-attachment: fixed;
+  background-image: url(/img/border1.png), url(/img/border1.png);
+  background-position: left top, right top;
+  background-repeat: repeat-y, repeat-y;
+  padding: 0 var(--space-sm);
+  background-color: black;
+  text-rendering: optimizeLegibility;
+  color: white;
+}
+
+/* Background image sizing for different screen sizes */
+@media (max-width: 767px) {
+  body { background-size: 9%, 9%; }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  body { background-size: 5%, 5%; }
+}
+
+@media (min-width: 1200px) and (max-width: 2559px) {
+  body { background-size: 4%, 4%; }
+}
+
+@media (min-width: 2560px) {
+  body { background-size: 3%, 3%; }
+}
+
+/* Ensure all main content is white text */
+main {
+  color: white;
+}
+
+/* Ensure all content text uses the same font */
+main p,
+main ul,
+main ol,
+main li,
+main blockquote,
+main div {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 200;
+  color: white;
+}
+
+/* Headings with proper hierarchy - 2025 WCAG standards */
+/* H1: 32-40px range recommended for accessibility and visual hierarchy */
+h1 {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 2rem; /* 32px at 16px base, scales to 40px at 20px base */
+  line-height: 1.2;
+  color: white;
+  width: 90%;
+  max-width: var(--content-width);
+  margin: var(--space-xl) auto var(--space-md);
+  padding: 0;
+}
+
+/* H2: 24-32px range for clear hierarchy */
+h2 {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem; /* 24px at 16px base, scales to 30px at 20px base */
+  line-height: 1.3;
+  color: white;
+  width: 90%;
+  max-width: var(--content-width);
+  margin: var(--space-lg) auto var(--space-xs);
+  padding: 0;
+}
+
+/* Project type / collaborators */
+.project-type {
+  width: 90%;
+  max-width: var(--content-width);
+  margin: 0 auto var(--space-md);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #999;
+}
+
+/* H3: 18-24px range */
+h3 {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 1.25rem; /* 20px at 16px base, scales to 25px at 20px base */
+  line-height: 1.4;
+  color: white;
+  width: 90%;
+  max-width: var(--content-width);
+  margin: var(--space-md) auto var(--space-xs);
+  padding: 0;
+}
+
+/* H4: Slightly smaller than H3 */
+h4 {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 1.125rem; /* 18px at 16px base, scales to ~22px at 20px base */
+  line-height: 1.4;
+  color: white;
+  width: 90%;
+  max-width: var(--content-width);
+  margin: var(--space-md) auto var(--space-xs);
+  padding: 0;
+}
+
+/* Section headings within content should also match */
+main h1, main h2, main h3, main h4 {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  color: white;
+}
+
+/* Lists match content width */
+ul, ol {
+  color: white;
+  width: 90%;
+  max-width: var(--content-width);
+  margin: 0 auto var(--space-md);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 200;
+  padding-left: var(--space-lg);
+  line-height: 1.6; /* WCAG 2.2 minimum */
+}
+
+li {
+  color: white;
+  line-height: 1.6; /* WCAG 2.2 minimum for readability */
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 200;
+  margin-bottom: var(--space-xs);
+}
+
+/* Body text with improved line height - 2025 WCAG standards */
+p {
+  width: 90%;
+  max-width: var(--content-width);
+  margin: 0 auto var(--space-md);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 200;
+  color: white;
+  font-size: 1rem; /* Scales with html base size */
+  line-height: 1.6; /* WCAG 2.2 minimum, optimal for readability */
+}
+
+/* Global link styles */
+a {
+  color: #00BFBF;
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #00FFFF;
+}
+
+/* Links within paragraphs */
+p a {
+  font-weight: 400;
+}
+
+/* Centered embedded media (iframes, videos) */
+.embed-center {
+  display: block;
+  width: 70%;
+  max-width: var(--content-width);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  text-align: center;
+}
+
+.embed-center iframe,
+.embed-center video {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Style text directly under headings */
+main h3 + p,
+main h3 + ul,
+main h3 + ol {
+  width: 90%;
+  max-width: var(--content-width);
+  margin: 0 auto var(--space-lg);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 200;
+}
+
+/* Mobile adjustments - 2025 standards */
+@media (max-width: 768px) {
+  p, ul, ol, h1, h2, h3, h4 {
+    width: 90%;
+  }
+  
+  /* Mobile headings - proportionally smaller but still clear hierarchy */
+  h1 { 
+    font-size: 1.75rem; /* ~28px - mobile optimized */
+    line-height: 1.2;
+    margin: var(--space-lg) auto var(--space-sm);
+  }
+  h2 { 
+    font-size: 1.375rem; /* ~22px */
+    line-height: 1.3;
+    margin: var(--space-md) auto var(--space-xs);
+  }
+  h3 { 
+    font-size: 1.125rem; /* ~18px */
+    line-height: 1.4;
+  }
+  h4 { 
+    font-size: 1rem; /* ~16px */
+    line-height: 1.4;
+  }
+}
+
+/**********************/ 
+/* COOL QUOTE        **/ 
+/**********************/
+.cool-quote {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400; /* Medium weight */
+  font-style: italic;
+  color: white;
+  text-align: center;
+  margin: 0 auto var(--space-lg);
+  width: 40%;
+  max-width: var(--content-narrow);
+  font-size: 1.0rem;
+  line-height: 1.6;
+}
+
+.cool-quote i {
+  display: block;
+  margin-bottom: var(--space-xs);
+}
+
+.quote-author {
+  display: block;
+  font-style: normal; /* Author not italic */
+  text-align: right;
+  margin-top: var(--space-xs);
+  padding-right: 10%; /* Offset from right edge */
+}
+/**************************/
+/* JAPANESE NOTICE       **/
+/**************************/
+.jp-notice {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.85rem;
+  margin-bottom: var(--space-md);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Responsive font size */
+@media (max-width: 768px) {
+  .cool-quote {
+    font-size: 0.9rem;
+    width: 85%;
+  }
+}
+/**********************/
+/* PORTFOLIO NOTE    **/
+/**********************/
+.portfolio-note-b {
+  text-align: center;
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  margin: var(--space-md) auto var(--space-xs);
+  max-width: var(--content-narrow);
+}
+.portfolio-note-b a { color: rgba(255, 255, 255, 0.7); }
+
+/**********************/
+/* HEADER            **/
+/**********************/
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: var(--space-lg) auto var(--space-lg);
+}
+
+header img {
+  max-width: var(--content-width); /* 1200px max, same as text */
+  width: 75%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  header img {
+    width: 90%;
+    padding: 0 var(--space-sm);
+  }
+  
+  header {
+    margin: var(--space-sm) auto var(--space-sm);
+  }
+}
+
+/**********************/ 
+/* MENU              **/ 
+/**********************/
+
+.menu {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+  list-style-type: none;
+  width: 90%;
+  max-width: var(--content-slim); /* slim of content width */
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  gap: var(--space-lg);
+}
+
+.menu-item {
+  text-align: center;
+  font-weight: 500;
+  font-size: 1.3rem;
+}
+
+.menu-item a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column; /* Stack vertically on desktop */
+  align-items: center; /* Center both text and icon */
+  transition: color 0.3s ease;
+}
+
+/* Active state - cyan color */
+.menu-item .active {
+  color: #00BFBF;
+}
+
+.menu-item a:hover,
+.menu-item a:focus {
+  color: #FF0000;
+}
+
+@media (max-width: 768px) {
+  .menu {
+    flex-direction: column;
+    width: 90%;
+    padding: 0 0 var(--space-xs);
+    max-width: var(--content-width);
+    margin: 0 auto;
+    gap: 0;
+  }
+
+  .menu-item {
+    text-align: center;
+  }
+
+  .menu-item a {
+    display: inline-flex;
+    flex-direction: row-reverse; /* Reverses order: icon comes first */
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-xs);
+    padding: 0;
+  } 
+   
+  .menu-item a.active {
+    padding: 0 var(--space-lg) 0 0;
+  }
+}
+/**********************/ 
+/* FOOTER            **/ 
+/**********************/
+
+.footer {
+  font-size: 0.875rem;
+  font-weight: 300;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  margin: 0 auto 0;
+  max-width: var(--content-narrow); /* 60% of content width */
+  color: #999;
+  text-align: center;
+  line-height: 1.4;
+  padding: var(--space-xs) 0;
+}
+
+.footer p {
+  margin: 0 0 var(--space-sm) 0;
+  width: 100%;
+  max-width: none; /* Override global p styling */
+}
+
+.footer p:last-child {
+  margin-bottom: 0;
+}
+
+.footer img {
+  vertical-align: middle;
+  margin-right: var(--space-xs);
+}
+
+.footer a {
+  color: #00BFBF;
+  transition: color 0.2s ease;
+}
+
+.footer a:hover {
+   color: #00FFFF;
+}
+
+hr {
+  max-width: 75%;
+  height: 1px;
+  border: 0;
+  background: #808080;
+  margin: var(--space-xs) auto;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    font-size: 0.8rem;
+    padding: var(--space-sm) var(--space-sm);
+  }
+}
+
+/**********************/ 
+/* GALLERY           **/ 
+/**********************/
+
+/* Gallery matches content width */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-sm);
+    margin: var(--space-lg) auto;
+    width: 90%;
+    max-width: var(--content-width);
+}
+
+.gallery figure {
+    position: relative;
+    height: 250px;
+    margin: 0;
+    overflow: hidden;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery figure img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+/* Zoom effect on hover */
+.gallery figure:hover img {
+    transform: scale(1.05);
+}
+
+.gallery figure a {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+}
+
+/* Hide captions in grid view */
+.gallery figcaption {
+  display: none;
+}
+
+/* Video thumbnail with play icon */
+.gallery .video-thumbnail {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gallery .video-thumbnail video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.gallery .video-thumbnail .play-icon {
+  position: absolute;
+  font-size: 3rem;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease;
+}
+
+.gallery .video-thumbnail:hover .play-icon {
+  transform: scale(1.1);
+}
+
+/* Lightbox overlay */
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.95);
+    align-items: center;
+    justify-content: center;
+}
+
+.lightbox:target {
+    display: flex;
+}
+
+.lightbox-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    text-align: center;
+}
+
+.lightbox-content img,
+.lightbox-content video {
+    max-width: 100%;
+    max-height: 85vh;
+    object-fit: contain;
+    display: block;
+}
+
+/* Caption in lightbox - VISIBLE */
+.lightbox-caption {
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    font-style: normal;
+    color: white;
+    margin-top: var(--space-sm);
+    font-size: 1rem;
+    line-height: 1.6;
+    background: rgba(0, 0, 0, 0.8);
+    padding: var(--space-sm) var(--space-md);
+    border-radius: 4px;
+    font-weight: 300;
+}
+
+/* Close button for lightbox */
+.lightbox-close {
+    position: absolute;
+    top: var(--space-sm);
+    right: var(--space-sm);
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    text-decoration: none;
+    z-index: 10000;
+    line-height: 1;
+    padding: var(--space-xs);
+    transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.lightbox-close:hover {
+    color: #00BFBF;
+    transform: scale(1.1);
+}
+
+/* Lightbox navigation buttons */
+.lightbox-prev,
+.lightbox-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+    text-decoration: none;
+    padding: var(--space-sm) var(--space-md);
+    z-index: 10001;
+    user-select: none;
+    transition: color 0.3s ease, background 0.3s ease;
+    line-height: 1;
+}
+
+.lightbox-prev {
+    left: var(--space-sm);
+}
+
+.lightbox-next {
+    right: var(--space-sm);
+}
+
+.lightbox-prev:hover,
+.lightbox-next:hover {
+    color: #00BFBF;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+}
+
+/* Video support in gallery */
+.gallery video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Responsive gallery */
+@media (max-width: 1199px) {
+  .gallery {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .gallery {
+    grid-template-columns: 1fr;
+    width: 90%;
+  }
+
+  /* Smaller navigation on mobile */
+  .lightbox-prev,
+  .lightbox-next {
+    font-size: 2.5rem;
+    padding: var(--space-xs) var(--space-sm);
+  }
+
+  .lightbox-close {
+    font-size: 2.5rem;
+  }
+}
+
+/**********************/ 
+/* MASONRY/WORK      **/ 
+/**********************/
+
+/* Chronological order list at top of portfolio */
+.chrono-order {
+  width: 90%;
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding-top: var(--space-lg);
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #00BFBF;
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.chrono-order a {
+  color: white;
+  text-decoration: none;
+  font-weight: 200;
+  transition: background-color 0.3s ease;
+  padding: 0 var(--space-xs);
+}
+
+.chrono-order a:hover {
+  background-color: #888;
+}
+
+@media (max-width: 768px) {
+  .chrono-order {
+    line-height: 1.2;
+    padding-top: var(--space-xs);
+    text-align: center; /* Change from justify to left on mobile */
+  }
+  
+  .chrono-order a {
+    padding: 0 0.25rem; /* Reduce padding between links */
+  }
+}
+
+/* Masonry grid layout for portfolio thumbnails */
+.masonry {
+  columns: 4;
+  column-gap: 0;
+  width: 90%;
+  max-width: var(--content-width);
+  margin: var(--space-xl) auto;
+  padding: 0;
+}
+
+.masonry-item {
+  position: relative;
+  overflow: hidden;
+  break-inside: avoid;
+  margin: 0;
+  padding: 0;
+}
+
+.masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Responsive column count */
+@media (max-width: 1199px) {
+  .masonry { columns: 3; }
+}
+
+@media (max-width: 767px) {
+  .masonry { columns: 2; }
+}
+
+@media (max-width: 600px) {
+  .masonry {
+    columns: 1;
+    width: 90%;
+  }
+}
+/* Hover overlay for masonry items */
+.overlay {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  background-color: #cbcbcb;
+}
+
+.masonry-item:hover .overlay {
+  opacity: 0.9;
+}
+
+/* Text inside overlay */
+.overlay-text {
+  color: black;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.1;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: var(--space-md);
+  box-sizing: border-box;
+}
+
+.overlay-title {
+  color: black;
+  font-weight: 500;
+  font-size: 1.2rem;
+  margin-bottom: var(--space-xs);
+}
+
+/**********************/ 
+/*   FIGURE STUFF    **/ 
+/**********************/
+
+/* Hero figure - centered, 70% width (matches embed-center) */
+figure.figure-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  max-width: calc(var(--content-width) * 0.7);
+  margin: var(--space-lg) auto;
+  padding: 0;
+}
+
+figure.figure-center img,
+figure.figure-center video {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: contain;
+}
+
+figure.figure-center figcaption {
+  width: 100%;
+  text-align: center;
+  margin-top: var(--space-xs);
+  font-style: italic;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: #ccc;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+}
+
+/* Wrapped images - 40% width (from image-left/image-right shortcodes) */
+figure.image-wrap {
+  width: 40%;
+  max-width: calc(var(--content-width) * 0.4);
+  margin: 0;
+  padding: 0;
+}
+
+figure.image-wrap img {
+  width: 100%;
+  height: auto;
+}
+
+figure.image-wrap.image-left {
+  float: left;
+  margin: 0 var(--space-md) var(--space-md) 0;
+}
+
+figure.image-wrap.image-right {
+  float: right;
+  margin: 0 0 var(--space-md) var(--space-md);
+}
+
+/* Clearfix */
+figure.image-wrap::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  figure.figure-center,
+  figure.image-wrap {
+    width: 90%;
+    float: none;
+    margin: var(--space-md) auto;
+  }
+}
+
+/* Video embed container - responsive 16:9 aspect ratio */
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+/**********************/ 
+/* SOCIAL BUTTONS    **/ 
+/**********************/
+
+.social {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-md) var(--space-lg); /* Added horizontal padding */
+  margin: 0 auto var(--space-lg);
+  list-style-type: none;
+  max-width: 960px;
+  transform: scale(1.35); /* Reduced from 1.35 */
+  transform-origin: center top;
+}
+
+@media (max-width: 1199px) {
+  .social {
+    width: 85%; /* Reduced from 90% to give more margin from borders */
+    max-width: var(--content-width);
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--space-xs);
+    padding: var(--space-sm) var(--space-md); /* Horizontal padding on smaller screens */
+    margin-bottom: var(--space-xl);
+    transform: scale(1.1); /* Scale down even more on smaller screens */
+  }
+}
+
+.social a {
+  text-decoration: none;
+  transition: transform 0.2s ease;
+}
+
+.social a:hover {
+  transform: scale(1.1);
+}
+
+/* Shake animation on hover */
+.social-btn:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+}
+
+@keyframes shake {
+  10%, 90% { transform: translate3d(-1px, 0, 0); }  
+  20%, 80% { transform: translate3d(3px, 0, 0); }
+  30%, 50%, 70% { transform: translate3d(-5px, 0, 0); }
+  40%, 60% { transform: translate3d(4px, 0, 0); }
+}
+
+/* Tooltip for social buttons */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 0.75rem;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  text-align: center;
+  border-radius: 6px;
+  padding: var(--space-xs) var(--space-sm);
+  position: absolute;
+  z-index: 1;
+  bottom: 65%;
+  left: 50%;
+  transform: translateX(-50%) scale(0.6);
+  white-space: nowrap;
+  font-size: 0.875rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.9) transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .social {
+    width: 85%;
+  }
+}
+
+/**********************/ 
+/* BLOG LIST PAGE    **/ 
+/**********************/
+
+/* Blog post list container - LIST PAGE ONLY */
+.blog {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  margin: var(--space-xl) auto;
+}
+
+/* Individual blog post card - LIST PAGE ONLY */
+.blog-post {
+  width: 90%;
+  max-width: var(--content-width);
+  font-weight: 300;
+  font-size: 1rem;
+  color: white;
+  line-height: 1.6;
+  margin-bottom: var(--space-sm);
+  padding: var(--space-lg);
+  background-color: rgb(28, 28, 28);
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Blog card hover effect - LIST PAGE ONLY */
+.blog-post:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 191, 191, 0.2);
+}
+
+/* Links inside blog cards - LIST PAGE ONLY */
+.blog-post a {
+  color: #00BFBF;
+  text-decoration: none;
+  font-weight: 400;
+  transition: color 0.2s ease;
+}
+
+.blog-post a:hover {
+  color: #00FFFF;
+  text-decoration: underline;
+}
+
+/* Blog post header (title + date) - LIST PAGE ONLY */
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: var(--space-sm);
+}
+
+/* Blog post title - LIST PAGE ONLY */
+.post-title {
+  margin: 0;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  color: white;
+}
+
+/* Blog post date - LIST PAGE ONLY */
+.post-date {
+  font-size: 0.875rem;
+  color: #999;
+  margin: 0;
+  font-weight: 300;
+  white-space: nowrap;
+}
+
+.single-post-date {
+  font-size: 0.875rem;
+  color: #999;
+  margin: 0;
+  font-weight: 300;
+  white-space: nowrap;
+  width: 90%;
+  max-width: var(--content-width);
+  margin: 0 auto var(--space-md);
+}
+
+
+/* Blog content wrapper (for thumbnail + summary) - LIST PAGE ONLY */
+.blog-content {
+  overflow: auto;
+  clear: both;
+}
+
+.blog-content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Blog thumbnail image - LIST PAGE ONLY */
+.blog-thumbnail {
+  float: left;
+  width: 15%;
+  margin: 0 var(--space-md) var(--space-sm) 0;
+}
+
+.blog-thumbnail img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Read more link - LIST PAGE ONLY */
+.blog-post .read-more {
+  display: inline;
+  margin-left: var(--space-xs);
+  font-weight: 400;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+/* Responsive adjustments - LIST PAGE ONLY */
+@media (max-width: 768px) {
+  .blog-post {
+    width: 90%;
+    padding: var(--space-md);
+  }
+  
+  .blog-thumbnail {
+    width: 30%;
+    margin: 0 var(--space-sm) var(--space-sm) 0;
+  }
+}
+

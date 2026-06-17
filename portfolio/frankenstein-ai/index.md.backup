@@ -1,0 +1,47 @@
++++
+draft = false
+image = "/frankenstein-ai/planchettes.JPG"
+date =  "2018-01-01T20:23:59+05:30"
+title = "Frankenstein AI"
+weight = 1
+description = "Custom two-person interfaces designed for touch screen surfaces."
+projecttype = "Group project."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_0434.JPG", title = "Img 0434" },
+  { src = "IMG_0435.JPG", title = "Img 0435" },
+  { src = "IMG_0436.JPG", title = "Img 0436" },
+  { src = "IMG_0470.JPG", title = "Img 0470" },
+  { src = "IMG_0471.JPG", title = "Img 0471" },
+  { src = "IMG_0507.JPG", title = "Img 0507" },
+  { src = "Photo Dec 24, 12 15 39.jpg", title = "Photo Dec 24, 12 15 39" },
+  { src = "Photo Dec 30, 11 53 50.jpg", title = "Photo Dec 30, 11 53 50" },
+  { src = "Photo Dec 30, 11 53 59.jpg", title = "Photo Dec 30, 11 53 59" },
+  { src = "Photo Dec 30, 14 21 51.jpg", title = "Photo Dec 30, 14 21 51" },
+  { src = "Photo Dec 30, 14 22 01.jpg", title = "Photo Dec 30, 14 22 01" },
+  { src = "planchettes.JPG", title = "Planchettes" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/frankenstein-ai/planchettes.JPG" caption="planchettes." >}}
+
+### Summary
+
+Influenced by the collaborative engagement of the Ouija Board Planchette, these controllers are designed to be used by 2 users together, to glide over a touch-sensitive screen. It allows the users to engage with each other, to collectively arrive at an answer to the questions being asked. Users must rest their fingers upon the perforated metal components of the controller in order for it to be sensed by the technology. 
+
+This project was shown at Sundance Film Festival 2018, and was created by a large group of artists, producers and technologists. I was responsible for the planchettes. Please see project website for full list of people involved in the project. Frankenstein AI is an experimental theatrical experience with its own AI entity that is learning from its visitors about the world. 
+
+### More Information
+- Project website [[site](http://frankenstein.ai/)]
+- Indiewire [[site](http://www.indiewire.com/2018/02/frankenstein-artificial-intelligence-sundance-1201925162/)]
+
+### Exhibitions/Demos
+-  2018 Sundance Film Festival "New Frontier" Exhibit, Park City, Utah [[site](https://www.sundance.org/projects/frankenstein-ai-a-monster-made-by-many#/)]
+
+### Gallery
+
+{{< gallery >}}
+

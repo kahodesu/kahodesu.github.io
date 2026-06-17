@@ -1,0 +1,38 @@
++++
+draft = false
+image = "/shakeitup/shakeitup.jpg"
+date = "2013-10-05T18:25:22+05:30"
+title = "Shake It Up!"
+weight = 5
+description = "A simple physical party game, using a soda can controller. This game is used to teach design for physical games."
+projecttype = "Group project with collaborator Ramsey Nasser."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_3355.JPG", title = "Img 3355" },
+  { src = "shakeitup.jpg", title = "Shakeitup" },
+  { src = "shakeitup.mp4", title = "Shakeitup" },
+  { src = "shakeitup.png", title = "Shakeitup" },
+]
++++
+
+# Gallery resources with captions
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe loop class="embed-responsive-item" src="/img/portfolio/shakeitup/shakeitup.mp4" type="video/mp4"> </iframe>
+ </div>
+ 
+
+### Summary
+
+Remember when you were a kid, you'd shake up a can of soda and hand it to an unsuspecting friend. And when your friend opened it, they'd be doused in an explosion of soda? Well, this game is based on that nostalgic experience. One player is asked to shake the soda can and the place it on the table. All players must wait until it is safe to pick up the soda. If a player picks it up too early, the soda will "explode", and the player loses. If a player is the first person to pick up the soda without it exploding, then the player is the winner. The winner can then be the player to shake the soda in the next round.
+
+Shake It Up! is a very simple physical, party game that we made to use as a teaching tool in our Playable Fashion program. There are few lessons to be taught about the game including: 
+
+1. Use of capacitive touch switches, the circuit and the technology behind it. 
+2. In physical games, there doesn't have to be a perfect 1-to-1 mapping of technology to physical experience. One of the beautiful things about physical games is that the player does not need to know everything, and in many cases, this is what creates a "magical" experience. In the case of the game, we reveal later that the technology does not sense you shaking the soda can, but only senses you touching it. 
+3. Simple game rules allow for easy rule mods. What if there are 50 players? 10 players? 2 players? What mod can make the game more exciting? Better for spectators?, etc.
+4. The role of monitors in physical games. Does the game need a monitor? Can you run the game with just sounds? How does the lack of a monitor change the game? So in essence, focus of the players and spectators. 
+
+### Gallery
+{{< gallery >}}

@@ -1,0 +1,40 @@
++++
+draft = false
+image = "/circle-of-friends/cof.jpg"
+date = "2004-10-05T18:25:22+05:30"
+title = "Circle of Friends"
+weight = 11
+description = "A pre-facebook online photo sharing game with friends."
+projecttype= "Group project with Lauren Davino, Minah Kim, and Larissa Pickens."
+categories = ["browser-based game", "social game"]
+
+
+# Gallery resources with captions
+resources = [
+  { src = "circle01.jpg", title = "Circle01" },
+  { src = "circle02.jpg", title = "Circle02" },
+  { src = "cof_user_flowchart.gif", title = "Cof User Flowchart" },
+  { src = "cof.jpg", title = "Cof" },
+]
++++
+
+{{< figure src="/img/portfolio/circle-of-friends/cof_user_flowchart.gif"   caption="User flow-chart." >}} 
+
+### Summary
+
+Circle of Friends is a pre-facebook, online social photo sharing game made with PHP and MySQL. 
+
+A circle of friends is formed, the moderator decides on a theme, and then all the members of the circle must post a photo in order to make the round of photos available. If any of the members do not post a photo, the circle will “die” and the photos never become visible. If the circle is completed successfully, then and only then will the members be able to view the posted photographs and comments on them.
+
+
+### Background
+
+The idea was inspired by a study of an individual -- a foreign exchange student living in the NYC area. We followed her for a day, observing her lifestyle and her method of communication with the social groups she belonged to. The distance from her friends in her homeland, and the inability to keep up with each other's day to day experiences left an impression on us. 
+
+### Observations
+
+The circles can be as large or as small as desired though there are probably tipping points in how long circles will survive based on their size. Although the members do not necessarily need to be friends already; we found in playtesting, much of the conversation surrounding the photos were based on existing relationships. We found that inside jokes were referred to in the comments, and quite often the photos were discussed in a non-circle of friends environment weeks after the round had finished.
+
+### Gallery
+
+{{< gallery >}}

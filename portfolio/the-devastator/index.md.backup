@@ -1,0 +1,24 @@
++++
+draft = false
+image = "/devastator/devastator1.gif"
+date = "2003-11-05T20:23:59+05:30"
+title = "The Devastator"
+weight = 11
+description = "An interactive sound installation for two people who stand face-to-face, manipulating, playing and communicating through beeps, clicks and buzzes. "
+projecttype = "Group project with collaborator Prithvi Virasinghe."
++++
+
+{{< figure src="/img/portfolio/devastator/devastator1.gif" width="auto" caption="Interfaces that make face-to-face experiences. " >}}
+
+### Summary
+
+The Devastator is a sound machine that 2 people use facing each other. Each user can use their interface to generate their own tone. It is meant to be used without instructions, and with some experimentation, the users are able to see that not only do the controls manipulate their own sound, but has a secondary impact on the other user’s sound. A playful, dance-like dialogue of sounds emerge. 
+
+Funny facial expressions are exchanged too. 
+
+### Technology
+
+This prototype is made from two sets of double 555 timer chip circuits enclosed in a wooden box. There are two separate sets of controls on opposite sides of the box, facing each other. The tone set by either side reacts to the other through its photoresistor and LED encased inside the box.
+
+{{< figure src="/img/portfolio/devastator/devastator2.gif" width="auto" caption="The circuits. " >}}
+{{< figure src="/img/portfolio/devastator/devastator3.gif" width="auto" caption="Where Person B's tone affects Person A's. " >}}

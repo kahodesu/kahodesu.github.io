@@ -1,0 +1,41 @@
++++
+draft = false
+image = "/spiritus/reliever.JPG"
+date = "2016-10-05T18:25:22+05:30"
+title = "Spiritus Chronomatix"
+weight = 5
+description = "A narrative-based puzzle game, using a paranormal viewer, surrounded by enchanted objects in a haunted room."
+projecttype = "Group project with collaborators Katherine Isbister, Clara Vera-Fernandez, Rosanne Limoncelli and Eddie Melcer. "
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_5356.JPG", title = "Img 5356" },
+  { src = "IMG_5357.mp4", title = "Img 5357" },
+  { src = "IMG_5360.JPG", title = "Img 5360" },
+  { src = "IMG_5361.MOV", title = "Img 5361" },
+  { src = "IMG_5361.mp4", title = "Img 5361" },
+  { src = "IMG_5363.JPG", title = "Img 5363" },
+  { src = "IMG_5365.MOV", title = "Img 5365" },
+  { src = "reliever.JPG", title = "Reliever" },
+]
++++
+
+# Gallery resources with captions
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe loop class="embed-responsive-item" src="/img/portfolio/spiritus/IMG_5361.mp4" type="video/mp4"> </iframe>
+ </div>
+
+### Summary
+
+Narrative-based augmented reality puzzle game using the Google Tango as a tool to travel through time, and to see into the ghost world. There is an angry spirit in the room, turning on lights, making sounds, and setting off the Reliever contraption. 
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe loop class="embed-responsive-item" src="/img/portfolio/spiritus/IMG_5357.mp4" type="video/mp4"> </iframe>
+ </div>
+
+### Support
+
+Sam Sadtler worked on the wireless communications between the objects. This project was supported by NYU Game Innovation Lab and NYU Tisch Experiments in Storytelling.
+
+### Gallery
+Coming soon.

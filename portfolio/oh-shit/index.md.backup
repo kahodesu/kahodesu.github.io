@@ -1,0 +1,33 @@
++++
+draft = false
+image = "/ohshit/ohshit.jpg"
+date = "2005-11-05T20:23:59+05:30"
+title = "Oh Shit!"
+weight = 11
+description = "A narrative-based board game about holiday shopping at the local mall after eating something suspicious at the food court."
+projecttype = "Group project with collaborators Jenks Whittenburg, Donnie Bugdon and Prithvi Virasinghe"
+
+# Gallery resources with captions
+resources = [
+  { src = "ohshit 2.jpg", title = "Ohshit 2" },
+  { src = "ohshit_poometer_big.gif", title = "Ohshit Poometer Big" },
+  { src = "ohshit.jpg", title = "Ohshit" },
+  { src = "OhShit.pdf", title = "Ohshit" },
+  { src = "shopping cards.png", title = "Shopping Cards" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/ohshit/ohshit.jpg" caption="Drawing the board was almost as fun as playing the game." >}}
+
+### Summary
+
+Oh Shit! is a narrative-based board game about the stresses of buying gifts for loved ones for the holidays, while being sick from eating bad food. The player who is done buying all the gifts on their list first is the winner. Please excuse the potty humor!
+
+### More Information
+
+-	Rules and Objectives [[pdf](/img/portfolio/ohshit/OhShit.pdf)]
+
+### Gallery
+{{< gallery >}}

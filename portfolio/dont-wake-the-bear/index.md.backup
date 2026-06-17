@@ -1,0 +1,66 @@
++++
+draft = false
+image = "/dwtb/DWTB.gif"
+date = "2013-11-05T20:23:59+05:30"
+title = "Don't Wake the Bear"
+weight = 11
+description ="A competitive, multiplayer party game using one Playstation Vita."
+projecttype= "Group project with collaborators Ramsey Nasser and Francis Hsueh."
+
+
+# Gallery resources with captions
+resources = [
+  { src = "DWTB_ss1.png", title = "Dwtb Ss1" },
+  { src = "DWTB_ss2.png", title = "Dwtb Ss2" },
+  { src = "DWTB_ss3.png", title = "Dwtb Ss3" },
+  { src = "DWTB_ss4.png", title = "Dwtb Ss4" },
+  { src = "dwtb-2.png", title = "Dwtb 2" },
+  { src = "DWTB.gif", title = "Dwtb" },
+  { src = "IMG_2376.png", title = "Img 2376" },
+  { src = "IMG_2380.png", title = "Img 2380" },
+]
++++
+
+# Gallery resources with captions
+
+<iframe src="http://player.vimeo.com/video/69440392" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+[Don’t Wake the Bear trailer](http://vimeo.com/69440392) from [Kaho A](http://vimeo.com/kahoabe) on [Vimeo](http://vimeo.com).
+
+Ramsey Nasser (game design, programming)  
+Kaho Abe (game design, graphics)  
+Francis Hsueh (sound design)
+
+### Summary
+
+“Don’t Wake the Bear” is a multiplayer game designed to be played on a single gaming device by up to 8 players at a time. The game can be played with friends and family, young and old, in any social space — ideally, at a party.
+
+It’s a strategic “hot potato” game, where you must take turns passing around the device and dropping items on a sleeping bear. Some items agitate the bear, while others soothe it. If the bear wakes up during your turn, then you will be eaten. The last one remaining is the winner.
+
+The story: You and your friends have gone camping and become trapped in a cave. The exit is blocked by a ferocious sleeping bear. Who will get out alive? You, your friend or the bear? It’s survival of the fittest.
+
+### Artistic Statement
+
+Don’t Wake the Bear was originally designed for the PS Vita during the Sony Playstation Mobile Game Jam at Indiecade East 2013. We wanted to make a game that opened up a device made for one player to multiple players. Not everyone has a PS Vita, so we imagined a scenario where a group of friends or a family could enjoy a game together with the same device.
+
+We also wanted to make a game that different people could play together. We think both kids and adults can understand the humor and can appreciate the graphical style. The gameplay is simple enough for anyone to learn quickly whatever their level of video game playing. And even when you think you know all the ins and outs of the objects, a new inventory of objects will get generated, opening up new tactical possibilities.
+
+Finally, we designed “Don’t Wake the Bear” to be a catalyst for social play between people in the same physical space. So while it is a digital game, a lot of its fun lies in the emergent play outside the digital realm, more specifically in the form of banter, trash talking, and sometimes even physical interactions and other creative strategies (see the trailer!).
+
+### Gameplay
+
+Each player must first choose an avatar and then pass the device around. Once everyone has chosen an avatar, the game starts. During a player’s turn, the player must strategically choose an item from the backpack inventory to drop on the sleeping bear. Items can agitate or soothe the Bear. For example, a brightly lit light bulb may wake the bear, while sunglasses can help him continue to sleep.
+
+Some items have special interactions, using the various controls on the gaming device. For example, when using the popcorn object, the play must hold down the microwave on the touch screen while pressing the push buttons on the PS Vita, in order to turn on the microwave.
+
+When a turn is over, the player must pass the bear carefully, because jostling the device can also wake up the bear. When the angry bear wakes up during a player’s turn, the player is eaten and is out of the game. When the bear wakes up between turns, both players get eaten. So, sometimes the ferocious bear can win too.
+
+It’s survival of the fittest: the last player remaining alive is the winner.
+
+### Honors/Awards
+*   2013 Official Selection, Indiecade.<br>
+*   2013 Finalist at the [Sony Playstation Mobile Game Jam at Indiecade East 2013](https://www.youtube.com/watch?v=wAWba0u85r4).
+
+### Gallery
+{{< gallery >}}
+

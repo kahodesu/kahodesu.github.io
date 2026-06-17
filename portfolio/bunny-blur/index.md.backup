@@ -1,0 +1,38 @@
++++
+draft = false
+image = "/bunny-blur/bunnyblur2.png"
+date = "2013-10-05T18:25:22+05:30"
+title = "Bunny Blur"
+weight = 11
+description = "In the world of cut throat bunny street racing, where do you stand?"
+projecttype = "Work in progress. Individual Project"
+categories = ["work in progress", "arcade game"]
+
+# Gallery resources with captions
+resources = [
+  { src = "CBPDpR0WUAAJ3YE.jpg", title = "Lumber for cabinet" },
+  { src = "CBP4spqUcAAC3vI.jpg", title = "Steering wheel controller" },
+  { src = "CBj7LpcWMAE6HvZ.jpg", title = "Carrot colored racing seat" },
+  { src = "CBeWFIpWcAAQYi_.jpg", title = "Mocking up dashboard" },
+  { src = "CBeUZHPUkAAr3va.jpg", title = "Cartoon inspired" },
+  { src = "bunnyblur.png", title = "Experimenting on Blender" },
+  { src = "BlJZqgAIQAALRAO.jpg", title = "Some more sketches" }
+]
++++
+
+{{< figure src="/img/portfolio/bunny-blur/bunnyblur2.png" caption="Initial sketch.">}}
+
+### Summary
+
+In the world of cut throat bunny street racing, where do you stand? 
+
+Bunny Blur is a work-in-progress stand alone car racing arcade game. I am experimenting with storytelling through the custom dashboard and the arcade cabinet itself. The game is influenced heavily by personal experience playing 80's racing arcade games, goofy retro cartoons, and the Fast and Furious franchise. The intent here is to make a fun and engaging racing game that plays with the line between physical and digital experiences. 
+Admittedly there is also some poking fun at the straight male culture that exists around speed, racing and cars, by replacing all humans with bunnies. 
+
+### Support
+
+This project has been supported by: Different Games Fellowship 2013 and the NYU Game Innovation Lab.
+
+### Gallery
+
+{{< gallery >}}

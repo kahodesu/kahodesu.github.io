@@ -1,0 +1,31 @@
++++
+draft = false
+image = "/fashion-design/lwwd3.jpg"
+date = "2009-11-05T20:23:59+05:30"
+title = "Fashion Design"
+weight = 100
+description ="My previous career in fashion design."
+projecttype= " and prior."
+
+
+# Gallery resources with captions
+resources = [
+  { src = "dresssketch.jpg", title = "Dresssketch" },
+  { src = "fashion.png", title = "Fashion" },
+  { src = "lwwd3.jpg", title = "Lwwd3" },
+  { src = "shirtsketch.png", title = "Shirtsketch" },
+  { src = "teesketch.png", title = "Teesketch" },
+  { src = "totesketch.png", title = "Totesketch" },
+]
++++
+
+# Gallery resources with captions
+{{< figure src="/img/portfolio/fashion-design/lwwd3.jpg" caption="Boned and corseted sleeveless wedding dress that I designed and constructed in 2005." >}}
+
+### Summary
+Prior to 2010, I was a fashion designer for 14 years. I've worked in women's, men's and children's wear, for global labels to smaller couture labels. I've also made many dresses for special occasions -- wedding and evening dresses. I specialized in custom corseted strapless dresses with boning. And while I haven't done any fashion design recently, I've found ways of incorporating aspects of it into my games in the form of wearable game controllers. 
+
+### Gallery 
+
+{{< gallery >}}
+

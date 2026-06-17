@@ -1,0 +1,33 @@
++++
+draft = false
+image = "/cupcake-machine/cupcake.jpg"
+date = "2012-10-05T18:25:22+05:30"
+title = "The Cupcake Machine"
+weight = 11
+description = "Playful experience combining audience participation, performance, puzzles and cupcakes encased neatly in an unmarked truck. "
+projecttype= "Group Project with Ida Benedetto, Nick Fortugno and Greg Trefry."
+categories = ["puzzle game", "social game"]
+
+
+
++++
+
+{{< figure src="/img/portfolio/cupcake-machine/cupcake.jpg" width="auto" caption="Photo by Ida Benedetto." >}}
+
+### Summary
+
+The Cupcake Machine is a playful experience combining audience participation, performance, puzzles and cupcakes encased neatly in an unmarked truck. 
+
+The Cupcake Machine is an glorious old cupcake making machine, which is first presented to the unsuspecting audience members on a tour hosted by an enthusiastic Cupcake Machine representative. But the tour eventually goes terribly awry when the machine breaks down. Smoke, alarms, flashing lights everywhere! The participants must then fix the machine by solving puzzles  -- pushing buttons and pulling levers on the machine. If they are successful, they will be rewarded with delicious cupcakes dispensed by the machine. 
+
+This project explores the integration between performance, audience participation and puzzle games. The machine was built with wood, amarine battery,  an Arduino, multiple LED's, arcade buttons and joysticks. and it was installed inside of a rented box truck. 
+
+### Awards/Publications/Exhibitions/Demo
+
+-   Lost Horizon's Night Market (2012). More about the event: [[site](http://www.nytimes.com/2011/04/24/arts/design/lost-horizon-night-market-brooklyns-theater-of-the-bizarre.html?pagewanted=all&_r=0)]
+
+### Gallery
+
+{{<gallery>}}
+
+

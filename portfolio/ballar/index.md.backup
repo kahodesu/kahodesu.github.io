@@ -1,0 +1,32 @@
++++
+draft = false
+image = "/ballar/ballar_screenshot.png"
+date = "2019-09-05T18:25:22+05:30"
+title = "BallAR"
+weight = 11
+description = "Convert your living room into a ball court."
+projecttype = "Work in progress. Group Project with Ramsey Nasser. "
+categories = ["work in progress", "arcade game"]
+
+# Gallery resources - add titles for captions
+resources = [
+  { src = "ballar_screenshot.png", title = "Title screen" },
+  { src = "BallAR_640.mp4", title = "Gameplay demonstration" }
+]
++++
+
+{{< figure src="/img/portfolio/ballar/ballar_screenshot.png" caption="Title screen.">}}
+
+### Summary
+
+Ramsey and I were invited to participate in the Google AR Core Game Jam that took place in September of 2019 in Los Angeles. We made a multiplayer AR tennis type game where the room becomes a ball court. First the player must scan the room with the mobile device, and then enter each players names. Then the game begins! Each player's name is called by the game and must take turns hitting the virtual ball. The phone itself is the racket, and must be passed from player to player between turns. The objective is to continue the volley as long as possible.  
+
+BallAR was a finalist in the game jam. 
+
+### Support
+
+This project has been supported by: Indiecade and Google.
+
+### Gallery
+
+{{< gallery >}}

@@ -1,0 +1,60 @@
++++
+showonlyimage = true
+draft = false
+image = "/mecha-mouse/Mecha-Mouse-Model-9.png"
+date = "2013-10-05T18:25:22+05:30"
+title = "Mecha Mouse"
+weight = 5
+description ="Model of Mecha Mouse for 3D character development."
+projecttype= "Collaboration with Ramsey Nasser."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_6541.JPG", title = "Img 6541" },
+  { src = "IMG_6543.JPG", title = "Img 6543" },
+  { src = "IMG_6550.JPG", title = "Img 6550" },
+  { src = "IMG_6568.JPG", title = "Img 6568" },
+  { src = "IMG_6645.JPG", title = "Img 6645" },
+  { src = "IMG_6647.JPG", title = "Img 6647" },
+  { src = "IMG_6653.JPG", title = "Img 6653" },
+  { src = "IMG_6654.JPG", title = "Img 6654" },
+  { src = "IMG_6679.JPG", title = "Img 6679" },
+  { src = "IMG_6680.JPG", title = "Img 6680" },
+  { src = "IMG_6681.JPG", title = "Img 6681" },
+  { src = "IMG_6686.JPG", title = "Img 6686" },
+  { src = "IMG_6689.JPG", title = "Img 6689" },
+  { src = "IMG_6690.JPG", title = "Img 6690" },
+  { src = "Mecha-Mouse-Model-1.png", title = "Mecha Mouse Model 1" },
+  { src = "Mecha-Mouse-Model-10.png", title = "Mecha Mouse Model 10" },
+  { src = "Mecha-Mouse-Model-11.png", title = "Mecha Mouse Model 11" },
+  { src = "Mecha-Mouse-Model-12.png", title = "Mecha Mouse Model 12" },
+  { src = "Mecha-Mouse-Model-2.png", title = "Mecha Mouse Model 2" },
+  { src = "Mecha-Mouse-Model-3.png", title = "Mecha Mouse Model 3" },
+  { src = "Mecha-Mouse-Model-4.png", title = "Mecha Mouse Model 4" },
+  { src = "Mecha-Mouse-Model-5.png", title = "Mecha Mouse Model 5" },
+  { src = "Mecha-Mouse-Model-6.png", title = "Mecha Mouse Model 6" },
+  { src = "Mecha-Mouse-Model-7.png", title = "Mecha Mouse Model 7" },
+  { src = "Mecha-Mouse-Model-8.png", title = "Mecha Mouse Model 8" },
+  { src = "Mecha-Mouse-Model-9.png", title = "Mecha Mouse Model 9" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/mecha-mouse/Mecha-Mouse-Model-9.png" width="500" caption="Mecha model." >}}
+
+### Summary
+
+Mecha Mouse is a robot made from hacked consumer products and cardboard, driven by 5 elite, super-intelligent mice. This model was built for a multi-player VR game, specifically to help design the character, which was later recreated in Blender 3D and developed in Unity.
+
+### Gallery
+
+{{< gallery >}}
+
+
+
+
+
+
+
+

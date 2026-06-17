@@ -1,0 +1,45 @@
++++
+draft = false
+image = "/wizard/wizardshand2.png"
+date = "2015-10-05T18:25:22+05:30"
+title = "Wizard's Hand"
+weight = 5
+description = "A gestural game using a glove with a Leap Motion sensor embedded in the palm, reading the other hand. "
+projecttype = "Group project with collaborator Ramsey Nasser."
+
+
+# Gallery resources with captions
+resources = [
+  { src = "gameplay.mov", title = "Gameplay" },
+  { src = "gestures.png", title = "Gestures" },
+  { src = "IMG_4345.PNG", title = "Img 4345" },
+  { src = "IMG_4424.JPG", title = "Img 4424" },
+  { src = "IMG_4776-thumb.png", title = "Img 4776 Thumb" },
+  { src = "IMG_4776.mp4", title = "Img 4776" },
+  { src = "ss2.jpg", title = "Ss2" },
+  { src = "wizardshand.png", title = "Wizardshand" },
+  { src = "wizardshand2.png", title = "Wizardshand2" },
+]
++++
+{{< figure src="/img/portfolio/wizard/wizardshand.png" caption="Glove embedded with Leap Motion." >}}
+
+### Summary 
+
+At the museum, you are curiously drawn to the dusty remains of a skeletal hand, tucked safely behind a glass case, that legend tells once belonged to a powerful wizard. You instinctively put it on, ignoring the sign, "DO NOT TOUCH!" -- and the world changes. As you walk through the museum, the artifacts come to life, some carrying spirits with timeless grudges against the wizard, whose hand now has become yours.
+
+Can you master the powerful magic contained in the hand and get out of the museum on once piece?
+
+Wizard Hand was made during the Leap 3D Game Jam 2014, using the Leap Motion. We embedded it into a glove on the left hand instead of placing it on a flat surface, thus allowing it to sense gestures of both hands, since now the left hand would control the angle in which the right hand gesture was being read. Using gestural recognition algorithms,  we were able to sense gestures that triggered spells. 
+
+### Technology 
+
+Wizard Hand is created using Arcadia, an experimental framework consisting of Clojure and Unity, the core of which is being developed by Ramsey Nasser and Tims Gardner. The game also uses a custom glove controller embedded with a Leap Motion, made of EVA foam and 3D printed parts which light up using NeoPixel LEDs controlled by the Adafruit FLORA. The glove is created by Kaho Abe who's work currently explores Costumes as Game Controllers.
+
+{{< figure src="/img/portfolio/wizard/gestures.png" caption="Gestures that are recognized." >}}
+
+### Exhibitions/Demos
+-	2015 Indiecade East Leap Motion Arcade, Museum of the Museum Image, Queens, NY [[site](http://www.indiecade.com/games/selected/wizards-hand-dont-touch)]
+
+### Gallery
+
+

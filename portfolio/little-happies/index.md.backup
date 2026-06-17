@@ -1,0 +1,43 @@
++++
+showonlyimage = true
+draft = false
+image = "/little-happies/littlehappies.png"
+date = "2014-10-05T18:25:22+05:30"
+title = "Little Happies"
+weight = 5
+description ="A mod of a previous project -- Ninja Shadow Warrior -- a stand alone photobooth game that encourages cooperative play."
+projecttype= "Group Project with callaborator Toni Pizza."
+
+# Gallery resources with captions
+resources = [
+  { src = "2014-06-29_23.25_.43_-1.jpg", title = "2014 06 29 23.25 .43 1" },
+  { src = "26939227724_4b64580794_b.jpg", title = "26939227724 4b64580794 B" },
+  { src = "IMG_3866.JPG", title = "Img 3866" },
+  { src = "IMG_3867.JPG", title = "Img 3867" },
+  { src = "IMG_3868.JPG", title = "Img 3868" },
+  { src = "IMG_3908.JPG", title = "Img 3908" },
+  { src = "littlehappies.png", title = "Littlehappies" },
+  { src = "littlehappies2.png", title = "Littlehappies2" },
+  { src = "strangearcade_emi_21.jpg", title = "Strangearcade Emi 21" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/little-happies/littlehappies.png" caption="Little Happies at 2016 GaymerX." >}}
+
+### Summary
+
+Little Happies are things that make bring people comfort and happiness in small ways. This includes anything from cute plushies that you might keep by your computer, or a small cupcake in your favorite flavors, or a goofy shirt that you love to wear. Little Happies the game is an over-the-top, bordering on ridiculousness, nod to all the Little Happies out there in the world.  
+
+The game was built with Toni Pizza for the Indiecade Arcade at GaymerX 2014. It is a mod of Ninja Shadow Warrior. We refaced the cabinet, reskinned the game, and added the feature of posting to Twitter (https://twitter.com/iamgamebot) instead of Tumblr. 
+
+### Exhibtions/Demos
+
+-	2016 Indiecade East Showcase: Strange Arcade at the Museum of the Moving Image, NYC [[site](http://www.movingimage.us/exhibitions/2016/04/29/detail/indiecade-east-2016-game-showcase-strange-arcade-2/)]
+-	2014, Indiecade Arcade at GaymerX, San Francisco, CA [[site](http://indiecade.tumblr.com/post/91486075198/indiecades-games-at-gaymerx2)]
+
+### Gallery
+{{< gallery >}}
+
+

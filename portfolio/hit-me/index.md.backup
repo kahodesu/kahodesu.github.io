@@ -1,0 +1,71 @@
++++
+showonlyimage = true
+draft = false
+image = "/hitme/hit-me3.png"
+date = "2011-10-05T18:25:22+05:30"
+title = "Hit Me!"
+weight = 1
+description ="An intense two-person physical game that tests speed, agility and the ability to take good photos."
+projecttype= "Individual Project."
+
+# Gallery resources with captions
+resources = [
+  { src = "11-09-07F%!KtheScreen020.jpg", title = "11 09 07f%!kthescreen020" },
+  { src = "5604790060_7df8b9e71e_o.jpg", title = "5604790060 7df8b9e71e O" },
+  { src = "5638605026_ffc1c8fbc9_o.jpg", title = "5638605026 Ffc1c8fbc9 O" },
+  { src = "F_KtheScreen020.jpg", title = "F Kthescreen020" },
+  { src = "hit-me.jpg", title = "Hit Me" },
+  { src = "hit-me2.png", title = "Hit Me2" },
+  { src = "hit-me3.png", title = "Hit Me3" },
+  { src = "hitme_at_eyebeam.jpg", title = "Hitme At Eyebeam" },
+  { src = "hitme_photo.jpg", title = "Hitme Photo" },
+  { src = "IMG_1376.JPG", title = "Img 1376" },
+  { src = "IMG_2411.JPG", title = "Img 2411" },
+  { src = "IMG_2413.JPG", title = "Img 2413" },
+  { src = "IMG_2418.JPG", title = "Img 2418" },
+  { src = "IMG_6022.JPG", title = "Img 6022" },
+  { src = "P1000914.JPG", title = "P1000914" },
+]
++++
+
+# Gallery resources with captions
+
+
+<iframe src="https://player.vimeo.com/video/29638917" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/29638917">Hit Me! (2011)</a> from <a href="https://vimeo.com/kahoabe">Kaho A</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+### Summary
+Hit Me! is a two-player hyper-interactive, physical game that tests speed, agility and the ability to take good snapshots. Utilizing wireless technology and incorporating the concept of the metagame, Hit Me! encourages face-to-face real-world interactions, not only by the players but also by the spectators.
+
+The object of the game is to hit the opponent’s button on top of the head. Once a hit is made, the hitter’s camera takes a snapshot of the victim. The hitter receives a point for the hit, and up to 2 additional points can be awarded by the Judge based on the quality of the snapshot. The snapshots, points and times are projected on a wall for spectators to observe.
+
+Hit Me! 2011 is the new version of Hit Me! that has recently been completely recoded in Processing, uses Arduino and utilizes modified hard hats, as opposed to the cloth hoods in the original version of the game created in 2005. Hit Me! 2011 also posts the photos from the games on [[Flickr](https://www.flickr.com/photos/hitmethegame/albums)] once the game has been played.
+
+### Support
+This project is supported by Eyebeam Art & Technology Center.
+
+### Honors/Awards
+-   2012 Indiecade Finalist [[site](http://www.indiecade.com/2012/nominees/)]
+
+### Exhibitions/Demos
+-   2012 “Joue le Jeu” show at la Gaîté Lyrique, Paris, France [[site](http://www.gaite-lyrique.net/theme/joue-le-jeu-ete-2012)]
+-   2012 Playpublik Festival, Berlin, Germany [[site](http://playpublik.de/)]
+-   2012 World Science Festival at NYU-Poly [[site](http://worldsciencefestival.com/events/innovation_square)]
+-   2011 Athens Plaython Launch Party, Athens, Greece [[site](http://athensplaython.org/el)]
+-   2011 Maker Faire 2011, New York Hall of Science, Queens, NY [[site](http://makerfaire.com/pub/e/7078)]
+-   2011 BABYCASTLES⋰QWOP THE SCREEN, Brooklyn, NY [[site](http://www.facebook.com/event.php?eid=130785990350795)]
+-   2011 Eyebeam Mixer: Past Futures, New York, NY [[site](http://eyebeam.org/events/mixer-past-futures)]
+-	NY1 [[pdf](http://kahoabe.net/portfoliodocs/NY1_tech.pdf)]
+-	April 12, 2005: Chelsea Museum, NYC – Game demo at 10FL Exhibition [[pdf](http://kahoabe.net/portfoliodocs/10FL.pdf)]
+
+### Publications
+-	2005 We Make Money Not Art [[site](http://www.we-make-money-not-art.com/archives/2005/05/hit-me-is-a-2-p.php)]
+-	2005 Ubicomp Conference 2005,Tokyo,Japan – Ubiquitous Computing, Entertainment and Games Workshop [[pdf](http://kahoabe.net/portfoliodocs/kahoabe_hitme_ubicomp.pdf)]
+
+### More Information
+*   Original design process blog: brainstorming, playing testing [[site archive](http://kahoabe.net/hitme_archive/hitme_archive.html)]
+*   Game Rules & Tournament Personal Injury Waiver Form [[pdf](http://kahoabe.net/wordpress/wp-content/stuff/HitMe_Personal_Injury_Waiver.pdf)]
+
+### Gallery
+
+{{< gallery >}}
+

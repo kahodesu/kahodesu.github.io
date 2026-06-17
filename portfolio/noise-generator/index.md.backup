@@ -1,0 +1,35 @@
++++
+draft = false
+image = "/noisegenerator/noisegen.jpg"
+showonlyimage = true
+date = "2009-11-05T20:23:59+05:30"
+title = "Noisegenerator"
+weight = 11
+description = "Sound Synthesizer and Sequencer using the two 555-chip configuration (Atari Punk Console) with custom laser cut and painted face plate."
+projecttype = "Individual project."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_1275.JPG", title = "Img 1275" },
+  { src = "IMG_1276.JPG", title = "Img 1276" },
+  { src = "IMG_1277.JPG", title = "Img 1277" },
+  { src = "IMG_1278.JPG", title = "Img 1278" },
+  { src = "IMG_1279.JPG", title = "Img 1279" },
+  { src = "IMG_1280.JPG", title = "Img 1280" },
+  { src = "IMG_1281.JPG", title = "Img 1281" },
+  { src = "IMG_1282.JPG", title = "Img 1282" },
+  { src = "IMG_1286.JPG", title = "Img 1286" },
+  { src = "noisegen.jpg", title = "Noisegen" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/noisegenerator/noisegen.jpg" width="400" caption="Makes lots of fun noise!" >}}
+
+### Summary
+A 4-step sequencer, made from Forrest M. Mims III's sound synthesizer circuit that uses two 555 timer IC chips, AKA the Atari Punk Console. There are additional switches that allow for changing the sequence pattern, as well as one that switches between the sequencer and a dynamic noise generator controlled by a photoresistor. The custom face plate was made using a semi-transparent acrylic sheet, stenciled and laser-etched from the inside, and then painted. 
+
+### Gallery
+
+{{< gallery >}}
