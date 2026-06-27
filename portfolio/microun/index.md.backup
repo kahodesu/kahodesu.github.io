@@ -1,0 +1,41 @@
++++
+draft = false
+image = "/microun/microun.JPG"
+date = "2014-10-05T18:25:22+05:30"
+title = "MicroμN"
+weight = 11
+description = "An experimental role-playing game. What would you do as a ruler of one of the many uninhabited islands in the NYC area?"
+projecttype = "Group project with collaborators Christian Howard, Ida Benedetto and Ramsey Nasser -- collectively known as Suspiciotude."
+
+# Gallery resources with captions
+resources = [
+  { src = "14-09-28Micro-UN034.JPG", title = "14 09 28micro Un034" },
+  { src = "14-09-28Micro-UN055.JPG", title = "14 09 28micro Un055" },
+  { src = "2014-9-27Royalty44228.JPG", title = "2014 9 27royalty44228" },
+  { src = "2014-9-28Royalty48234.JPG", title = "2014 9 28royalty48234" },
+  { src = "2014-9-28Royalty48910.JPG", title = "2014 9 28royalty48910" },
+  { src = "2014-9-28Royalty49500.JPG", title = "2014 9 28royalty49500" },
+  { src = "2014-9-28Royalty54881.JPG", title = "2014 9 28royalty54881" },
+  { src = "microun.JPG", title = "Microun" },
+  { src = "pamphlet1.png", title = "Pamphlet1" },
+  { src = "pamphlet2.png", title = "Pamphlet2" },
+  { src = "royals.png", title = "Royals" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/microun/royals.png" caption="Portraits of a rulers. Photos by Ida Benedetto." >}}
+
+### Summary
+
+MicroμN is an experimental roleplaying game inspired by the numerous uninhabited islands that lie in the waters around New York City, where players became the rulers of their own lands. First starting in person at our headquarters on Governor's Island, we registered each player and took portraits of them. The game then continued virtually for a month via email, where the rulers would battle it out to take over other islands. The final result was a winning ruler who had conquered all the islands. 
+
+### Support
+This game was developed while we were on the LMCC residency at Governor's Island. 
+
+### Exhibitions/Demos
+- 2014 LMCC Open Studios at Governor's Island (https://lmcc.net/person/suspicitude/)
+
+{{< figure src="/img/portfolio/microun/pamphlet2.png" width="auto" caption="Pages from the pamphlet of islands, which was given to the players at the start of the game." >}}
+

@@ -1,257 +1,507 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Portfolios on Kaho Abe&#39;s Website</title>
-    <link>http://kahoabe.net/portfolio/</link>
-    <description>Recent content in Portfolios on Kaho Abe&#39;s Website</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2024 18:25:22 +0530</lastBuildDate>
-    <atom:link href="http://kahoabe.net/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Touch</title>
-      <link>http://kahoabe.net/portfolio/touch/</link>
-      <pubDate>Fri, 15 Mar 2024 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/touch/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;&amp;quot;Touch&amp;quot; is about our reemergence after the isolation experience during the Covid pandemic of 2020, celebrating physical interaction and face-to-face play once again.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-experience&#34;&gt;The Experience&lt;/h3&gt;&#xA;&lt;p&gt;&amp;quot;Touch&amp;quot; invites participants to reconnect through a unique, interactive soundscape. The experience begins when participants hold hands, initiating looped music. As they explore further, tapping each other&#39;s hands and fingers triggers additional sounds layered over the base loop. Participants gradually discover that touching any skin surface produces sounds, encouraging playful experimentation and the gradual dissolution of physical boundaries. The installation allows for multiple players to join, creating chains of connection around the table.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hotaru</title>
-      <link>http://kahoabe.net/portfolio/hotaru/</link>
-      <pubDate>Wed, 05 Oct 2016 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/hotaru/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Hotaru is a 2-person cooperative task-based game, where the players play the role of the last remaining lightning bugs in a fantastical world, in their last stand against an invisible enemy. One player creates lightning, accumulating it in a tank, through gestures. Once the tank is full, then transfers the lightning to the other player by holding hands. The other player, collecting the lightning in their gauntlet, can then shoot the lightning. The game is ultimately about playing a role, and the movement of the body -- poses and gestures -- and about cooperation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ninja Shadow Warrior</title>
-      <link>http://kahoabe.net/portfolio/ninja-shadow-warrior/</link>
-      <pubDate>Mon, 05 Nov 2012 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/ninja-shadow-warrior/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Ninja Shadow Warrior is a stand alone photo booth arcade game using the Kinect camera, computer and a hacked closet light button built into a custom game cabinet.&lt;/p&gt;&#xA;&lt;p&gt;The palace is under attack and the player must use his/her ninja magic to hide by “becoming” objects. The player must fill out the silhouette of a randomly chosen object from the ninja palace as accurately as possible.&lt;/p&gt;&#xA;&lt;p&gt;The game encourages face-to-face cooperative interaction through strategy, rather than rules, as multiple ninjas can fill out object silhouettes more accurately and thus achieve a higher score. The score achieved during a game in addition to the snapshot is posted on a website where it can be shared. &lt;a href=&#34;http://ninjashadowwarrior-blog.tumblr.com/&#34;&gt;http://ninjashadowwarrior-blog.tumblr.com/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hit Me!</title>
-      <link>http://kahoabe.net/portfolio/hit-me/</link>
-      <pubDate>Wed, 05 Oct 2011 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/hit-me/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Hit Me! is a two-player hyper-interactive, physical game that tests speed, agility and the ability to take good snapshots. Utilizing wireless technology and incorporating the concept of the metagame, Hit Me! encourages face-to-face real-world interactions, not only by the players but also by the spectators.&lt;/p&gt;&#xA;&lt;p&gt;The object of the game is to hit the opponent’s button on top of the head. Once a hit is made, the hitter’s camera takes a snapshot of the victim. The hitter receives a point for the hit, and up to 2 additional points can be awarded by the Judge based on the quality of the snapshot. The snapshots, points and times are projected on a wall for spectators to observe.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frankenstein AI</title>
-      <link>http://kahoabe.net/portfolio/frankenstein-ai/</link>
-      <pubDate>Mon, 01 Jan 2018 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/frankenstein-ai/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Influenced by the collaborative engagement of the Ouija Board Planchette, these controllers are designed to be used by 2 users together, to glide over a touch-sensitive screen. It allows the users to engage with each other, to collectively arrive at an answer to the questions being asked. Users must rest their fingers upon the perforated metal components of the controller in order for it to be sensed by the technology.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Selfiestick Deathmatch</title>
-      <link>http://kahoabe.net/portfolio/selfiestick-deathmatch/</link>
-      <pubDate>Thu, 05 Oct 2017 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/selfiestick-deathmatch/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Selfie Deathmatch is a two person competitive physical game where the players stand in a very small circle each holding a selfiestick loaded with a camera phone. The phones automatically take a photo on a timer, and then the photo is judged. The number of faces counted is the base score. The photos are then tweeted (&lt;a href=&#34;https://twitter.com/selfiedm)&#34;&gt;https://twitter.com/selfiedm)&lt;/a&gt;, and the number of likes and retweets adds to the base score. All selfies are viewable from an eternal leader board.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mary Mack 5000</title>
-      <link>http://kahoabe.net/portfolio/mary-mack-5000/</link>
-      <pubDate>Fri, 05 Nov 2010 19:56:17 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/mary-mack-5000/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Mary Mack 5000 is a fast-paced, competitive, technologically enhanced twist on the classic schoolyard hand clapping game. Strap on your special MM5000 gloves and show off your speed, accuracy, and style! This is a collaborative project made with Lina Fenequito, with music from Ray Mancini and Sergey Popovich.&lt;/p&gt;&#xA;&lt;p&gt;These days, most games are played on computers and consoles, often alone or with people online. Mary Mack 5000 is an event game designed to encourage face-to-face interaction between the players. With the use of gloves with conductive contact sensors, a vest with additional contact sensors, the Arduino, Flash, laptop and projector, we hope that people will be able to enjoy themselves both by playing as well as by watching the game.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spiritus Chronomatix</title>
-      <link>http://kahoabe.net/portfolio/spiritus-chronomatix/</link>
-      <pubDate>Wed, 05 Oct 2016 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/spiritus-chronomatix/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Narrative-based AR puzzle game using the Google Tango as a tool to travel through time, and to see into the ghost world. There is an angry spirit in the room, turning on lights, making sounds, and setting off the Reliever contraption.&lt;/p&gt;&#xA;&lt;h3 id=&#34;support&#34;&gt;Support&lt;/h3&gt;&#xA;&lt;p&gt;Sam Sadtler worked on the wireless communications between the objects. This project was supported by NYU Game Innovation Lab and NYU Tisch Experiments in Storytelling.&lt;/p&gt;&#xA;&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;&#xA;&#xA;&lt;div class=&#34;gallery hover-effect-zoom caption-effect-fade caption-position-bottom&#34;&gt;&#xA;  &#xA;  &#xA;  &#xA;    &#xA;    &#xA;    &#xA;    &lt;figure&gt;&#xA;      &#xA;        &#xA;        &#xA;        &lt;a href=&#34;#img-0-0&#34;&gt;&#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/spiritus-chronomatix/IMG_5356_hu_e346b9a256b06b52.JPG&#34; alt=&#34;Img 5356&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;img-0-0&#34; class=&#34;lightbox&#34;&gt;&#xA;      &lt;a href=&#34;#&#34; class=&#34;lightbox-close&#34;&gt;&amp;times;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-7&#34; class=&#34;lightbox-prev&#34; title=&#34;Previous&#34; aria-label=&#34;Previous&#34;&gt;&amp;#8249;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-1&#34; class=&#34;lightbox-next&#34; title=&#34;Next&#34; aria-label=&#34;Next&#34;&gt;&amp;#8250;&lt;/a&gt;&#xA;&#xA;      &lt;div class=&#34;lightbox-content&#34;&gt;&#xA;        &#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/spiritus-chronomatix/IMG_5356.JPG&#34; alt=&#34;Img 5356&#34;&gt;&#xA;        &#xA;        &lt;p class=&#34;lightbox-caption&#34;&gt;Img 5356&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wizard Hand</title>
-      <link>http://kahoabe.net/portfolio/wizard-hand/</link>
-      <pubDate>Mon, 05 Oct 2015 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/wizard-hand/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;At the museum, you are curiously drawn to the dusty remains of a skeletal hand, tucked safely behind a glass case, that legend tells once belonged to a powerful wizard. You instinctively put it on, ignoring the sign, &amp;quot;DO NOT TOUCH!&amp;quot; -- and the world changes. As you walk through the museum, the artifacts come to life, some carrying spirits with timeless grudges against the wizard, whose hand now has become yours.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Little Happies</title>
-      <link>http://kahoabe.net/portfolio/little-happies/</link>
-      <pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/little-happies/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Little Happies are things that make bring people comfort and happiness in small ways. This includes anything from cute plushies that you might keep by your computer, or a small cupcake in your favorite flavors, or a goofy shirt that you love to wear. Little Happies the game is an over-the-top, bordering on ridiculousness, nod to all the Little Happies out there in the world.&lt;/p&gt;&#xA;&lt;p&gt;The game was built with Toni Pizza for the Indiecade Arcade at GaymerX 2014. It is a mod of Ninja Shadow Warrior. We refaced the cabinet, reskinned the game, and added the feature of posting to Twitter (&lt;a href=&#34;https://twitter.com/iamgamebot&#34;&gt;https://twitter.com/iamgamebot&lt;/a&gt;) instead of Tumblr.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mitgenommen</title>
-      <link>http://kahoabe.net/portfolio/mitgenommen/</link>
-      <pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/mitgenommen/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Designed for a hidden park tucked away in the middle of the city of Witten, Germany, we hand-made various playfully mysterious wooden boxes -- some that light up, some that move, some that make sounds -- from found materials, reclaimed wood and hacked electronics. Designed for the people who would hang out at the park, we hoped to create playful experiences and curiosity through these boxes that eventually would disappear into the space.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Window Vistas</title>
-      <link>http://kahoabe.net/portfolio/window-vistas/</link>
-      <pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/window-vistas/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Window Vistas is a game made during the Train Jam 2014 on the Amtrak Zephyr train. During this 52 hours adventure from Chicago to San Francisco for the Game Developer&#39;s Conference, we were inspired by the ever-changing scenery we saw through the window. We rode through Illinois, Nebraska, Colorado, Nevada and California. Players can enjoy the vistas and take photos from our window too.&lt;/p&gt;&#xA;&lt;h3 id=&#34;technology&#34;&gt;Technology&lt;/h3&gt;&#xA;&lt;p&gt;The procedurally generated environment is built on the &lt;a href=&#34;http://web.archive.org/web/20221224174957/http://www.polycode.org/&#34;&gt;Polycode&lt;/a&gt; framework. I was responsible for the circuit built using the Arduino-based FLORA microcontroller and a photodiode, microphone and piezo vibration sensor. The sounds, vibrations and light flickering in the cabin influenced the game environment.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pandemojis</title>
-      <link>http://kahoabe.net/portfolio/pandemojis/</link>
-      <pubDate>Tue, 05 Aug 2014 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/pandemojis/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Pandemojis is a social classroom game using a webcam and facial recognition software that helps players to identify emotions in themselves. The player must first catch an emoji that is falling from the top of the screen onto their head. Once they are &amp;quot;wearing&amp;quot; the emoji, they are then asked to make a gesture or pose that expresses the emotion they are &amp;quot;wearing&amp;quot;. Then the classroom is asked to guess the emotion. Pandemojis can represent complex emotions, and is a playful way to create discussion around emotions and expression which may otherwise be awkward to talk about.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mecha Mouse</title>
-      <link>http://kahoabe.net/portfolio/mecha-mouse/</link>
-      <pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/mecha-mouse/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Mecha Mouse is a 3-5 player game, where constant communication and banter is needed to collaboratively move a mecha built from cardboard and found objects. Super-intelligent mice have escaped from the local science lab, and have now settled in an unsuspecting family&#39;s home. They must drive a mecha to hunt for cheese and other sustenance, while avoiding the laser shooting robot cat.&lt;/p&gt;&#xA;&lt;p&gt;The real life model of the mecha mouse was created to better visualize the character, before drawing in Blender. Calico Critters (Sylvanian Family) mice were used.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shake It Up!</title>
-      <link>http://kahoabe.net/portfolio/shake-it-up/</link>
-      <pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/shake-it-up/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Remember when you were a kid, you&#39;d shake up a can of soda and hand it to an unsuspecting friend? And when your friend opened it, they&#39;d be doused in an explosion of soda? Well, this game is based on that nostalgic experience. One player is asked to shake the soda can and the place it on the table. All players must wait until it is safe to pick up the soda. If a player picks it up too early, the soda will &amp;quot;explode&amp;quot;, and the player loses. If a player is the first person to pick up the soda without it exploding, then the player is the winner. The winner can then be the player to shake the soda in the next round.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Portable Projection Dome</title>
-      <link>http://kahoabe.net/portfolio/portable-projection-dome/</link>
-      <pubDate>Mon, 05 Nov 2012 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/portable-projection-dome/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;This is a very large, hand-made, quarter-sphere projection dome that measures 10 ft. high and 20 ft. wide. It was made from a beachball pattern making spreadsheet found on the internet, which I unfortunately lost the link for. I used stretchy knit projection fabric, cotton herringbone taping, fiber glass replacement camping tent poles, upholstery thread, and some thick rope. When packed up it is surprisingly light enough for one strong person to carry.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Discreet Interfaces</title>
-      <link>http://kahoabe.net/portfolio/discreet-interfaces/</link>
-      <pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/discreet-interfaces/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;It is often taken for granted that our clothing serves a crucial connection to the world around us. Our clothing is rich in subtle messages; about who we are, who we want to be, and our roles in society. Discreet Interfaces enables the wearer to carry and utilize the technology without compromising any of these messages. Its discreetness, using elements of clothing we are already familiar with, allows flexibility of style while allowing for portability and accessibility to the embedded technology.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>BallAR</title>
-      <link>http://kahoabe.net/portfolio/ballar/</link>
-      <pubDate>Thu, 05 Sep 2019 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/ballar/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Ramsey and I were invited to participate in the Google AR Core Game Jam that took place in September of 2019 in Los Angeles. We made a multiplayer AR tennis type game where the room becomes a ball court. First the player must scan the room with the mobile device, and then enter each player&#39;s name. Then the game begins! Each player&#39;s name is called by the game at the top of their turn, and the player then must hit the virtual (screaming) ball. The phone itself is the racket, and must be passed from player to player between turns. The objective is to continue the volley as long as possible.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Safer Sex Shuffle</title>
-      <link>http://kahoabe.net/portfolio/safer-sex-shuffle/</link>
-      <pubDate>Wed, 05 Nov 2014 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/safer-sex-shuffle/</guid>
-      <description>&lt;p style=&#34;color: red; font-weight: 500; font-size: 1.1rem;&#34;&gt;NSFW&lt;/p&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://safersexshuffle.com/&#34;&gt;Safer Sex Shuffle&lt;/a&gt; is a casual browser-based puzzle game where the player must make tile combos in order to progress in the game, racking up points. The tiles consist of body part tiles (butts, mouths, hands, penises and vaginas) and barrier tiles (dental dams and condoms). In order to make a combo, the player must select body part tiles with the correct barrier in between if needed. Once a combo is made the tiles disappear, new ones appear and shift down. The objective is to get the highest number of points before the clock runs out.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MicroμN</title>
-      <link>http://kahoabe.net/portfolio/microun/</link>
-      <pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/microun/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;MicroμN is an experimental roleplaying game inspired by the numerous uninhabited islands that lie in the waters around New York City, where players became the rulers of their own lands. First starting in person at our headquarters on Governor&#39;s Island, we registered each player and took portraits of them. The game then continued virtually for a month via email, where the rulers would battle it out to take over other islands. The final result was a winning ruler who had conquered all the islands.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Robots in the Sky</title>
-      <link>http://kahoabe.net/portfolio/robots-in-the-sky/</link>
-      <pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/robots-in-the-sky/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Robots In The Sky is a two-player shooter game where players use their eyes to aim and shoot at virtual flying robots. Players take on the role of a defensive mech and deflect evil flying robots by looking them, causing the mech’s laser eyes to fire and shoot them out of the sky. The eyes of each player are tracked using &lt;a href=&#34;http://www.tobii.com/&#34;&gt;Tobii&lt;/a&gt; hardware and fed into the Unity game as the sole input. The game was comissioned by &lt;a href=&#34;http://www.notimpossible.com/blog/2014/7/3/the-brainwriter-eeg-eye-tracking-paired-for-not-impossibles-latest-innovation&#34;&gt;Not Impossible&lt;/a&gt; and installed at the &lt;a href=&#34;http://www.barbican.org.uk&#34;&gt;Barbican Digital Revolution&lt;/a&gt; show. We were responsible for the video game, and the eye tracking components only.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Don&#39;t Wake the Bear</title>
-      <link>http://kahoabe.net/portfolio/dont-wake-the-bear/</link>
-      <pubDate>Tue, 05 Nov 2013 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/dont-wake-the-bear/</guid>
-      <description>&lt;p&gt;Ramsey Nasser (game design, programming)&lt;br&gt;&#xA;Kaho Abe (game design, graphics)&lt;br&gt;&#xA;Francis Hsueh (sound design)&lt;/p&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;“Don’t Wake the Bear” is a multiplayer game designed to be played on a single gaming device by up to 8 players at a time. The game can be played with friends and family, young and old, in any social space. Could be a good party game!&lt;/p&gt;&#xA;&lt;p&gt;It’s a strategic “hot potato” game, where you must take turns passing around the device and dropping items on a sleeping bear. Some items agitate the bear, while others soothe it. If the bear wakes up during your turn, then you will be eaten. The last one remaining is the winner.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bunny Blur</title>
-      <link>http://kahoabe.net/portfolio/bunny-blur/</link>
-      <pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/bunny-blur/</guid>
-      <description>&lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;&#xA;&lt;p&gt;In the world of cut throat bunny street racing, where do you stand?&lt;/p&gt;&#xA;&lt;p&gt;Bunny Blur is a work-in-progress stand alone car racing arcade game. This game experiments with storytelling through the custom dashboard and the arcade cabinet. The game is influenced heavily by personal experience playing racing games at the arcade during the 80&#39;s, goofy retro cartoons, and the Fast and Furious franchise. The intent here is to make a fun and engaging racing game that plays with the line between physical and digital experiences. Admittedly there is also some poking fun at the straight male culture that exists around speed, racing and cars, by replacing all humans with bunnies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mario Ball</title>
-      <link>http://kahoabe.net/portfolio/mad-fun-show/</link>
-      <pubDate>Mon, 05 Nov 2012 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/mad-fun-show/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Mario Ball is oversized physical controller for the original Mario Brothers game that requires 2 people to hold it up and use it. The controller uses 90 magnetic reed switches which are triggered when a magnetic ball (dressed up as Mario) is rolled around. The Arduino and 6 multiplexers are used in addition to the magnetic reed switches. The maze senses where the ball is and Mario appears at the corresponding location on the original Mario Brothers screen interface. I love that the controller is built for 2 people and is large and heavy enough so that it is almost impossible for one person to play alone. It even has cute ceramic and brass handles to indicate where the players should hold it.I built the controller with Keita, and Vikram wrote the code for the game.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Cupcake Machine</title>
-      <link>http://kahoabe.net/portfolio/the-cupcake-machine/</link>
-      <pubDate>Fri, 05 Oct 2012 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/the-cupcake-machine/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;The Cupcake Machine is a playful experience combining audience participation, performance, puzzles and cupcakes encased neatly in an unmarked truck. It is an escape-the-room type of game, made before I knew what an escape-the-room game was.&lt;/p&gt;&#xA;&lt;p&gt;The Cupcake Machine is an glorious old cupcake making machine, which is first presented to the unsuspecting audience members on a tour hosted by an enthusiastic Cupcake Machine representative. But the tour eventually goes terribly awry when the machine breaks down. Smoke, alarms, flashing lights everywhere! The participants must then fix the machine by solving puzzles  -- pushing buttons and pulling levers on the machine. If they are successful, they will be rewarded with delicious cupcakes dispensed by the machine.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Noisegenerator</title>
-      <link>http://kahoabe.net/portfolio/noise-generator/</link>
-      <pubDate>Thu, 05 Nov 2009 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/noise-generator/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;A 4-step sequencer, made from Forrest M. Mims III&#39;s sound synthesizer circuit that uses two 555 timer IC chips, AKA the Atari Punk Console. There are additional switches that allow for changing the sequence pattern, as well as one that switches between the sequencer and a dynamic noise generator controlled by a photoresistor. The custom face plate was made using a semi-transparent acrylic sheet, stenciled and laser-etched from the inside, and then painted.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Haptic Music Gloves</title>
-      <link>http://kahoabe.net/portfolio/haptic-music-gloves/</link>
-      <pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/haptic-music-gloves/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;A handshake is a common way to greet and communicate people in many social situations. It is a simple ritual that carries understanding and trust. Music is an universal language. It transcends language barriers, creating opportunities for people to communicate even if they do not understand each other’s spoken words. Utilizing these two basic elements, Haptic Music Gloves is a sound installation that creates an opportunity for people to connect simply by mixing music when their hands are linked together.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Oh Shit!</title>
-      <link>http://kahoabe.net/portfolio/oh-shit/</link>
-      <pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/oh-shit/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Oh Shit! is a narrative-based board game about the stresses of buying gifts for loved ones for the holidays, while being sick from eating bad food. The player who is done buying all the gifts on their list first is the winner. Please excuse the potty humor!&lt;/p&gt;&#xA;&lt;h3 id=&#34;more-information&#34;&gt;More Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rules and Objectives [&lt;a href=&#34;OhShit.pdf&#34;&gt;pdf&lt;/a&gt;]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;    &#xA;  &#xA;&#xA;&#xA;&lt;div class=&#34;gallery hover-effect-zoom caption-effect-fade caption-position-bottom&#34;&gt;&#xA;  &#xA;  &#xA;  &#xA;    &#xA;    &#xA;    &#xA;    &lt;figure&gt;&#xA;      &#xA;        &#xA;        &#xA;        &lt;a href=&#34;#img-0-0&#34;&gt;&#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/oh-shit/ohshit%202_hu_db66fb7d57d78f42.jpg&#34; alt=&#34;Ohshit 2&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;img-0-0&#34; class=&#34;lightbox&#34;&gt;&#xA;      &lt;a href=&#34;#&#34; class=&#34;lightbox-close&#34;&gt;&amp;times;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-3&#34; class=&#34;lightbox-prev&#34; title=&#34;Previous&#34; aria-label=&#34;Previous&#34;&gt;&amp;#8249;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-1&#34; class=&#34;lightbox-next&#34; title=&#34;Next&#34; aria-label=&#34;Next&#34;&gt;&amp;#8250;&lt;/a&gt;&#xA;&#xA;      &lt;div class=&#34;lightbox-content&#34;&gt;&#xA;        &#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/oh-shit/ohshit%202.jpg&#34; alt=&#34;Ohshit 2&#34;&gt;&#xA;        &#xA;        &lt;p class=&#34;lightbox-caption&#34;&gt;Ohshit 2&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &#xA;  &#xA;    &#xA;    &#xA;    &#xA;    &lt;figure&gt;&#xA;      &#xA;        &lt;a href=&#34;#img-0-1&#34;&gt;&#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/oh-shit/ohshit_poometer_big.gif&#34; alt=&#34;Ohshit Poometer Big&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;img-0-1&#34; class=&#34;lightbox&#34;&gt;&#xA;      &lt;a href=&#34;#&#34; class=&#34;lightbox-close&#34;&gt;&amp;times;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-0&#34; class=&#34;lightbox-prev&#34; title=&#34;Previous&#34; aria-label=&#34;Previous&#34;&gt;&amp;#8249;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-2&#34; class=&#34;lightbox-next&#34; title=&#34;Next&#34; aria-label=&#34;Next&#34;&gt;&amp;#8250;&lt;/a&gt;&#xA;&#xA;      &lt;div class=&#34;lightbox-content&#34;&gt;&#xA;        &#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/oh-shit/ohshit_poometer_big.gif&#34; alt=&#34;Ohshit Poometer Big&#34;&gt;&#xA;        &#xA;        &lt;p class=&#34;lightbox-caption&#34;&gt;Ohshit Poometer Big&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Sleeve Station</title>
-      <link>http://kahoabe.net/portfolio/sleeve-station/</link>
-      <pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/sleeve-station/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;The Sleeve Station is an interactive installation demonstrating that we do not have to sacrifice the social messages in our clothing when wearing clothing embedded with technology. There are 4 sleeves in varying fashion styles -- punk, athletic, classic and casual. Each sleeve has its own unique, discreet interface using objects that are already found on clothing, like snaps and buttons, that allow the user to control one mp3 player. The user can toggle through the various sleeves by a push of a button, demonstrating the modularity and flexibility of keeping the same technology while changing out the interface for it -- just as we change our outfit daily.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digital Euthanasia</title>
-      <link>http://kahoabe.net/portfolio/digital-euthanasia/</link>
-      <pubDate>Sat, 05 Nov 2005 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/digital-euthanasia/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Digital Euthanasia is a 30 second science fiction radio play about the first cat to be digitally euthanized. Made with voice recordings, composed music and Pro Tools. This is a recording I made in a sound design class during graduate school.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Voice of Cat Owner: Daniel London&lt;/li&gt;&#xA;&lt;li&gt;Voice of Cat: Sammy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;embed-center&#34;&gt;&#xA;&lt;iframe scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/364273037&amp;amp;color=%23bcbcbc&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>The Devastator</title>
-      <link>http://kahoabe.net/portfolio/the-devastator/</link>
-      <pubDate>Wed, 05 Nov 2003 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/the-devastator/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;The Devastator is a sound machine that 2 people use facing each other. Each user can use their interface to generate their own tone. It is meant to be used without instructions, and with some experimentation, the users are able to see that not only do the controls manipulate their own sound, but has a secondary impact on the other user’s sound. A playful, dance-like dialogue of sounds emerge.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Alt Ego</title>
-      <link>http://kahoabe.net/portfolio/alt-ego/</link>
-      <pubDate>Fri, 05 Jan 2018 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/alt-ego/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Main project description...&lt;/p&gt;&#xA;&lt;h3 id=&#34;process&#34;&gt;Process&lt;/h3&gt;&#xA;&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&lt;div class=&#34;gallery hover-effect-zoom caption-effect-fade caption-position-bottom&#34;&gt;&#xA;  &#xA;  &#xA;  &#xA;    &#xA;    &#xA;    &#xA;    &lt;figure&gt;&#xA;      &#xA;        &#xA;        &#xA;        &lt;a href=&#34;#img-0-0&#34;&gt;&#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/IMG_6592_hu_485cff953d7d2ff1.JPG&#34; alt=&#34;IMG_6592.JPG&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;img-0-0&#34; class=&#34;lightbox&#34;&gt;&#xA;      &lt;a href=&#34;#&#34; class=&#34;lightbox-close&#34;&gt;&amp;times;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-3&#34; class=&#34;lightbox-prev&#34; title=&#34;Previous&#34; aria-label=&#34;Previous&#34;&gt;&amp;#8249;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-1&#34; class=&#34;lightbox-next&#34; title=&#34;Next&#34; aria-label=&#34;Next&#34;&gt;&amp;#8250;&lt;/a&gt;&#xA;&#xA;      &lt;div class=&#34;lightbox-content&#34;&gt;&#xA;        &#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/IMG_6592.JPG&#34; alt=&#34;IMG_6592.JPG&#34;&gt;&#xA;        &#xA;        &lt;p class=&#34;lightbox-caption&#34;&gt;IMG_6592.JPG&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &#xA;  &#xA;    &#xA;    &#xA;    &#xA;    &lt;figure&gt;&#xA;      &#xA;        &#xA;        &#xA;        &lt;a href=&#34;#img-0-1&#34;&gt;&#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/IMG_6594_hu_147bdc623c231c31.JPG&#34; alt=&#34;IMG_6594.JPG&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;img-0-1&#34; class=&#34;lightbox&#34;&gt;&#xA;      &lt;a href=&#34;#&#34; class=&#34;lightbox-close&#34;&gt;&amp;times;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-0&#34; class=&#34;lightbox-prev&#34; title=&#34;Previous&#34; aria-label=&#34;Previous&#34;&gt;&amp;#8249;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-2&#34; class=&#34;lightbox-next&#34; title=&#34;Next&#34; aria-label=&#34;Next&#34;&gt;&amp;#8250;&lt;/a&gt;&#xA;&#xA;      &lt;div class=&#34;lightbox-content&#34;&gt;&#xA;        &#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/IMG_6594.JPG&#34; alt=&#34;IMG_6594.JPG&#34;&gt;&#xA;        &#xA;        &lt;p class=&#34;lightbox-caption&#34;&gt;IMG_6594.JPG&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &#xA;  &#xA;    &#xA;    &#xA;    &#xA;    &lt;figure&gt;&#xA;      &#xA;        &#xA;        &#xA;        &lt;a href=&#34;#img-0-2&#34;&gt;&#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/IMG_6627_hu_1994eb4b5b42795e.JPG&#34; alt=&#34;IMG_6627.JPG&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;img-0-2&#34; class=&#34;lightbox&#34;&gt;&#xA;      &lt;a href=&#34;#&#34; class=&#34;lightbox-close&#34;&gt;&amp;times;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-1&#34; class=&#34;lightbox-prev&#34; title=&#34;Previous&#34; aria-label=&#34;Previous&#34;&gt;&amp;#8249;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-3&#34; class=&#34;lightbox-next&#34; title=&#34;Next&#34; aria-label=&#34;Next&#34;&gt;&amp;#8250;&lt;/a&gt;&#xA;&#xA;      &lt;div class=&#34;lightbox-content&#34;&gt;&#xA;        &#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/IMG_6627.JPG&#34; alt=&#34;IMG_6627.JPG&#34;&gt;&#xA;        &#xA;        &lt;p class=&#34;lightbox-caption&#34;&gt;IMG_6627.JPG&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &#xA;  &#xA;    &#xA;    &#xA;    &#xA;    &lt;figure&gt;&#xA;      &#xA;        &#xA;        &#xA;        &lt;a href=&#34;#img-0-3&#34;&gt;&#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/alt-ego_hu_f2b7a1cb1b084560.png&#34; alt=&#34;alt-ego.png&#34;&gt;&#xA;        &lt;/a&gt;&#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;    &lt;div id=&#34;img-0-3&#34; class=&#34;lightbox&#34;&gt;&#xA;      &lt;a href=&#34;#&#34; class=&#34;lightbox-close&#34;&gt;&amp;times;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-2&#34; class=&#34;lightbox-prev&#34; title=&#34;Previous&#34; aria-label=&#34;Previous&#34;&gt;&amp;#8249;&lt;/a&gt;&#xA;&#xA;      &#xA;      &#xA;      &#xA;        &#xA;      &#xA;      &#xA;      &lt;a href=&#34;#img-0-0&#34; class=&#34;lightbox-next&#34; title=&#34;Next&#34; aria-label=&#34;Next&#34;&gt;&amp;#8250;&lt;/a&gt;&#xA;&#xA;      &lt;div class=&#34;lightbox-content&#34;&gt;&#xA;        &#xA;          &lt;img src=&#34;http://kahoabe.net/portfolio/alt-ego/alt-ego.png&#34; alt=&#34;alt-ego.png&#34;&gt;&#xA;        &#xA;        &lt;p class=&#34;lightbox-caption&#34;&gt;alt-ego.png&lt;/p&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &#xA;  &#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Casual Encounters the Game</title>
-      <link>http://kahoabe.net/portfolio/casual-encouters/</link>
-      <pubDate>Wed, 05 Oct 2011 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/casual-encouters/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Casual Encounters the Game is a party game (NSFW!) where two people compete to match correctly the image with the Craigslist casual encounter ad title. The image is slowly revealed, rewarding the player who is the first to imagine the rest of the image.&lt;/p&gt;&#xA;&lt;p&gt;The game was created at the Creator&#39;s Project Art Hack Weekend that took place at Eyebeam in April 2011. Our team, Team Casual, consisted of: &lt;a href=&#34;https://jeffish.com/&#34;&gt;Jeff Crouse&lt;/a&gt;, &lt;a href=&#34;https://www.ameliamarzec.com&#34;&gt;Amelia Marzec&lt;/a&gt;, &lt;a href=&#34;https://splnlss.com/&#34;&gt;Jon Cohrs&lt;/a&gt;, &lt;a href=&#34;https://aaron-meyers.com/&#34;&gt;Aaron Meyers&lt;/a&gt; and me. We won Honorable Mention and even got mentioned in &lt;a href=&#34;https://gizmodo.com/craigslists-casual-encounters-penises-are-the-internets-5828767&#34;&gt;Gizmodo&lt;/a&gt;. The code is released by Jeff &lt;a href=&#34;https://github.com/jefftimesten/Casual-Encounters-Game&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fashion Design</title>
-      <link>http://kahoabe.net/portfolio/fashion-design/</link>
-      <pubDate>Thu, 05 Nov 2009 20:23:59 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/fashion-design/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Prior to 2010, I was a fashion designer for 14 years, working across women&#39;s, men&#39;s, and children&#39;s wear for both global and smaller couture labels. I also created custom garments for special occasions, mainly wedding and evening dresses, specializing in corseted strapless designs with boning.&lt;/p&gt;&#xA;&lt;p&gt;As a child, I spent a lot of time studying fashion designers and their creations. The walls of my bedroom were covered in fashion magazine tear-outs of whatever I loved in the moment, inlcuding Issey Miyake, Rei Kawakubo, and Jean-Paul Gaultier. I would spend time at local fabric stores learning about textiles and then attempt to stitch together clothing. I loved the fit and shape of garments but also the performance around fashion. The music, stories, and feelings associated with the clothes we wear has always excited me. So even though I studied Economics in college, upon graduating I shifted to fashion design, determined not to miss my chance.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Circle of Friends</title>
-      <link>http://kahoabe.net/portfolio/circle-of-friends/</link>
-      <pubDate>Tue, 05 Oct 2004 18:25:22 +0530</pubDate>
-      <guid>http://kahoabe.net/portfolio/circle-of-friends/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Circle of Friends is a pre-Facebook, online social photo sharing game made with PHP and MySQL. This game was designed while in graduate school at Parsons MFA Design and Technology program.&lt;/p&gt;&#xA;&lt;p&gt;A circle of friends is formed, the moderator decides on a theme, and then all the members of the circle must post a photo in order to make the round of photos available. If any of the members do not post a photo, the circle will “die” and the photos never become visible. If the circle is completed successfully, then and only then will the members be able to view the posted photographs and comments on them.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Kaho Abe's Website</title><link>http://kahoabe.net/portfolio/</link><description>Recent content in Portfolios on Kaho Abe's Website</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 18:25:22 +0530</lastBuildDate><atom:link href="http://kahoabe.net/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Touch</title><link>http://kahoabe.net/portfolio/touch/</link><pubDate>Fri, 15 Mar 2024 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/touch/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>&amp;quot;Touch&amp;quot; is about our reemergence after the isolation experience during the Covid pandemic of 2020, celebrating physical interaction and face-to-face play once again.&lt;/p>
+&lt;h3 id="the-experience">The Experience&lt;/h3>
+&lt;p>&amp;quot;Touch&amp;quot; invites participants to reconnect through a unique, interactive soundscape. The experience begins when participants hold hands, initiating looped music. As they explore further, tapping each other's hands and fingers triggers additional sounds layered over the base loop. Participants gradually discover that touching any skin surface produces sounds, encouraging playful experimentation and the gradual dissolution of physical boundaries. The installation allows for multiple players to join, creating chains of connection around the table.&lt;/p></description></item><item><title>Hotaru</title><link>http://kahoabe.net/portfolio/hotaru/</link><pubDate>Wed, 05 Oct 2016 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/hotaru/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Hotaru is a 2-person cooperative task-based game, where the players play the role of the last remaining lightning bugs in a fantastical world, in their last stand against an invisible enemy. One player creates lightning, accumulating it in a tank, through gestures. Once the tank is full, then transfers the lightning to the other player by holding hands. The other player, collecting the lightning in their gauntlet, can then shoot the lightning. The game is ultimately about playing a role, and the movement of the body -- poses and gestures -- and about cooperation.&lt;/p></description></item><item><title>Ninja Shadow Warrior</title><link>http://kahoabe.net/portfolio/ninja-shadow-warrior/</link><pubDate>Mon, 05 Nov 2012 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/ninja-shadow-warrior/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Ninja Shadow Warrior is a stand alone photo booth arcade game using the Kinect camera, computer and a hacked closet light button built into a custom game cabinet.&lt;/p>
+&lt;p>The palace is under attack and the player must use his/her ninja magic to hide by “becoming” objects. The player must fill out the silhouette of a randomly chosen object from the ninja palace as accurately as possible.&lt;/p>
+&lt;p>The game encourages face-to-face cooperative interaction through strategy, rather than rules, as multiple ninjas can fill out object silhouettes more accurately and thus achieve a higher score. The score achieved during a game in addition to the snapshot is posted on a website where it can be shared. &lt;a href="http://ninjashadowwarrior-blog.tumblr.com/">http://ninjashadowwarrior-blog.tumblr.com/&lt;/a>&lt;/p></description></item><item><title>Hit Me!</title><link>http://kahoabe.net/portfolio/hit-me/</link><pubDate>Wed, 05 Oct 2011 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/hit-me/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Hit Me! is a two-player hyper-interactive, physical game that tests speed, agility and the ability to take good snapshots. Utilizing wireless technology and incorporating the concept of the metagame, Hit Me! encourages face-to-face real-world interactions, not only by the players but also by the spectators.&lt;/p>
+&lt;p>The object of the game is to hit the opponent’s button on top of the head. Once a hit is made, the hitter’s camera takes a snapshot of the victim. The hitter receives a point for the hit, and up to 2 additional points can be awarded by the Judge based on the quality of the snapshot. The snapshots, points and times are projected on a wall for spectators to observe.&lt;/p></description></item><item><title>Frankenstein AI</title><link>http://kahoabe.net/portfolio/frankenstein-ai/</link><pubDate>Mon, 01 Jan 2018 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/frankenstein-ai/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Influenced by the collaborative engagement of the Ouija Board Planchette, these controllers are designed to be used by 2 users together, to glide over a touch-sensitive screen. It allows the users to engage with each other, to collectively arrive at an answer to the questions being asked. Users must rest their fingers upon the perforated metal components of the controller in order for it to be sensed by the technology.&lt;/p></description></item><item><title>Selfiestick Deathmatch</title><link>http://kahoabe.net/portfolio/selfiestick-deathmatch/</link><pubDate>Thu, 05 Oct 2017 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/selfiestick-deathmatch/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Selfie Deathmatch is a two person competitive physical game where the players stand in a very small circle each holding a selfiestick loaded with a camera phone. The phones automatically take a photo on a timer, and then the photo is judged. The number of faces counted is the base score. The photos are then tweeted (&lt;a href="https://twitter.com/selfiedm)">https://twitter.com/selfiedm)&lt;/a>, and the number of likes and retweets adds to the base score. All selfies are viewable from an eternal leader board.&lt;/p></description></item><item><title>Mary Mack 5000</title><link>http://kahoabe.net/portfolio/mary-mack-5000/</link><pubDate>Fri, 05 Nov 2010 19:56:17 +0530</pubDate><guid>http://kahoabe.net/portfolio/mary-mack-5000/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Mary Mack 5000 is a fast-paced, competitive, technologically enhanced twist on the classic schoolyard hand clapping game. Strap on your special MM5000 gloves and show off your speed, accuracy, and style! This is a collaborative project made with Lina Fenequito, with music from Ray Mancini and Sergey Popovich.&lt;/p>
+&lt;p>These days, most games are played on computers and consoles, often alone or with people online. Mary Mack 5000 is an event game designed to encourage face-to-face interaction between the players. With the use of gloves with conductive contact sensors, a vest with additional contact sensors, the Arduino, Flash, laptop and projector, we hope that people will be able to enjoy themselves both by playing as well as by watching the game.&lt;/p></description></item><item><title>Spiritus Chronomatix</title><link>http://kahoabe.net/portfolio/spiritus-chronomatix/</link><pubDate>Wed, 05 Oct 2016 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/spiritus-chronomatix/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Narrative-based AR puzzle game using the Google Tango as a tool to travel through time, and to see into the ghost world. There is an angry spirit in the room, turning on lights, making sounds, and setting off the Reliever contraption.&lt;/p>
+&lt;h3 id="support">Support&lt;/h3>
+&lt;p>Sam Sadtler worked on the wireless communications between the objects. This project was supported by NYU Game Innovation Lab and NYU Tisch Experiments in Storytelling.&lt;/p>
+&lt;h3 id="gallery">Gallery&lt;/h3>
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="gallery hover-effect-zoom caption-effect-fade caption-position-bottom">
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure>
+ 
+ 
+ 
+ &lt;a href="#img-0-0">
+ &lt;img src="http://kahoabe.net/portfolio/spiritus-chronomatix/IMG_5356_hu_e346b9a256b06b52.JPG" alt="Img 5356">
+ &lt;/a>
+ 
+ &lt;/figure>
+
+ &lt;div id="img-0-0" class="lightbox">
+ &lt;a href="#" class="lightbox-close">&amp;times;&lt;/a>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-7" class="lightbox-prev" title="Previous" aria-label="Previous">&amp;#8249;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-1" class="lightbox-next" title="Next" aria-label="Next">&amp;#8250;&lt;/a>
+
+ &lt;div class="lightbox-content">
+ 
+ &lt;img src="http://kahoabe.net/portfolio/spiritus-chronomatix/IMG_5356.JPG" alt="Img 5356">
+ 
+ &lt;p class="lightbox-caption">Img 5356&lt;/p></description></item><item><title>Wizard Hand</title><link>http://kahoabe.net/portfolio/wizard-hand/</link><pubDate>Mon, 05 Oct 2015 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/wizard-hand/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>At the museum, you are curiously drawn to the dusty remains of a skeletal hand, tucked safely behind a glass case, that legend tells once belonged to a powerful wizard. You instinctively put it on, ignoring the sign, &amp;quot;DO NOT TOUCH!&amp;quot; -- and the world changes. As you walk through the museum, the artifacts come to life, some carrying spirits with timeless grudges against the wizard, whose hand now has become yours.&lt;/p></description></item><item><title>Little Happies</title><link>http://kahoabe.net/portfolio/little-happies/</link><pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/little-happies/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Little Happies are things that make bring people comfort and happiness in small ways. This includes anything from cute plushies that you might keep by your computer, or a small cupcake in your favorite flavors, or a goofy shirt that you love to wear. Little Happies the game is an over-the-top, bordering on ridiculousness, nod to all the Little Happies out there in the world.&lt;/p>
+&lt;p>The game was built with Toni Pizza for the Indiecade Arcade at GaymerX 2014. It is a mod of Ninja Shadow Warrior. We refaced the cabinet, reskinned the game, and added the feature of posting to Twitter (&lt;a href="https://twitter.com/iamgamebot">https://twitter.com/iamgamebot&lt;/a>) instead of Tumblr.&lt;/p></description></item><item><title>Mitgenommen</title><link>http://kahoabe.net/portfolio/mitgenommen/</link><pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/mitgenommen/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Designed for a hidden park tucked away in the middle of the city of Witten, Germany, we hand-made various playfully mysterious wooden boxes -- some that light up, some that move, some that make sounds -- from found materials, reclaimed wood and hacked electronics. Designed for the people who would hang out at the park, we hoped to create playful experiences and curiosity through these boxes that eventually would disappear into the space.&lt;/p></description></item><item><title>Window Vistas</title><link>http://kahoabe.net/portfolio/window-vistas/</link><pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/window-vistas/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Window Vistas is a game made during the Train Jam 2014 on the Amtrak Zephyr train. During this 52 hours adventure from Chicago to San Francisco for the Game Developer's Conference, we were inspired by the ever-changing scenery we saw through the window. We rode through Illinois, Nebraska, Colorado, Nevada and California. Players can enjoy the vistas and take photos from our window too.&lt;/p>
+&lt;h3 id="technology">Technology&lt;/h3>
+&lt;p>The procedurally generated environment is built on the &lt;a href="http://web.archive.org/web/20221224174957/http://www.polycode.org/">Polycode&lt;/a> framework. I was responsible for the circuit built using the Arduino-based FLORA microcontroller and a photodiode, microphone and piezo vibration sensor. The sounds, vibrations and light flickering in the cabin influenced the game environment.&lt;/p></description></item><item><title>Pandemojis</title><link>http://kahoabe.net/portfolio/pandemojis/</link><pubDate>Tue, 05 Aug 2014 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/pandemojis/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Pandemojis is a social classroom game using a webcam and facial recognition software that helps players to identify emotions in themselves. The player must first catch an emoji that is falling from the top of the screen onto their head. Once they are &amp;quot;wearing&amp;quot; the emoji, they are then asked to make a gesture or pose that expresses the emotion they are &amp;quot;wearing&amp;quot;. Then the classroom is asked to guess the emotion. Pandemojis can represent complex emotions, and is a playful way to create discussion around emotions and expression which may otherwise be awkward to talk about.&lt;/p></description></item><item><title>Mecha Mouse</title><link>http://kahoabe.net/portfolio/mecha-mouse/</link><pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/mecha-mouse/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Mecha Mouse is a 3-5 player game, where constant communication and banter is needed to collaboratively move a mecha built from cardboard and found objects. Super-intelligent mice have escaped from the local science lab, and have now settled in an unsuspecting family's home. They must drive a mecha to hunt for cheese and other sustenance, while avoiding the laser shooting robot cat.&lt;/p>
+&lt;p>The real life model of the mecha mouse was created to better visualize the character, before drawing in Blender. Calico Critters (Sylvanian Family) mice were used.&lt;/p></description></item><item><title>Shake It Up!</title><link>http://kahoabe.net/portfolio/shake-it-up/</link><pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/shake-it-up/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Remember when you were a kid, you'd shake up a can of soda and hand it to an unsuspecting friend? And when your friend opened it, they'd be doused in an explosion of soda? Well, this game is based on that nostalgic experience. One player is asked to shake the soda can and the place it on the table. All players must wait until it is safe to pick up the soda. If a player picks it up too early, the soda will &amp;quot;explode&amp;quot;, and the player loses. If a player is the first person to pick up the soda without it exploding, then the player is the winner. The winner can then be the player to shake the soda in the next round.&lt;/p></description></item><item><title>Portable Projection Dome</title><link>http://kahoabe.net/portfolio/portable-projection-dome/</link><pubDate>Mon, 05 Nov 2012 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/portable-projection-dome/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>This is a very large, hand-made, quarter-sphere projection dome that measures 10 ft. high and 20 ft. wide. It was made from a beachball pattern making spreadsheet found on the internet, which I unfortunately lost the link for. I used stretchy knit projection fabric, cotton herringbone taping, fiber glass replacement camping tent poles, upholstery thread, and some thick rope. When packed up it is surprisingly light enough for one strong person to carry.&lt;/p></description></item><item><title>Discreet Interfaces</title><link>http://kahoabe.net/portfolio/discreet-interfaces/</link><pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/discreet-interfaces/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>It is often taken for granted that our clothing serves a crucial connection to the world around us. Our clothing is rich in subtle messages; about who we are, who we want to be, and our roles in society. Discreet Interfaces enables the wearer to carry and utilize the technology without compromising any of these messages. Its discreetness, using elements of clothing we are already familiar with, allows flexibility of style while allowing for portability and accessibility to the embedded technology.&lt;/p></description></item><item><title>BallAR</title><link>http://kahoabe.net/portfolio/ballar/</link><pubDate>Thu, 05 Sep 2019 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/ballar/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Ramsey and I were invited to participate in the Google AR Core Game Jam that took place in September of 2019 in Los Angeles. We made a multiplayer AR tennis type game where the room becomes a ball court. First the player must scan the room with the mobile device, and then enter each player's name. Then the game begins! Each player's name is called by the game at the top of their turn, and the player then must hit the virtual (screaming) ball. The phone itself is the racket, and must be passed from player to player between turns. The objective is to continue the volley as long as possible.&lt;/p></description></item><item><title>Safer Sex Shuffle</title><link>http://kahoabe.net/portfolio/safer-sex-shuffle/</link><pubDate>Wed, 05 Nov 2014 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/safer-sex-shuffle/</guid><description>&lt;p style="color: red; font-weight: 500; font-size: 1.1rem;">NSFW&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>&lt;a href="https://safersexshuffle.com/">Safer Sex Shuffle&lt;/a> is a casual browser-based puzzle game where the player must make tile combos in order to progress in the game, racking up points. The tiles consist of body part tiles (butts, mouths, hands, penises and vaginas) and barrier tiles (dental dams and condoms). In order to make a combo, the player must select body part tiles with the correct barrier in between if needed. Once a combo is made the tiles disappear, new ones appear and shift down. The objective is to get the highest number of points before the clock runs out.&lt;/p></description></item><item><title>MicroμN</title><link>http://kahoabe.net/portfolio/microun/</link><pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/microun/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>MicroμN is an experimental roleplaying game inspired by the numerous uninhabited islands that lie in the waters around New York City, where players became the rulers of their own lands. First starting in person at our headquarters on Governor's Island, we registered each player and took portraits of them. The game then continued virtually for a month via email, where the rulers would battle it out to take over other islands. The final result was a winning ruler who had conquered all the islands.&lt;/p></description></item><item><title>Robots in the Sky</title><link>http://kahoabe.net/portfolio/robots-in-the-sky/</link><pubDate>Sun, 05 Oct 2014 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/robots-in-the-sky/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Robots In The Sky is a two-player shooter game where players use their eyes to aim and shoot at virtual flying robots. Players take on the role of a defensive mech and deflect evil flying robots by looking them, causing the mech’s laser eyes to fire and shoot them out of the sky. The eyes of each player are tracked using &lt;a href="http://www.tobii.com/">Tobii&lt;/a> hardware and fed into the Unity game as the sole input. The game was comissioned by &lt;a href="http://www.notimpossible.com/blog/2014/7/3/the-brainwriter-eeg-eye-tracking-paired-for-not-impossibles-latest-innovation">Not Impossible&lt;/a> and installed at the &lt;a href="http://www.barbican.org.uk">Barbican Digital Revolution&lt;/a> show. We were responsible for the video game, and the eye tracking components only.&lt;/p></description></item><item><title>Don't Wake the Bear</title><link>http://kahoabe.net/portfolio/dont-wake-the-bear/</link><pubDate>Tue, 05 Nov 2013 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/dont-wake-the-bear/</guid><description>&lt;p>Ramsey Nasser (game design, programming)&lt;br>
+Kaho Abe (game design, graphics)&lt;br>
+Francis Hsueh (sound design)&lt;/p>
+&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>“Don’t Wake the Bear” is a multiplayer game designed to be played on a single gaming device by up to 8 players at a time. The game can be played with friends and family, young and old, in any social space. Could be a good party game!&lt;/p>
+&lt;p>It’s a strategic “hot potato” game, where you must take turns passing around the device and dropping items on a sleeping bear. Some items agitate the bear, while others soothe it. If the bear wakes up during your turn, then you will be eaten. The last one remaining is the winner.&lt;/p></description></item><item><title>Bunny Blur</title><link>http://kahoabe.net/portfolio/bunny-blur/</link><pubDate>Sat, 05 Oct 2013 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/bunny-blur/</guid><description>&lt;h4 id="summary">Summary&lt;/h4>
+&lt;p>In the world of cut throat bunny street racing, where do you stand?&lt;/p>
+&lt;p>Bunny Blur is a work-in-progress stand alone car racing arcade game. This game experiments with storytelling through the custom dashboard and the arcade cabinet. The game is influenced heavily by personal experience playing racing games at the arcade during the 80's, goofy retro cartoons, and the Fast and Furious franchise. The intent here is to make a fun and engaging racing game that plays with the line between physical and digital experiences. Admittedly there is also some poking fun at the straight male culture that exists around speed, racing and cars, by replacing all humans with bunnies.&lt;/p></description></item><item><title>Mario Ball</title><link>http://kahoabe.net/portfolio/mad-fun-show/</link><pubDate>Mon, 05 Nov 2012 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/mad-fun-show/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Mario Ball is oversized physical controller for the original Mario Brothers game that requires 2 people to hold it up and use it. The controller uses 90 magnetic reed switches which are triggered when a magnetic ball (dressed up as Mario) is rolled around. The Arduino and 6 multiplexers are used in addition to the magnetic reed switches. The maze senses where the ball is and Mario appears at the corresponding location on the original Mario Brothers screen interface. I love that the controller is built for 2 people and is large and heavy enough so that it is almost impossible for one person to play alone. It even has cute ceramic and brass handles to indicate where the players should hold it.I built the controller with Keita, and Vikram wrote the code for the game.&lt;/p></description></item><item><title>The Cupcake Machine</title><link>http://kahoabe.net/portfolio/the-cupcake-machine/</link><pubDate>Fri, 05 Oct 2012 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/the-cupcake-machine/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>The Cupcake Machine is a playful experience combining audience participation, performance, puzzles and cupcakes encased neatly in an unmarked truck. It is an escape-the-room type of game, made before I knew what an escape-the-room game was.&lt;/p>
+&lt;p>The Cupcake Machine is an glorious old cupcake making machine, which is first presented to the unsuspecting audience members on a tour hosted by an enthusiastic Cupcake Machine representative. But the tour eventually goes terribly awry when the machine breaks down. Smoke, alarms, flashing lights everywhere! The participants must then fix the machine by solving puzzles -- pushing buttons and pulling levers on the machine. If they are successful, they will be rewarded with delicious cupcakes dispensed by the machine.&lt;/p></description></item><item><title>Noisegenerator</title><link>http://kahoabe.net/portfolio/noise-generator/</link><pubDate>Thu, 05 Nov 2009 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/noise-generator/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>A 4-step sequencer, made from Forrest M. Mims III's sound synthesizer circuit that uses two 555 timer IC chips, AKA the Atari Punk Console. There are additional switches that allow for changing the sequence pattern, as well as one that switches between the sequencer and a dynamic noise generator controlled by a photoresistor. The custom face plate was made using a semi-transparent acrylic sheet, stenciled and laser-etched from the inside, and then painted.&lt;/p></description></item><item><title>Haptic Music Gloves</title><link>http://kahoabe.net/portfolio/haptic-music-gloves/</link><pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/haptic-music-gloves/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>A handshake is a common way to greet and communicate people in many social situations. It is a simple ritual that carries understanding and trust. Music is an universal language. It transcends language barriers, creating opportunities for people to communicate even if they do not understand each other’s spoken words. Utilizing these two basic elements, Haptic Music Gloves is a sound installation that creates an opportunity for people to connect simply by mixing music when their hands are linked together.&lt;/p></description></item><item><title>Oh Shit!</title><link>http://kahoabe.net/portfolio/oh-shit/</link><pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/oh-shit/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Oh Shit! is a narrative-based board game about the stresses of buying gifts for loved ones for the holidays, while being sick from eating bad food. The player who is done buying all the gifts on their list first is the winner. Please excuse the potty humor!&lt;/p>
+&lt;h3 id="more-information">More Information&lt;/h3>
+&lt;ul>
+&lt;li>Rules and Objectives [&lt;a href="OhShit.pdf">pdf&lt;/a>]&lt;/li>
+&lt;/ul>
+&lt;h3 id="gallery">Gallery&lt;/h3>
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;div class="gallery hover-effect-zoom caption-effect-fade caption-position-bottom">
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure>
+ 
+ 
+ 
+ &lt;a href="#img-0-0">
+ &lt;img src="http://kahoabe.net/portfolio/oh-shit/ohshit%202_hu_db66fb7d57d78f42.jpg" alt="Ohshit 2">
+ &lt;/a>
+ 
+ &lt;/figure>
+
+ &lt;div id="img-0-0" class="lightbox">
+ &lt;a href="#" class="lightbox-close">&amp;times;&lt;/a>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-3" class="lightbox-prev" title="Previous" aria-label="Previous">&amp;#8249;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-1" class="lightbox-next" title="Next" aria-label="Next">&amp;#8250;&lt;/a>
+
+ &lt;div class="lightbox-content">
+ 
+ &lt;img src="http://kahoabe.net/portfolio/oh-shit/ohshit%202.jpg" alt="Ohshit 2">
+ 
+ &lt;p class="lightbox-caption">Ohshit 2&lt;/p>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure>
+ 
+ &lt;a href="#img-0-1">
+ &lt;img src="http://kahoabe.net/portfolio/oh-shit/ohshit_poometer_big.gif" alt="Ohshit Poometer Big">
+ &lt;/a>
+ 
+ &lt;/figure>
+
+ &lt;div id="img-0-1" class="lightbox">
+ &lt;a href="#" class="lightbox-close">&amp;times;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-0" class="lightbox-prev" title="Previous" aria-label="Previous">&amp;#8249;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-2" class="lightbox-next" title="Next" aria-label="Next">&amp;#8250;&lt;/a>
+
+ &lt;div class="lightbox-content">
+ 
+ &lt;img src="http://kahoabe.net/portfolio/oh-shit/ohshit_poometer_big.gif" alt="Ohshit Poometer Big">
+ 
+ &lt;p class="lightbox-caption">Ohshit Poometer Big&lt;/p></description></item><item><title>The Sleeve Station</title><link>http://kahoabe.net/portfolio/sleeve-station/</link><pubDate>Sat, 05 Nov 2005 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/sleeve-station/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>The Sleeve Station is an interactive installation demonstrating that we do not have to sacrifice the social messages in our clothing when wearing clothing embedded with technology. There are 4 sleeves in varying fashion styles -- punk, athletic, classic and casual. Each sleeve has its own unique, discreet interface using objects that are already found on clothing, like snaps and buttons, that allow the user to control one mp3 player. The user can toggle through the various sleeves by a push of a button, demonstrating the modularity and flexibility of keeping the same technology while changing out the interface for it -- just as we change our outfit daily.&lt;/p></description></item><item><title>Digital Euthanasia</title><link>http://kahoabe.net/portfolio/digital-euthanasia/</link><pubDate>Sat, 05 Nov 2005 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/digital-euthanasia/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Digital Euthanasia is a 30 second science fiction radio play about the first cat to be digitally euthanized. Made with voice recordings, composed music and Pro Tools. This is a recording I made in a sound design class during graduate school.&lt;/p>
+&lt;ul>
+&lt;li>Voice of Cat Owner: Daniel London&lt;/li>
+&lt;li>Voice of Cat: Sammy&lt;/li>
+&lt;/ul>
+&lt;div class="embed-center">
+&lt;iframe scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/364273037&amp;amp;color=%23bcbcbc&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true">&lt;/iframe>
+&lt;/div></description></item><item><title>The Devastator</title><link>http://kahoabe.net/portfolio/the-devastator/</link><pubDate>Wed, 05 Nov 2003 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/the-devastator/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>The Devastator is a sound machine that 2 people use facing each other. Each user can use their interface to generate their own tone. It is meant to be used without instructions, and with some experimentation, the users are able to see that not only do the controls manipulate their own sound, but has a secondary impact on the other user’s sound. A playful, dance-like dialogue of sounds emerge.&lt;/p></description></item><item><title>Alt Ego</title><link>http://kahoabe.net/portfolio/alt-ego/</link><pubDate>Fri, 05 Jan 2018 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/alt-ego/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Main project description...&lt;/p>
+&lt;h3 id="process">Process&lt;/h3>
+&lt;h3 id="gallery">Gallery&lt;/h3>
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+&lt;div class="gallery hover-effect-zoom caption-effect-fade caption-position-bottom">
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure>
+ 
+ 
+ 
+ &lt;a href="#img-0-0">
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/IMG_6592_hu_485cff953d7d2ff1.JPG" alt="IMG_6592.JPG">
+ &lt;/a>
+ 
+ &lt;/figure>
+
+ &lt;div id="img-0-0" class="lightbox">
+ &lt;a href="#" class="lightbox-close">&amp;times;&lt;/a>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-3" class="lightbox-prev" title="Previous" aria-label="Previous">&amp;#8249;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-1" class="lightbox-next" title="Next" aria-label="Next">&amp;#8250;&lt;/a>
+
+ &lt;div class="lightbox-content">
+ 
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/IMG_6592.JPG" alt="IMG_6592.JPG">
+ 
+ &lt;p class="lightbox-caption">IMG_6592.JPG&lt;/p>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure>
+ 
+ 
+ 
+ &lt;a href="#img-0-1">
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/IMG_6594_hu_147bdc623c231c31.JPG" alt="IMG_6594.JPG">
+ &lt;/a>
+ 
+ &lt;/figure>
+
+ &lt;div id="img-0-1" class="lightbox">
+ &lt;a href="#" class="lightbox-close">&amp;times;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-0" class="lightbox-prev" title="Previous" aria-label="Previous">&amp;#8249;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-2" class="lightbox-next" title="Next" aria-label="Next">&amp;#8250;&lt;/a>
+
+ &lt;div class="lightbox-content">
+ 
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/IMG_6594.JPG" alt="IMG_6594.JPG">
+ 
+ &lt;p class="lightbox-caption">IMG_6594.JPG&lt;/p>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure>
+ 
+ 
+ 
+ &lt;a href="#img-0-2">
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/IMG_6627_hu_1994eb4b5b42795e.JPG" alt="IMG_6627.JPG">
+ &lt;/a>
+ 
+ &lt;/figure>
+
+ &lt;div id="img-0-2" class="lightbox">
+ &lt;a href="#" class="lightbox-close">&amp;times;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-1" class="lightbox-prev" title="Previous" aria-label="Previous">&amp;#8249;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-3" class="lightbox-next" title="Next" aria-label="Next">&amp;#8250;&lt;/a>
+
+ &lt;div class="lightbox-content">
+ 
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/IMG_6627.JPG" alt="IMG_6627.JPG">
+ 
+ &lt;p class="lightbox-caption">IMG_6627.JPG&lt;/p>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure>
+ 
+ 
+ 
+ &lt;a href="#img-0-3">
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/alt-ego_hu_f2b7a1cb1b084560.png" alt="alt-ego.png">
+ &lt;/a>
+ 
+ &lt;/figure>
+
+ &lt;div id="img-0-3" class="lightbox">
+ &lt;a href="#" class="lightbox-close">&amp;times;&lt;/a>
+
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-2" class="lightbox-prev" title="Previous" aria-label="Previous">&amp;#8249;&lt;/a>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a href="#img-0-0" class="lightbox-next" title="Next" aria-label="Next">&amp;#8250;&lt;/a>
+
+ &lt;div class="lightbox-content">
+ 
+ &lt;img src="http://kahoabe.net/portfolio/alt-ego/alt-ego.png" alt="alt-ego.png">
+ 
+ &lt;p class="lightbox-caption">alt-ego.png&lt;/p>
+ &lt;/div>
+ &lt;/div>
+
+ 
+ 
+ 
+&lt;/div></description></item><item><title>Casual Encounters the Game</title><link>http://kahoabe.net/portfolio/casual-encouters/</link><pubDate>Wed, 05 Oct 2011 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/casual-encouters/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Casual Encounters the Game is a party game (NSFW!) where two people compete to match correctly the image with the Craigslist casual encounter ad title. The image is slowly revealed, rewarding the player who is the first to imagine the rest of the image.&lt;/p>
+&lt;p>The game was created at the Creator's Project Art Hack Weekend that took place at Eyebeam in April 2011. Our team, Team Casual, consisted of: &lt;a href="https://jeffish.com/">Jeff Crouse&lt;/a>, &lt;a href="https://www.ameliamarzec.com">Amelia Marzec&lt;/a>, &lt;a href="https://splnlss.com/">Jon Cohrs&lt;/a>, &lt;a href="https://aaron-meyers.com/">Aaron Meyers&lt;/a> and me. We won Honorable Mention and even got mentioned in &lt;a href="https://gizmodo.com/craigslists-casual-encounters-penises-are-the-internets-5828767">Gizmodo&lt;/a>. The code is released by Jeff &lt;a href="https://github.com/jefftimesten/Casual-Encounters-Game">here&lt;/a>.&lt;/p></description></item><item><title>Fashion Design</title><link>http://kahoabe.net/portfolio/fashion-design/</link><pubDate>Thu, 05 Nov 2009 20:23:59 +0530</pubDate><guid>http://kahoabe.net/portfolio/fashion-design/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Prior to 2010, I was a fashion designer for 14 years, working across women's, men's, and children's wear for both global and smaller couture labels. I also created custom garments for special occasions, mainly wedding and evening dresses, specializing in corseted strapless designs with boning.&lt;/p>
+&lt;p>As a child, I spent a lot of time studying fashion designers and their creations. The walls of my bedroom were covered in fashion magazine tear-outs of whatever I loved in the moment, inlcuding Issey Miyake, Rei Kawakubo, and Jean-Paul Gaultier. I would spend time at local fabric stores learning about textiles and then attempt to stitch together clothing. I loved the fit and shape of garments but also the performance around fashion. The music, stories, and feelings associated with the clothes we wear has always excited me. So even though I studied Economics in college, upon graduating I shifted to fashion design, determined not to miss my chance.&lt;/p></description></item><item><title>Circle of Friends</title><link>http://kahoabe.net/portfolio/circle-of-friends/</link><pubDate>Tue, 05 Oct 2004 18:25:22 +0530</pubDate><guid>http://kahoabe.net/portfolio/circle-of-friends/</guid><description>&lt;h3 id="summary">Summary&lt;/h3>
+&lt;p>Circle of Friends is a pre-Facebook, online social photo sharing game made with PHP and MySQL. This game was designed while in graduate school at Parsons MFA Design and Technology program.&lt;/p>
+&lt;p>A circle of friends is formed, the moderator decides on a theme, and then all the members of the circle must post a photo in order to make the round of photos available. If any of the members do not post a photo, the circle will “die” and the photos never become visible. If the circle is completed successfully, then and only then will the members be able to view the posted photographs and comments on them.&lt;/p></description></item></channel></rss>
