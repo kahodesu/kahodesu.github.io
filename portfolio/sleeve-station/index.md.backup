@@ -1,0 +1,47 @@
++++
+draft = false
+image = "/sleevestation/sleevestation.png"
+showonlyimage = true
+date = "2005-11-05T20:23:59+05:30"
+title = "The Sleeve Station"
+weight = 11
+description = "An interactive installation demonstrating that we do not have to sacrifice the social messages in our clothing when wearing clothing embedded with technology."
+projecttype = "Individual project."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_0123.JPG", title = "Img 0123" },
+  { src = "IMG_0124.JPG", title = "Img 0124" },
+  { src = "IMG_0126.JPG", title = "Img 0126" },
+  { src = "IMG_0127.JPG", title = "Img 0127" },
+  { src = "IMG_0130.JPG", title = "Img 0130" },
+  { src = "IMG_0131.JPG", title = "Img 0131" },
+  { src = "IMG_0132.JPG", title = "Img 0132" },
+  { src = "IMG_0135.JPG", title = "Img 0135" },
+  { src = "IMG_0138.JPG", title = "Img 0138" },
+  { src = "IMG_0141.JPG", title = "Img 0141" },
+  { src = "IMG_0142.JPG", title = "Img 0142" },
+  { src = "IMG_0143.JPG", title = "Img 0143" },
+  { src = "IMG_0155.JPG", title = "Img 0155" },
+  { src = "IMG_0156.JPG", title = "Img 0156" },
+  { src = "IMG_0157.JPG", title = "Img 0157" },
+  { src = "sleevestation.png", title = "Sleevestation" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/sleevestation/sleevestation.png" width="400" caption="The punk sleeve from the Sleeve Station. Touch the spikes to control the mp3 player." >}}
+
+### Summary 
+
+The Sleeve Station is an interactive installation demonstrating that we do not have to sacrifice the social messages in our clothing when wearing clothing embedded with technology. There are 4 sleeves in varying fashion styles -- punk, athletic, classic and casual. Each sleeve has its own unique, discreet interface using objects that are already found on clothing, like snaps and buttons, that allow the user to control one mp3 player. one can toggle through the various sleeves by a push of a button, demonstrating the modularity and flexibility of keeping the same technology while changing out the interface for it -- just as we change our outfit daily. 
+
+The Sleeve Station is a part of my Masters of Fine Arts Thesis, Discreet Interfaces, which I wrote at the Parsons Design & Technology Program in 2005. 
+
+### Exhibitions/Demos
+*   2005 International Symposium of Wearable Technology (ISWC) poster demo [[poster pdf]](./data/documents/DI_poster.pdf) [[handout pdf]](/data/documents/DI_handout.pdf)
+
+
+### Gallery
+{{< gallery >}}

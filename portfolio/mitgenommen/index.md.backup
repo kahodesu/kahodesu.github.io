@@ -1,0 +1,42 @@
++++
+draft = false
+image = "/mitgenommen/72hrs.png"
+date = "2014-10-05T18:25:22+05:30"
+title = "Mitgenommen"
+weight = 5
+description = "Playful interactive wooden cubes made w/ a group of game designers and architects at the 72 Hour Interactions Game Jam."
+projecttype = "Group project with Caro Blaim, Elia Tomat, Eszter Némethi, George Sinclair, Ramsey Nasser, Lilli Unger, Martin Kroll, Mascha Fehse, Sandra Panzer, and Tom Clowney."
+
+# Gallery resources with captions
+resources = [
+  { src = "72hrs.png", title = "72hrs" },
+  { src = "boxes.png", title = "Boxes" },
+  { src = "boxes2.jpg", title = "Boxes2" },
+  { src = "IMG_3940.JPG", title = "Img 3940" },
+  { src = "IMG_3989.JPG", title = "Img 3989" },
+  { src = "IMG_3993.JPG", title = "Img 3993" },
+  { src = "IMG_4004.JPG", title = "Img 4004" },
+  { src = "IMG_4020.JPG", title = "Img 4020" },
+  { src = "pushbutton.gif", title = "Pushbutton" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/mitgenommen/pushbutton.gif" width="auto" width="500" caption="Crafted button using a wooden door knob, a nail, rubberbands, conductive fabric and a flip flop." >}}
+
+### Summary
+
+Designed for a hidden park tucked away in the middle of the city, we hand-made various playfully mysterious wooden boxes -- some that light up, some that move, some that make sounds -- from found materials, reclaimed wood and hacked electronics. Designed for the people who would hang out at the park, we hoped to create playful experiences and curiosity through these boxes that eventually would disappear into the space. 
+
+Mitgenommen is the public space game installation our team designed and executed at the [72 Hours Interactions Game Jam](http://www.72hourinteractions.com/) in Witten, Germany, that was organized by 72 Hour Urban Action, Invisible Playground and Urbane Künste Ruhr. Our team had 12 members who were game designers, architects, performers, engineers, and carpenters. What an lovely group of talented people!
+
+It was a total group effort, and what an amazing experience meeting people not just in our group but getting to know the town and the park where we ultimately put our boxes. This is certainly one of my favorite game jams I have ever been a part of. 
+
+### More Information
+ Project website http://betterwetter72hi.tumblr.com/
+
+### Gallery
+{{< gallery >}}
+
+

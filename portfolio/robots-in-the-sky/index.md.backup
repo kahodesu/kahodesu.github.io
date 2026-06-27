@@ -1,0 +1,38 @@
++++
+draft = false
+image = "/robotsinthesky/robotsinthesky.jpg"
+date = "2014-10-05T18:25:22+05:30"
+title = "Robots in the Sky"
+weight = 11
+description = "A video game with robots and lasers showcasing eye-tracking and brain wave reading technologies."
+projecttype = "Group project with collaborator Ramsey Nasser."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_3762.PNG", title = "Img 3762" },
+  { src = "photo_from_artdis_tumblr.png", title = "Photo From Artdis Tumblr" },
+  { src = "photo_from_techrepublic.jpg", title = "Photo From Techrepublic" },
+  { src = "robotsinthesky.jpg", title = "Robotsinthesky" },
+  { src = "screenshot1.png", title = "Screenshot1" },
+  { src = "screenshot2.png", title = "Screenshot2" },
+  { src = "title.png", title = "Title" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/robotsinthesky/robotsinthesky.jpg" width="auto" caption="Title screen." >}}
+
+### Summary
+
+Robots In The Sky is a two-player shooter game where players use their eyes to aim and shoot at virtual flying robots. Players take on the role of a defensive mech and deflect evil flying robots by looking them, causing the mech’s laser eyes to fire and shoot them out of the sky. The eyes of each player are tracked using [Tobii](http://www.tobii.com/) hardware and fed into the Unity game as the sole input. The game was comissioned by [Not Impossible](http://www.notimpossible.com/blog/2014/7/3/the-brainwriter-eeg-eye-tracking-paired-for-not-impossibles-latest-innovation) and installed at the [Barbican Digital Revolution](http://www.barbican.org.uk) show. We were responsible for the video game, and the eye tracking components only.
+
+### Exhibitions/Demos
+-	2014 "Digital Revolution", the Barbican, London, UK
+
+### Gallery
+
+{{< gallery >}}
+
+
+

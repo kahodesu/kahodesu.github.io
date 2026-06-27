@@ -1,0 +1,33 @@
++++
+draft = false
+image = "/pandemojis/pandemoji.png"
+date = "2014-08-05T18:25:22+05:30"
+title = "Pandemojis"
+weight = 5
+description = "An interactive experience designed for children to play in educational spaces, to develop the skill to talk about feelings through emojis, poses and snapshots."
+projecttype = "Group project with collaborator Chloe Veralidi."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_4113.JPG", title = "Img 4113" },
+  { src = "pandemoji.png", title = "Pandemoji" },
+  { src = "screenshot1.png", title = "Screenshot1" },
+  { src = "screenshot2.png", title = "Screenshot2" },
+]
++++
+
+# Gallery resources with captions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zfDs_UhhhA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+### Summary
+
+Pandemojis is a social classroom game using a webcam and facial recognition software that helps players to identify emotions in themselves. The player must first catch an emoji that is falling from the top of the screen onto their head. Once they are "wearing" the emoji, they are then asked to make a gesture or pose that expresses the emotion they are "wearing". Then the classroom is asked to guess the emotion. Pandemojis can represent complex emotions, and is a playful way to create discussion around emotions and expression  which may otherwise be awkward to talk about. 
+
+This game was made at the [White House Education Game Jam 2014](https://obamawhitehouse.archives.gov/blog/2014/10/06/white-house-education-game-jam) hosted by the White House Office of Science and Technology Policy.
+
+### More Information
+-	Github responsitory for game code written in Processing [[site](https://github.com/kahodesu/Pandemoji)]
+
+### Gallery
+{{< gallery >}}

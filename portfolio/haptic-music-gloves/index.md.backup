@@ -1,0 +1,43 @@
++++
+draft = false
+image = "/music-gloves/haptic.png"
+date = "2005-11-05T20:23:59+05:30"
+title = "Haptic Music Gloves"
+weight = 11
+description ="A playful sound installation that allows people to interact through  music and touch."
+projecttype= "Group project with collaborator Jung Sin."
+
+
+# Gallery resources with captions
+resources = [
+  { src = "haptic_demo.mp4", title = "Haptic Demo" },
+  { src = "haptic_demo.png", title = "Haptic Demo" },
+  { src = "haptic_test.mp4", title = "Haptic Test" },
+  { src = "haptic_test.png", title = "Haptic Test" },
+  { src = "haptic.png", title = "Haptic" },
+]
++++
+
+# Gallery resources with captions
+<video controls src="/img/portfolio/music-gloves/haptic_demo.mp4" poster="/img/portfolio/music-gloves/haptic_demo.png"></video>
+Project version shown at 2nd Beijing New Media Arts Exhibition & Symposium 2005
+Music: All 5 tracks by sound artist Jenks Whittenburg  
+
+
+### Summary
+A handshake is a common way to greet and communicate people in many social situations. It is a simple ritual that carries understanding and trust. Music is an universal language. It transcends language barriers, creating opportunities for people to communicate even if they do not understand each other’s spoken words. Utilizing these two basic elements, Haptic Music Gloves is a sound installation that creates an opportunity for people to connect simply by mixing music when their hands are linked together.
+
+An Mp3 player is housed in each “station” playing a unique sound. There are conductive pads sewn on to gloves to create a connection to mix analog audio signals. The earphones share the same signal as the gloves so the sounds can be heard mixed together when a glove touches another person’s glove.
+
+
+### Publications/Exhibitions/Demos
+
+*   2005 Chelsea Museum, NYC – 10FL Exhibition [[site]](http://chelseaartmuseum.org/projectroom/2005/10thfloor/) [[pdf]](../../portfoliodocs/10FL.pdf)
+*   2005 2nd Annual Beijing New Media Arts Exhibition and Symposium, Beijing – Exhibition [[site]](http://www.newmediabeijing.org/md2005/exhibition_display.php?section=2&link_id=18&title=Haptic+Glove+%28USA%29&artist_id=18_5) [[pdf]](../../portfoliodocs/newbeijingmedia_2005_hapticglove.pdf)
+
+### Gallery 
+
+
+<video controls src="/img/portfolio/music-gloves/haptic_test.mp4" poster="/img/portfolio/music-gloves/haptic_test.png"></video>
+Listen carefully... Jung and Rahul testing first prototype. Music: DJ Krush — Blank, Aphex Twin — Blue Calx
+

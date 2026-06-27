@@ -1,0 +1,66 @@
++++
+draft = false
+image = "/dome/dome.png"
+date = "2012-11-05T20:23:59+05:30"
+title = "Portable Projection Dome"
+weight = 5
+description = "10ft by 20 ft giant fabric projection dome made by hand using low cost, light-weight materials. "
+projecttype = "Individual project."
+
+# Gallery resources with captions
+resources = [
+  { src = "BWo-hQJCYAAWde7.jpg", title = "Bwo Hqjcyaawde7" },
+  { src = "Dome_CheriseFong.jpg", title = "Dome Cherisefong" },
+  { src = "dome.png", title = "Dome" },
+  { src = "IMG_2905.JPG", title = "Img 2905" },
+  { src = "IMG_2906.JPG", title = "Img 2906" },
+  { src = "IMG_2907.JPG", title = "Img 2907" },
+  { src = "IMG_2908.JPG", title = "Img 2908" },
+  { src = "IMG_2909.JPG", title = "Img 2909" },
+  { src = "IMG_2911.JPG", title = "Img 2911" },
+  { src = "IMG_2935.JPG", title = "Img 2935" },
+  { src = "IMG_2937.JPG", title = "Img 2937" },
+  { src = "IMG_2939.JPG", title = "Img 2939" },
+  { src = "IMG_2948.JPG", title = "Img 2948" },
+  { src = "IMG_2949.JPG", title = "Img 2949" },
+  { src = "IMG_2950.JPG", title = "Img 2950" },
+  { src = "IMG_2953.JPG", title = "Img 2953" },
+  { src = "IMG_2959.JPG", title = "Img 2959" },
+  { src = "IMG_2960.JPG", title = "Img 2960" },
+  { src = "IMG_2961.JPG", title = "Img 2961" },
+  { src = "IMG_2962.JPG", title = "Img 2962" },
+  { src = "IMG_2963.JPG", title = "Img 2963" },
+  { src = "IMG_2964.JPG", title = "Img 2964" },
+  { src = "IMG_2965.JPG", title = "Img 2965" },
+  { src = "IMG_2966.JPG", title = "Img 2966" },
+  { src = "IMG_2967.JPG", title = "Img 2967" },
+  { src = "IMG_2968.JPG", title = "Img 2968" },
+  { src = "IMG_2969.JPG", title = "Img 2969" },
+  { src = "IMG_2971.JPG", title = "Img 2971" },
+  { src = "IMG_2972.JPG", title = "Img 2972" },
+  { src = "IMG_2981.JPG", title = "Img 2981" },
+  { src = "IMG_2982.JPG", title = "Img 2982" },
+  { src = "IMG_2986.JPG", title = "Img 2986" },
+  { src = "IMG_2987.JPG", title = "Img 2987" },
+  { src = "IMG_3065.JPG", title = "Img 3065" },
+  { src = "IMG_3122.JPG", title = "Img 3122" },
+  { src = "P1010306.JPG", title = "P1010306" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/dome/Dome_CheriseFong.jpg" caption="Working on game with Jack Langerman. Photo by Cherise Fong." >}}
+
+### Summary
+
+This is a very large, hand-made, quarter-sphere projection dome that measures 10 ft. high and 20 ft. wide. It was made from a beachball pattern making spreadsheet found on the internet, which I unfortunately lost the link for. I used stretchy knit projection fabric, cotton herringbone taping, fiber glass replacement camping tent poles, upholstery thread, and some thick rope. When packed up it is surprisingly light enough for one strong person to carry. 
+
+The dome was developed in stages, before the final. The first prototype was made from paper using a mini projector. The second one was with muslin cotton fabric using bamboo sticks, build on a much smaller scale than the final version.  
+
+In order to sew this monster, I had to connect 4 folding tables together, and spent a painfully long amount of time aligning the seams before sewing. But once the panels were pinned, it was surprisingly easy to sew, especially with the right thread and needle. I used Hy-mark thread and needles normally used for upholstery on a heavy duty sewing machine. 
+
+Initially created for Hotaru, the Lightning Bug Game, the projection mapping component of the game was eventually omitted. The dome was so large and glowy under the projection that it would take away attention from the costumes. 
+
+### Gallery
+{{< gallery >}}

@@ -1,0 +1,66 @@
++++
+draft = false
+image = "/ninja-shadow-warrior/nsw.png"
+showonlyimage = true
+date = "2012-11-05T20:23:59+05:30"
+title = "Ninja Shadow Warrior"
+weight = 1
+description = "A stand alone photo arcade game which encourages multiplayer play. You are a ninja and you must your Ninja magic to hide from the enemy."
+projecttype = "Individual project."
+
+# Gallery resources with captions
+resources = [
+  { src = "IMG_0012.JPG", title = "Img 0012" },
+  { src = "IMG_0915.JPG", title = "Img 0915" },
+  { src = "IMG_1680.JPG", title = "Img 1680" },
+  { src = "IMG_1683.JPG", title = "Img 1683" },
+  { src = "IMG_1692.JPG", title = "Img 1692" },
+  { src = "IMG_1714.JPG", title = "Img 1714" },
+  { src = "IMG_1720.JPG", title = "Img 1720" },
+  { src = "IMG_1748.JPG", title = "Img 1748" },
+  { src = "IMG_1749.JPG", title = "Img 1749" },
+  { src = "IMG_2717.JPG", title = "Img 2717" },
+  { src = "IMG_2839.JPG", title = "Img 2839" },
+  { src = "IMG_2843.JPG", title = "Img 2843" },
+  { src = "IMG_2854.JPG", title = "Img 2854" },
+  { src = "nsw.jpg", title = "Nsw" },
+  { src = "nsw.png", title = "Nsw" },
+  { src = "P1000987.JPG", title = "P1000987" },
+  { src = "P1000990.JPG", title = "P1000990" },
+]
++++
+
+# Gallery resources with captions
+
+<iframe src="https://player.vimeo.com/video/51660477" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/51660477">Ninja Shadow Warrior</a> from <a href="https://vimeo.com/kahoabe">Kaho A</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+### Summary
+
+Ninja Shadow Warrior is a stand alone photo booth arcade game using the Kinect camera, computer and a hacked closet light button built into a custom game cabinet. The palace is under attack and the player must use his/her ninja magic to hide by “becoming” objects. The player must fill out the silhouette of a randomly chosen object from the ninja palace as accurately as possible. The game encourages face-to-face cooperative interaction through strategy, rather than rules, as multiple ninjas can fill out object silhouettes more accurately and thus achieve a higher score. The score achieved during a game in addition to the snapshot is posted on a website where it can be shared. http://ninjashadowwarrior-blog.tumblr.com/
+
+The code is written in Processing, uses [Shiffman’s Open Kinect Library](http://www.shiffman.net/p5/kinect/) .
+
+### Collaborations & Support
+
+Music is by [Jenks Whittenburg](http://jenksw.com ).
+This project is supported by Eyebeam Art & Technology Center and NYU-Poly Game Innovation Lab.
+
+### Publications/Exhibitions/Demos
+
+*   2013: Museum of the Moving Image, Queens, NY \[[event site](http://www.movingimage.us/visit/calendar/2013/01/12/detail/ninja-shadow-warrior-by-kaho-abe)\]
+*   2012: BAM Fisher Block Party with Babycastles, Brooklyn, NY \[[event site](http://www.bam.org/community/2012/bam-fisher-block-party)\]
+*   2012: “Joue le Jeu” show at la Gaîté Lyrique, Paris, France \[[exhibition site](http://www.gaite-lyrique.net/theme/joue-le-jeu-ete-2012)\]
+*   2012: World Science Festival at NYU-Poly \[[event site](http://worldsciencefestival.com/events/innovation_square)\]
+*   2011: Game Set Watch \[[blog site](http://www.gamesetwatch.com/2011/06/ninja_shadow_warrior_photo_boo.php)\]
+*   2010 – 2011: X-Lab at Eyebeam Art & Technology Center \[[exhibition site](http://eyebeam.org/events/x-lab)\]
+
+### More Information
+
+*   Design process blog: brainstorming, playing testing [\[](http://kahoabe.net/hitme_archive/hitme_archive.html)[blog site](http://kahoabe.net/notes/?cat=19)\]
+
+### Gallery
+
+
+{{< gallery >}}

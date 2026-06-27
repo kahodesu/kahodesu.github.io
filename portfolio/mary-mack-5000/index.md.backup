@@ -1,0 +1,88 @@
++++
+draft = false
+image = "/mm5000/MM5000.png"
+date = "2010-11-05T19:56:17+05:30"
+title = "Mary Mack 5000"
+weight = 1
+description ="A guitar-hero-like rhythm game based on the school yard clapping game, Mary Mack."
+projecttype= "Group project with collaborator Lina Fenequito."
+
+# Gallery resources with captions
+resources = [
+  { src = "5259334043_03d45e3cf2_o.jpg", title = "5259334043 03d45e3cf2 O" },
+  { src = "5259334483_72e45ab9db_o.jpg", title = "5259334483 72e45ab9db O" },
+  { src = "5259363157_ffa448af04_o.jpg", title = "5259363157 Ffa448af04 O" },
+  { src = "5259365777_2295765b1c_o.jpg", title = "5259365777 2295765b1c O" },
+  { src = "5259942846_31f3ffd072_o.jpg", title = "5259942846 31f3ffd072 O" },
+  { src = "5259947384_dc8b5a893e_b.jpg", title = "5259947384 Dc8b5a893e B" },
+  { src = "5259974080_e18b885b96_o.jpg", title = "5259974080 E18b885b96 O" },
+  { src = "5259974364_a16ffc52e8_o.jpg", title = "5259974364 A16ffc52e8 O" },
+  { src = "mm5000_arduino_board.jpg", title = "Mm5000 Arduino Board" },
+  { src = "MM5000_pic4.jpg", title = "Mm5000 Pic4" },
+  { src = "MM5000_SRNSHT2.png", title = "Mm5000 Srnsht2" },
+  { src = "MM5000_SRNSHT3.png", title = "Mm5000 Srnsht3" },
+  { src = "MM5000_vest_large.jpg", title = "Mm5000 Vest Large" },
+  { src = "MM5000_vest2_large.jpg", title = "Mm5000 Vest2 Large" },
+  { src = "MM5000_vest3_large.jpg", title = "Mm5000 Vest3 Large" },
+  { src = "MM5000_vest4_large.jpg", title = "Mm5000 Vest4 Large" },
+  { src = "MM5000.jpg", title = "Mm5000" },
+  { src = "MM5000.png", title = "Mm5000" },
+  { src = "P1000376.JPG", title = "P1000376" },
+  { src = "P1000377.JPG", title = "P1000377" },
+]
++++
+
+# Gallery resources with captions
+
+<iframe src="https://player.vimeo.com/video/21707873" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<BR><a href="https://vimeo.com/21707873">Mary Mack 5000: Everyone can play it!</a> from <a href="https://vimeo.com/kahoabe">Kaho A</a> on <a href="https://vimeo.com">Vimeo</a>.
+
+### Summary
+Mary Mack 5000 is a fast-paced, competitive, technologically enhanced twist on the classic schoolyard hand clapping game. Strap on your special MM5000 gloves and show off your speed, accuracy, and style! This is a collaborative project made with Lina Fenequito, with music from Ray Mancini and Sergey Popovich.
+
+These days, most games are played on computers and consoles, often alone or with people online. Mary Mack 5000 is an event game designed to encourage face-to-face interaction between the players. With the use of gloves with conductive contact sensors, a vest with additional contact sensors, the Arduino, Flash, laptop and projector, we hope that people will be able to enjoy themselves both by playing as well as by watching the game.
+
+We have reintroduced what is a little girl’s game that challenges rhythm, speed and timing, as a hyper, metal-rocker game. No, it is not just your little sister’s game anymore!
+
+### The Game
+One team plays at a time, and each team consists of 2 players facing each other clapping. There are 3 songs, 1 song per level, which become increasingly more challenging when cleared. The score is based on the accuracy and the timing of the claps using conductive contact sensors on gloves with additional sensors for the shoulders and thighs on a vest. Once a level is finished, a score will be presented with the opportunity to move on to the next level if the score is good enough.
+
+*   Level 1 Song: Lemonade
+*   Level 2 Song: Miss Mary Mack
+*   Level 3 Song: See See My Playmate
+
+
+
+### Technology
+Mary Mack 5000 consists of 4 gloves with conductive pads, each with an unique voltage ID. For example, Player 1’s right hand glove is about 1V, left hand 2V, Player 2’s right hand 3V and left hand 4V.* Each glove at a time takes a turn switching extremely fast between sending its unique voltage ID and reading voltage, then sending the voltage ID again. When contact is made, the Arduino microcontroller knows immediately which glove came in contact with which glove or pad. The Arduino cleans up the information and sends it to the Flash software on the computer. Flash then parses the message and compares it to a master XML sheet with a list of timestamps and correct clapping combos. Meanwhile Flash is also playing the music and presenting the correct claps as visual aid. Finally, calculating in some error, Flash then tallies a score. Game information is conveniently projected on a wall, for both players and spectators to watch. The Arduino microcontroller code for MM5000 has been released to the public and can be found [here](http://github.com/kabegit/mm5000).
+
+{{< figure src="/img/portfolio/mm5000/5259363157_ffa448af04_o.jpg" caption="Console circuit prototype before boxing." >}}
+
+### Support
+Music by Ray Mancini and Sergey Popovich. Allison Schlegel assisted in fabrication of wooden console box and ornamentation of vests. Supported by Eyebeam Art & Technology Center.
+
+### Exhibitions/Demos
+*   2011: Babycastles Presents: DADAMACHINIMA at Devotion Gallery, Brooklyn, NY \[[site](http://www.areyoudevoted.com/exhibitions/month/january-2011)\]
+*   2010: Eyebeam Holiday Mixer, New York, NY \[[site](http://eyebeam.org/events/holiday-mixer)\]
+*   2010: Hide and Seek Weekender Festival, London, England \[[site](http://www.hideandseek.net/2010/05/17/hideseek-weekender/)\]
+*   2010: Come Out and Play Festival, Brooklyn, NY \[[site](http://www.comeoutandplay.org/2010_marymack.php)\]
+
+
+### Publications
+
+*   2011: Kill Screen Magazine, Issue #3: Intimacy \[article\] \[[magazine](http://shop.killscreendaily.com/products/issue-3-intimacy)\]
+
+### More Information
+
+*   Project site \[[site](http://marymack5000.com/)\]
+
+### Gallery
+
+{{< gallery >}}
+
+
+
+
+
+
+

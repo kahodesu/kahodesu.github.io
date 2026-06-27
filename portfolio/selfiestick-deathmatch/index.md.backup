@@ -1,0 +1,59 @@
++++
+draft = false
+image = "/selfie/selfie.gif"
+date = "2017-10-05T18:25:22+05:30"
+title = "Selfiestick Deathmatch"
+weight = 2
+description = "Step into the arena..."
+projecttype = "Group project with collaborator Ramsey Nasser."
+
+# Gallery resources with captions
+resources = [
+  { src = "DSC05826.JPG", title = "Dsc05826" },
+  { src = "DSC05831.JPG", title = "Dsc05831" },
+  { src = "DSC05833.JPG", title = "Dsc05833" },
+  { src = "DSC05899.JPG", title = "Dsc05899" },
+  { src = "DSC05900.JPG", title = "Dsc05900" },
+  { src = "DSC05905.JPG", title = "Dsc05905" },
+  { src = "IMG_9822.JPG", title = "Img 9822" },
+  { src = "IMG_9834.JPG", title = "Img 9834" },
+  { src = "IMG_9836.PNG", title = "Img 9836" },
+  { src = "IMG_9851.JPG", title = "Img 9851" },
+  { src = "IMG_9852.JPG", title = "Img 9852" },
+  { src = "IMG_9857.JPG", title = "Img 9857" },
+  { src = "IMG_9858.JPG", title = "Img 9858" },
+  { src = "IMG_9862.JPG", title = "Img 9862" },
+  { src = "IMG_9896.JPG", title = "Img 9896" },
+  { src = "IMG_9953.JPG", title = "Img 9953" },
+  { src = "selfie_playtest.gif", title = "Selfie Playtest" },
+  { src = "selfie.gif", title = "Selfie" },
+  { src = "selfie.png", title = "Selfie" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/selfie/IMG_9852.JPG" caption="Judge's panel." >}}
+
+### Summary 
+Selfie Deathmatch is a two person competitive physical game where the players stand in a very small circle each holding a selfiestick loaded with a camera phone. The phones automatically take a photo on a timer, and then the photo is judged. The number of faces counted is the base score. The photos are then tweeted (https://twitter.com/selfiedm), and the number of likes and retweets adds to the base score. All selfies are viewable from an eternal leader board.
+
+This project also explores the overlap between games and theater in various ways. By using the theater lights and audio system, and integrating it into the whole game system, as the game state changed, so did the environment with it. Ramsey and I both dressed up as referees facilitating the game and adding to the performance of the game.
+
+### Technology
+The  Mini-residency at CultureHub let us combine theater lights and audio directly with out game -- which is something I have wanted to do for years, but never had the chance to. The game was coded in Javascript and communicated through wifi using Open Sound Control protocol with Qlab (https://figure53.com/qlab/) which is an application that sets up and triggers sequences of theater lights and audio. 
+
+With this theater space set up, we were able to utilize the quadrophonic speaker setup to  create immersive sounds of cheering and effects, which really added to the feel of an event/performance game. The theater lights were used as a room-wide flash when taking selfies and also acted as a dramatic effect when announcing the winners. 
+
+We also used BLU selfie phones with selfie sticks that seemed to be shorter and therefore less chance to break. 
+
+Oh yah, and a fog machine was used for ambiance!
+
+### Support 
+This project is supported by CulturHub's Mini Residency 2017. Thank you to Eric Zimmerman for playtesting with us during the development of the game and for his invaluable advice.
+
+### Exhibitions/Demos
+- 2017 CultureHub Fall Kick-off Event (http://www.culturehub.org/events/2017/9/22/season-kickoff)
+
+### Gallery
+{{< gallery >}}

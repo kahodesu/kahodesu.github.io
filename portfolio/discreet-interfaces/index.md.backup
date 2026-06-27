@@ -1,0 +1,36 @@
++++
+draft = false
+image = "/discreet-interfaces/discreetinterfaces.png"
+date = "2005-11-05T20:23:59+05:30"
+title = "Discreet Interfaces"
+weight = 5
+description ="A solution for embedding technology into our everyday clothing."
+projecttype= "Individual project."
+
+# Gallery resources with captions
+resources = [
+  { src = "discreetinterfaces.png", title = "Discreetinterfaces" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/discreet-interfaces/discreetinterfaces.png" width="500" caption="Photo by Kate Kunath, taken at the 2005 MIT Seamless Fashion Show." >}}
+
+### Summary
+
+It is often taken for granted that our clothing serves a crucial connection to the world around us. Our clothing is rich in subtle messages; about who we are, who we want to be, and our roles in society. Discreet Interfaces enables the wearer to carry and utilize the technology without compromising any of these messages. Its discreetness, derived from visual familiarity, allows flexibility of style while allowing added portability and accessibility of the embedded technology.
+
+The Discreet Interfaces Jacket is a prototype of what Discreet Interfaces maybe like on a full garment. The style of the jacket is intentionally boring, as the point is to show that with Discreet Interfaces, technology can be integrated into even the most basic style of clothing.
+
+Discreet Interfaces is my Master of Fine Art's thesis in Design and Technology at Parsons, the NewSchool for Design. 
+
+
+### Awards/Publications/Exhibitions/Demo
+
+*   ID Magazine [[pdf]](/data/documents/IDMagazine.pdf)
+*   2005, MIT Seamless Fashion Show [[site]](http://seamless.sigtronica.org/2005)
+*   2005 International Symposium of Wearable Technology (ISWC) poster demo [[poster pdf]](./data/documents/DI_poster.pdf) [[handout pdf]](/data/documents/DI_handout.pdf)
+*   Asahi Shimbun (article in Japanese) [[pdf]](/data/documents/ISWC05_Asahi_20051116.pdf)
+*   Cool Hunting [[pdf]](/data/documents/CoolHunting_%20DT.pdf) [[site]](http://www.coolhunting.com/archives/2005/05/dt_saved_my_sou.php)
+*   2005, Annual Parsons Design & Technology Thesis Show, Aronson Gallery, Parsons Newschool for Design

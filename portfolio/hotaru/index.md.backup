@@ -1,0 +1,93 @@
++++
+showonlyimage = true
+draft = false
+image = "/hotaru/hotaru2.png"
+date = "2016-10-05T18:25:22+05:30"
+title = "Hotaru"
+weight = 1
+description ="Hotaru is a shooting game about holding hands. My first project that truly explores Costumes as Game Controllers -- the intersection of wearable tech and games."
+projecttype= "Individual Project."
+
+# Gallery resources with captions
+resources = [
+  { src = "hotaru.jpg", title = "Hotaru" },
+  { src = "hotaru2.png", title = "Hotaru2" },
+  { src = "IMG_2262.JPG", title = "Img 2262" },
+  { src = "IMG_3272.mp4", title = "Img 3272" },
+  { src = "IMG_3301.mp4", title = "Img 3301" },
+  { src = "IMG_4154.JPG", title = "Img 4154" },
+  { src = "IMG_4229.JPG", title = "Img 4229" },
+  { src = "IMG_4231.JPG", title = "Img 4231" },
+  { src = "IMG_4715 2.JPG", title = "Img 4715 2" },
+  { src = "IMG_4801 2.JPG", title = "Img 4801 2" },
+  { src = "IMG_5089.JPG", title = "Img 5089" },
+  { src = "IMG_5091.JPG", title = "Img 5091" },
+  { src = "IMG_5588.JPG", title = "Img 5588" },
+  { src = "IMG_5589 2.JPG", title = "Img 5589 2" },
+  { src = "IMG_5673.JPG", title = "Img 5673" },
+  { src = "IMG_5674 2.JPG", title = "Img 5674 2" },
+  { src = "IMG_5676.JPG", title = "Img 5676" },
+  { src = "IMG_5679 2.JPG", title = "Img 5679 2" },
+  { src = "IMG_5680.JPG", title = "Img 5680" },
+  { src = "IMG_5681.JPG", title = "Img 5681" },
+  { src = "IMG_5683 2.JPG", title = "Img 5683 2" },
+  { src = "IMG_5698.JPG", title = "Img 5698" },
+  { src = "IMG_6943.JPG", title = "Img 6943" },
+  { src = "IMG_6984.JPG", title = "Img 6984" },
+]
++++
+
+# Gallery resources with captions
+
+{{< figure src="/img/portfolio/hotaru/hotaru.jpg" class="img-responsive" caption="By Martin Christopher Welker for Invisible Playground at Playpublik Festival Krakow 2014, Flickr, licensed under CC BY-NC-SA 2.0" >}}
+
+### Summary
+
+Hotaru is a 2-person cooperative task-based game, where the players play the role of the last remaining lightning bugs in a fantastical world, in their last stand against an invisible enemy. One player creates lightning, accumulating it in a tank, through gestures. Once the tank is full, then transfers the lightning to the other player by holding hands. The other player, collecting the lightning in their gauntlet, can then shoot the lightning. The game is ultimately about playing a role, and the movement of the body -- poses and gestures -- and about cooperation. 
+
+### Costumes as Game Controllers
+
+Often times in video games, we play the game through the avatar on our screen, and the relationship between us and the avatar can be a powerful one. But when the player dresses up as the avatar, it can allow the player to play the role of the avatar. And when we embed the costumes with sensors that track the player's movements, then the player can also act and move like the avatar. Additionally, from the spectator's point of view, the game becomes a performance, and we can say the players the the performers. 
+
+<iframe src="https://player.vimeo.com/video/141234735" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/141234735">HOTARU at Eyebeam Making Patterns Show (2015)</a> from <a href="https://vimeo.com/kahoabe">Kaho A</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+### Iterations
+
+This game has gone through many iterations, which has been both a challenging and at times an incredibly frustrating experience. I foolishly added too many moving parts to the original idea, but at the end, the game was simplified. It is now in a place where I feel satisfied about it in its intended form. But I think it's important to point out the various forms it has taken and the technologies that were tested and used throughout the experience. 
+
+The first iteration included a large projection dome and a laser tracking system for aiming and shooting from the gauntlet. I learned a tremendous amount from building and showing the dome in terms of spectacle and focus, which is documented here. But at the end, I realized that instead of the dome defining the perimeter of the game space, its large and glowy existence took away from focus on the costumes. The computer vision and laser system, also created more technical layers that were unnecessary. I then returned to my original concept to create a shooting game about holding hands, and reimagined the game about physical poses and interactions between the players. 
+
+As the concept was simplified, so was the hardware. I experimented using Android phones in conjunction with the IOIO board, making Android apps for each costume. While using the phones and taking advantage of their functionalities, including wireless communication and embedded sensors like accelerometers, the x-OSC board simplified the tech for the costumes greatly. x-OSC board had built in sensors and wireless communications, but since it sends and receives data consistently, I only had to write one game app that was on my laptop, instead of 3 with the former configuration. 
+
+The original version used white LED's soldered into series, but the latest iteration uses Neopixels, individually addressable RGB LED's. When I got rid of the dome, there was no longer a screen or monitor to show data to the players. But with Neopixels, I believe that I can create visuals that are just as communicative. It allowed me to experiment with various visual patterns and colors to express that state of the game. 
+
+### Collaborations & Support
+
+Jack Langerman assisted with the projection mapping on the dome as well as the computer vision laser system in the original iteration. I also worked with Katherine Isbister in her HCI research using Hotaru. 
+
+This project has been supported by: Eyebeam Computational Fashion Fellowship 2012 and the NYU Game Innovation Lab. 
+
+### Honors/Awards
+-   2015 Indiecade Official Selection [[site](http://www.indiecade.com/2015/games)]
+
+### Exhibitions/Demos
+
+-   2016 Incubate Festival in Tillberg, Netherlands curated by Zuraida Buther [[site](http://www.zo-ii.com/event/incubate-arcade-2016/)]
+-	2016 Indiecade East Showcase: Strange Arcade at the Museum of the Moving Image, NYC [[site](http://www.movingimage.us/exhibitions/2016/04/29/detail/indiecade-east-2016-game-showcase-strange-arcade-2/)]
+-	2016 Games4Change Games & Media Summit at the Tribeca Film Festival, NYC [[site](https://tribecafilm.com/festival/gamesforchange)]
+-   2015 Indiecade Night Games, Culver City, CA [[site](http://www.indiecade.com/2015/games)]
+-   2015 Hotaru Prototype #2 Playtesting at Eyebeam, NYC  [[site](http://www.eyebeam.org/events/hotaru-prototype-2-playtesting-with-kaho-abe/)]
+-   2015 Making Patterns show at Eyebeam, NYC, curated by Erica Kermani [[site](http://www.eyebeam.org/events/making-patterns/)]
+-   2014 Playpublik in Krakow, Poland, curated by Invisible Playground [[site](http://www.playpublik.pl/admin/events/hotaru-the-lightning-bug-game?locale=en)]
+
+### Publications
+- 	September 9, 2015, Hyperallergic, "Wearable Tech that Fits Like a Glove"
+[[site](https://www.newscientist.com/article/dn27987-making-patterns-getting-intimate-with-technology/)]
+- 	August 2, 2015, New Scientist, "Making Patterns: getting intimate with technology"
+[[site](https://www.newscientist.com/article/dn27987-making-patterns-getting-intimate-with-technology/)]
+
+
+### Gallery
+
+{{< gallery >}}
