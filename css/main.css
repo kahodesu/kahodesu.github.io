@@ -839,6 +839,23 @@ figure.figure-center figcaption {
   font-weight: 300;
 }
 
+/* Teaching page content wrapper — constrains text and floated images to same column */
+.teaching-wrap {
+  width: 90%;
+  max-width: var(--content-width);
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.teaching-wrap p,
+.teaching-wrap ul,
+.teaching-wrap ol {
+  width: 100%;
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 /* Wrapped images - 40% width (from image-left/image-right shortcodes) */
 figure.image-wrap {
   width: 40%;
