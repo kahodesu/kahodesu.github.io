@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Kaho Abe's Website</title><link>http://kahoabe.net/blog/</link><description>Recent content in Blog on Kaho Abe's Website</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 09:00:00 -0700</lastBuildDate><atom:link href="http://kahoabe.net/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>My newer post</title><link>http://kahoabe.net/blog/002-generic-blog-postmaybe/</link><pubDate>Sat, 16 Mar 2024 09:00:00 -0700</pubDate><guid>http://kahoabe.net/blog/002-generic-blog-postmaybe/</guid><description>&lt;p>It's been a learning process and one thing is for sure: web development is nothing like the late 90's and 2000's when it was simple and straightforward. Now there are so many tools and libraries that supposedly help&lt;/p></description></item><item><title>My First Post</title><link>http://kahoabe.net/blog/001-generic-blog-post/</link><pubDate>Wed, 21 Feb 2018 09:00:00 -0700</pubDate><guid>http://kahoabe.net/blog/001-generic-blog-post/</guid><description>&lt;p>I've finally finished my new website! I'd be lying if I said that building this website has been easy for me. I've spent about a year trying out new tools, restarting, re-designing over and over again. I've finally arrived at this website that uses Bootstrap and Hugo. My last website was built with Word Press which is annoying to maintain, and the hackability ultimately turned me off to it.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kaho Abe&#39;s Website</title>
+    <link>http://kahoabe.net/blog/</link>
+    <description>Recent content in Blog on Kaho Abe&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2024 09:00:00 -0700</lastBuildDate>
+    <atom:link href="http://kahoabe.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My newer post</title>
+      <link>http://kahoabe.net/blog/002-generic-blog-postmaybe/</link>
+      <pubDate>Sat, 16 Mar 2024 09:00:00 -0700</pubDate>
+      <guid>http://kahoabe.net/blog/002-generic-blog-postmaybe/</guid>
+      <description>&lt;p&gt;It&#39;s been a learning process and one thing is for sure: web development is nothing like the late 90&#39;s and 2000&#39;s when it was simple and straightforward. Now there are so many tools and libraries that supposedly help&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://kahoabe.net/blog/001-generic-blog-post/</link>
+      <pubDate>Wed, 21 Feb 2018 09:00:00 -0700</pubDate>
+      <guid>http://kahoabe.net/blog/001-generic-blog-post/</guid>
+      <description>&lt;p&gt;I&#39;ve finally finished my new website! I&#39;d be lying if I said that building this website has been easy for me. I&#39;ve spent about a year trying out new tools, restarting, re-designing over and over again. I&#39;ve finally arrived at this website that uses Bootstrap and Hugo. My last website was built with Word Press which is annoying to maintain, and the hackability ultimately turned me off to it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
